@@ -1,0 +1,167 @@
+28303019|*Optogenetics|C3494301|613216|MH|RtM via: Optogenetics;Forced Leaf Node Lookup:optogenetics|TI;AB|MM;RC|711^11^0;363^12^0;120^12^0;36^12^0;520^12^0
+28303019|*Neuroscience|C0027910|291822|ET|Entry Term Replacement for "Neurosciences";RtM via: Neuroscience discipline|TI|MM;RC|93^12^0
+28303019|Opsin|C2355587|41470|ET|Entry Term Replacement for "Opsins";RtM via: Opsins|AB|MM;RC|410^5^0
+28303019|Brain|C0006104|5439|MH|RtM via: Brain|AB|MM;RC|896^5^0
+28303019|Rod Opsins|C0069580|990|MH|RtM via: Rod Opsins|AB|MM|410^5^0
+
+29096079|*Neurons|C0027882|418224|MH|RtM via: Neurons;RtM via: neuronal;Forced Non-Leaf Node Lookup:neurons|TI;AB|MM;RC|753^7^0;699^6^0;436^7^0;102^7^0;52^7^0;347^8^0
+29096079|*Signal Transduction|C0037083|182733|MH|RtM via: Signal Transduction;RtM via: neuronal signal transduction|TI;AB|MM;RC|423^9^0;39^9^0;196^18^0
+29096079|*Neuroscience|C0027910|162132|ET|Entry Term Replacement for "Neurosciences";RtM via: Neuroscience discipline|TI|MM;RC|82^12^0
+29096079|Organelle|C0029219|16364|ET|Entry Term Replacement for "Organelles";RtM via: Organelles;RtM via: Cytoplasmic organelle|AB|MM;RC|581^9^0
+29096079|Protein Transport|C0599895|7641|MH|RtM via: trafficking|AB|MM;RC|564^11^0
+29096079|*Biological Processes|C3714634|1833|ET|Entry Term Replacement for "Biological Phenomena";RtM via: biological signaling;RtM via: Biological Processes;Forced Non-Leaf Node Lookup:biological processes|TI;AB|MM|423^9^0;39^9^0;496^20^0
+
+29432512|Psychoanalysis|C0033884|245516|MH|RtM via: Psychoanalytic psychiatry|AB|MM;RC|1435^14^0;1006^14^0;377^14^0
+29432512|Psychoanalytic Theory|C0033886|228135|MH|RtM via: Psychoanalytic Theory|AB|MM;RC|137^21^0
+29432512|*Emotions|C0013987|56655|MH|RtM via: Emotions;Forced Non-Leaf Node Lookup:emotions|TI;AB|MM;RC|1289^9^0;1036^9^0;886^9^0;593^9^0;42^8^0
+29432512|Psychoanalytic Therapy|C0033887|54194|MH|||RC
+29432512|Neuroscience|C0027910|53216|ET|Entry Term Replacement for "Neurosciences";RtM via: Neuroscience discipline|AB|MM;RC|771^12^0;360^12^0
+29432512|Neurobiology|C0027817|9054|MH|RtM via: Neurobiology|AB|MM;RC|934^12^0
+29432512|Memory|C0025260|5721|MH|RtM via: Memory;RtM via: Memory observations|AB|MM;RC|544^6^0
+29432512|Empathy|C0013989|5282|MH|RtM via: Empathy|AB|MM;RC|560^7^0
+29432512|Motivations|C0026605|4197|ET|Entry Term Replacement for "Motivation";RtM via: Motivation|AB|MM;RC|1303^12^0;1120^12^0;603^12^0
+
+29460160|Humans|C0086418|366576|CT|Forced Leaf Node Lookup:humans;CT Text Lookup: human;CT Text Lookup: patient|TI;AB|MM;RC|31^5^0;157^5^0;203^5^0;301^5^0;1064^5^0;1387^7^0
+29460160|Human Experimentation|C0020123|365576|MH|RtM via: Human Experimentation|AB|MM;RC|378^21^0
+29460160|Nazi|C0949876|93461|ET|Entry Term Replacement for "National Socialism";RtM via: Nazis|AB|MM;RC|973^4^0;803^4^0
+29460160|Informed Consent|C0021430|91683|MH|RtM via: Informed Consent|AB|MM;RC|1166^16^0
+29460160|Ethics, Medical|C0015004|48289|MH|||RC
+29460160|*Neuroscience|C0027910|31440|ET|Entry Term Replacement for "Neurosciences";RtM via: Neuroscience discipline|TI;AB|MM;RC|691^12^0;483^12^0;62^12^0
+29460160|Morals|C0026532|7434|MH|RtM via: Morality|AB|MM;RC|1041^7^0;669^7^0;356^7^0
+
+29924477|Humans|C0086418|577612|CT|CT Text Lookup: human;CT Text Lookup: humans;CT Text Lookup: patient;CT Text Lookup: patients|AB|MM;RC|242^6^0;1328^8^0
+29924477|Animals|C0003062|577612|CT|CT Text Lookup: primate|AB|MM;RC|223^8^0
+29924477|*Neuroscience|C0027910|576612|ET|Entry Term Replacement for "Neurosciences";RtM via: Neuroscience discipline|TI;AB|MM;RC|398^12^0;28^12^0
+29924477|Brain Mapping|C0006117|125476|MH|||RC
+29924477|Brain|C0006104|103817|MH|RtM via: Brain|AB|MM;RC|932^5^0;838^5^0
+29924477|Functions, Cognitive|C0009240|26986|ET|Entry Term Replacement for "Cognition";RtM via: Cognition;RtM via: Cognitive functions|AB|MM;RC|569^19^0
+29924477|Cerebral Cortex|C0007776|14199|MH|RtM via: Cerebral cortex|AB|MM;RC|773^8^0;204^15^0
+29924477|Electrical Stimulation|C0013786|8859|ET|Entry Term Replacement for "Electric Stimulation";RtM via: Electric stimulation technique|AB|MM;RC|1258^22^0
+
+29766913|Humans|C0086418|173338|CT|CT Text Lookup: patient;CT Text Lookup: patients|AB|MM;RC|1433^8^0
+29766913|*Telemedicine|C0162648|172338|MH|RtM via: Telemedicine;Forced Non-Leaf Node Lookup:telemedicine|TI;AB|MM;RC|1169^12^0;1052^12^0;899^12^0;21^12^0;1269^12^0
+29766913|*Neurosciences|C0027910|61356|MH|RtM via: Neuroscience discipline;Forced Non-Leaf Node Lookup:neurosciences|TI;AB|MM;RC|1217^13^0;1096^13^0;844^13^0;38^13^0
+29766913|Videoconferencing|C1450048|21748|MH|RtM via: videoconferencing communications|AB|MM;RC|510^18^0
+29766913|Delivery, Healthcare|C0011211|10824|ET|Entry Term Replacement for "Delivery of Health Care";RtM via: Delivery of Health Care;RtM via: Health Care Systems|AB|MM;RC|971^19^0;991^6^1
+29766913|India|C0021201|5|MH|RtM via: India|AB|MM|1185^5^0;150^5^0
+
+29110344|*Brain|C0006104|290142|MH|RtM via: Brain;Forced Non-Leaf Node Lookup:brain|TI;AB|MM;RC|1233^5^0;531^5^0;135^5^0;53^5^0;735^5^0
+29110344|*Energy Metabolism|C0014272|171273|MH|RtM via: Energy Metabolism;RtM via: Bioenergetics;Forced Non-Leaf Node Lookup:energy metabolisms|TI;AB|MM;RC|1239^17^0;619^17^0;141^17^0;59^17^0;1046^13^0
+29110344|Neuroscience|C0027910|151661|ET|Entry Term Replacement for "Neurosciences";RtM via: Neuroscience discipline|AB|MM;RC|84^12^0
+29110344|*Neurochemistry|C0027820|47295|MH|RtM via: brain metabolism|TI;AB|MM|1233^5^1;1246^10^1;135^5^1;148^10^1;53^5^1;66^10^1
+29110344|Neurons|C0027882|23440|MH|RtM via: Neurons|AB|MM;RC|437^7^0
+29110344|Cells, Glial|C0027836|20203|ET|Entry Term Replacement for "Neuroglia";RtM via: Neuroglia|AB|MM;RC|446^11^0
+29110344|Neurology|C0027855|12328|MH|RtM via: Neurology speciality|AB|MM;RC|1121^9^0
+29110344|Molecular Biology|C0026376|6866|MH|RtM via: Molecular Biology|AB|MM;RC|1079^17^0
+
+29096071|*Neuroscience|C0027910|904926|ET|Entry Term Replacement for "Neurosciences";RtM via: Neuroscience discipline|TI;AB|MM;RC|662^12^0;60^12^0;31^12^0
+29096071|Brain|C0006104|75939|MH|RtM via: Brain|AB|MM;RC|486^5^0;329^5^0;176^5^0;133^5^0
+29096071|Neuronal Plasticity|C0027880|71548|MH|||RC
+
+29121942|Humans|C0086418|131256|CT|CT Text Lookup: human;CT Text Lookup: individuals|AB|MM;RC|655^5^0;245^11^0
+29121942|*Brain-Computer Interfaces|C3494288|130256|MH|Forced Leaf Node Lookup:brain computer interfaces;Forced Leaf Node Lookup:brain-computer interfaces;Forced Leaf Node Lookup:bci|TI;AB|MM;RC|40^25^0;91^24^0;117^3^0;195^3^0;492^3^0;643^3^0
+29121942|Communication Aids for Disabled|C0009453|79876|MH|||RC
+29121942|Electroencephalography|C0013819|32631|MH|||RC
+29121942|User-Computer Interface|C0042117|21306|MH|||RC
+29121942|Brain|C0006104|7288|MH|RtM via: Brain|AB|MM;RC|661^6^0
+29121942|Amyotrophic Lateral Sclerosis|C0002736|3336|MH|RtM via: Amyotrophic Lateral Sclerosis|AB|MM;RC|316^29^0
+
+27634721|Reproducibility of Results|C0035149|25072|MH|Forced Lookup:reliability|AB|MM;RC|243^11^0
+27634721|Neurosciences|C0027910|158787|MH|RtM via: Neuroscience discipline|AB|MM;RC|1195^13^0;101^13^0
+27634721|Neuroimaging|C0679575|103256|MH|RtM via: Brain scan;RtM via: Imaging of brain|AB|MM;RC|794^11^0;434^11^0;303^13^0
+27634721|Morals|C0026532|49652|MH|RtM via: Morality;RtM via: Morals|AB|MM;RC|1244^5^0
+27634721|Brain|C0006104|36507|MH|RtM via: Brain|AB|MM;RC|698^5^0;303^5^0
+27634721|Criminal Law|C0010328|31585|MH|||RC
+27634721|Crime|C0010325|16556|MH|||RC
+27634721|Intentions|C0162425|13527|ET|Entry Term Replacement for "Intention";RtM via: Intention - mental process|AB|MM;RC|1016^10^0
+27634721|*Social Behavior|C0037397|11133|MH|RtM via: Responsibility|TI;AB|MM|1379^14^0;1097^14^0;34^14^0
+27634721|Social Responsibility|C0037433|10973|MH|||RC
+
+30980031|Animals|C0003062|352967|CT|CT Text Lookup: mouse|AB|MM;RC|988^5^0
+30980031|Mice|C0026809|352967|CT|CT Text Lookup: mouse|AB|MM;RC|988^5^0
+30980031|Humans|C0086418|352967|CT|CT Text Lookup: student|AB|MM;RC|1167^7^0
+30980031|*Silicon|C0037107|351967|MH|RtM via: Silicon;Forced Leaf Node Lookup:silicon;checkForceMH Boosted|TI;AB|MM;RC|642^2^0;375^7^0;61^7^0
+30980031|Action Potentials|C0001272|49465|MH|||RC
+30980031|Neurosciences|C0027910|29950|MH|||RC
+30980031|Neurons|C0027882|29207|MH|||RC
+30980031|Nanotechnology|C0872323|24906|MH|||RC
+30980031|Brain|C0006104|9935|MH|||RC
+
+30731065|*Neuroscience|C0027910|412815|ET|Entry Term Replacement for "Neurosciences";RtM via: Neuroscience discipline;Forced Non-Leaf Node Lookup:neuroethics|TI|MM;RC|75^12^0;59^11^0;290^11^0
+30731065|*Brain|C0006104|56082|MH|RtM via: Brain;Forced Non-Leaf Node Lookup:brain|TI;AB|MM;RC|377^5^0;166^5^0;103^5^0;279^5^0;29^5^0
+30731065|*Drive|C0013126|1200|MH|RtM via: Initiative|TI;AB|MM|173^10^0;35^10^0
+30731065|Electric Power Supplies|C0032865|0|MH|RtM via: Transformers|AB|MM|244^9^0
+
+31260438|Humans|C0086418|549193|CT|Forced Leaf Node Lookup:humans;CT Text Lookup: human|TI;AB|MM;RC|25^5^0;142^5^0;247^5^0
+31260438|*Neuroscience|C0027910|548193|ET|Entry Term Replacement for "Neurosciences";RtM via: Neuroscience discipline|TI;AB|MM;RC|276^12^0;61^12^0
+31260438|*Brain|C0006104|207318|MH|RtM via: Brain;Forced Non-Leaf Node Lookup:brain|TI;AB|MM;RC|656^3^0;751^5^0;355^3^0;401^5^0;148^5^0;253^5^0;31^5^0;103^5^0;462^5^0;606^5^0
+31260438|Brain Mapping|C0006117|98201|MH|||RC
+31260438|Image Processing, Computer-Assisted|C0020911|42470|MH|||RC
+31260438|Medical Informatics|C0025088|12651|MH|||RC
+31260438|*Technology|C0039421|2646|MH|RtM via: Technology|TI;AB|MM|515^10^0;317^10^0;118^12^0
+
+27637950|Humans|C0086418|900826|CT|Forced Lookup:general population;CT Text Lookup: human|AB|MM;RC|339^18^0;121^5^0
+27637950|*Neuroscience|C0027910|899826|ET|Entry Term Replacement for "Neurosciences";RtM via: Neuroscience discipline|TI;AB|MM;RC|566^12^0;63^12^0;32^12^0
+27637950|Brain|C0006104|66054|MH|RtM via: Brain|AB|MM;RC|494^5^0;127^5^0
+
+28250055|HCRT protein, human|C1527908|1862604|NM|RtM via: HCRT protein, human|TI|MM|33^10^0;44^6^0
+28250055|*Orexins|C1113688|1862603|MH|RtM via: orexins;RtM via: HCRT protein, human;Forced Leaf Node Lookup:hypocretins;Forced Leaf Node Lookup:orexins|TI;AB|MM;RC|257^11^0;272^7^0;33^10^0;44^6^0
+28250055|Neuropeptides|C0027895|382518|MH|RtM via: Neuropeptides|AB|MM;RC|218^13^0
+28250055|*Neurons|C0027882|153840|MH|RtM via: neuronal|TI|MM;RC|51^8^0
+28250055|Wakefulness|C0043012|75747|MH|||RC
+28250055|Intracellular Signaling Peptides and Proteins|C1449791|65190|MH|||RC
+28250055|Hypothalamus|C0020663|26980|MH|RtM via: Hypothalamic structure|AB|MM;RC|205^12^0
+
+29547172|Humans|C0086418|1307923|CT|CT Text Lookup: patient|AB|MM;RC|278^7^0
+29547172|United States|C0041703|1307923|CT|USA Lookup:National Institute of Mental Health;National Institute of Mental Health;CT Treecode Lookup: I01.409.418.750 (National Institute of Mental Health);National Institute of Mental Health;CT Treecode Lookup: N03.540.348.500.500 (National Institute of Mental Health)||MM;RC
+29547172|India|C0021201|0|MH|RtM via: India;Geo Lookup:karnatakas|TI;AB|MM|867^5^0
+29547172|*Neurology|C0027855|1306923|MH|RtM via: Neurology speciality;Forced Non-Leaf Node Lookup:neurology|TI;AB|MM;RC|1039^9^0;568^9^0;108^9^0;36^9^0
+29547172|Neurosciences|C0027910|233014|MH|RtM via: Neuroscience discipline|AB|MM;RC|159^13^0
+29547172|Nervous System Diseases|C0027765|142834|MH|RtM via: nervous system disorder|AB|MM;RC|1071^19^0
+29547172|Academies and Institutes|C0000877|42300|MH|RtM via: Institutes|AB|MM;RC|718^9^0
+29547172|Societies, Medical|C0037459|12324|MH|||RC
+29547172|National Institute of Mental Health|C0027466|1048|ET|Entry Term Replacement for "National Institute of Mental Health (U.S.)";RtM via: National Institute of Mental Health (U.S.)|AB|MM|119^35^0
+29547172|Faculty|C0015535|171|MH|RtM via: Faculty|AB|MM|674^7^0;344^7^0
+29547172|Government|C0018104|113|MH|RtM via: Government|AB|MM|853^10^0
+
+30720413|Humans|C0086418|1000|CT|Forced Humans: Sister||MM
+30720413|Neuroscience|C0027910|71380|ET|Entry Term Replacement for "Neurosciences";RtM via: Neuroscience discipline;Forced Non-Leaf Node Lookup:neuroethics|AB|MM;RC|706^12^0;234^12^0;34^11^0;185^11^0;431^11^0;1069^11^0
+30720413|Bioethical Issues|C0005488|33347|MH|||RC
+30720413|Technology|C0039421|1866|MH|RtM via: Technology|AB|MM;RC|803^12^0;370^13^0
+30720413|Brain|C0006104|784|MH|RtM via: Brain|AB|MM;RC|785^5^0;409^5^0
+30720413|Confusion|C0009676|163|MH|RtM via: Confusion;RtM via: Clouded consciousness|AB|MM|1128^9^0
+30720413|Recognition, Psychology|C0524637|51|MH|RtM via: Recognition, Psychology|AB|MM|553^11^0
+30720413|Sister|C0337514|32|ET|Entry Term Replacement for "Siblings";RtM via: Sister|AB|MM|169^6^0
+30720413|Organizations|C0029246|8|MH|RtM via: Utilities (organization)|AB|MM|542^7^0
+30720413|Charges|C0007961|2|ET|Entry Term Replacement for "Fees and Charges";RtM via: charge amounts|AB|MM|1092^7^0
+30720413|Reconstructive Surgical Procedures|C0524865|0|MH|RtM via: Surgical reduction|AB|MM|1103^12^0
+30720413|Rubiaceae|C0524885|0|MH|RtM via: Adina|AB|MM|200^5^0
+
+28552516|Animals|C0003062|109384|CT|Behavior, Animal;CT Treecode Lookup: F01.145.113 (Behavior, Animal)||RC
+28552516|*Neuroscience|C0027910|108384|ET|Entry Term Replacement for "Neurosciences";RtM via: Neuroscience discipline|TI;AB|MM;RC|151^12^0;64^12^0
+28552516|Behavioral Research|C0004939|67051|MH|||RC
+28552516|Behavior, Animal|C0004935|24380|MH|||RC
+28552516|*Bioassays|C0005507|13533|ET|Entry Term Replacement for "Biological Assay";RtM via: Biological Assay;Forced Non-Leaf Node Lookup:bioassays|TI;AB|MM;RC|100^8^0;51^9^0
+
+29316506|Humans|C0086418|310013|CT|CT Text Lookup: human|AB|MM;RC|1150^5^0
+29316506|Animals|C0003062|310013|CT|RtM via: Mus;CT Text Lookup: mouse;CT Text Lookup: primate|AB|MM;RC|1139^5^0;1156^7^0
+29316506|Mice|C0026809|310013|CT|RtM via: Mus;CT Text Lookup: mouse|AB|MM;RC|1139^5^0
+29316506|*Neuroscience|C0027910|121977|ET|Entry Term Replacement for "Neurosciences";RtM via: Neuroscience discipline|TI;AB|MM;RC|97^12^0;59^12^0
+29316506|Microscopy, Fluorescence|C0026022|29422|MH|||RC
+29316506|Microscopy, Confocal|C0242842|20191|MH|||RC
+29316506|Synapses|C0039062|16043|MH|RtM via: Synapses|AB|MM;RC|1056^8^0
+29316506|Neurons|C0027882|10614|MH|RtM via: Neurons|AB|MM;RC|315^7^0
+29316506|Specimen Handling|C0037793|4380|MH|RtM via: Specimen preservation|AB|MM;RC|556^9^1;572^9^1
+29316506|Brain|C0006104|4025|MH|RtM via: Brain|AB|MM;RC|566^5^0
+29316506|Polymer|C0032521|3611|ET|Entry Term Replacement for "Polymers";RtM via: Polymers|AB|MM;RC|779^7^0;616^7^0
+
+29733893|Humans|C0086418|164665|CT|CT Text Lookup: human;CT Text Lookup: patient;CT Text Lookup: patients;CT Text Lookup: volunteer;CT Text Lookup: volunteers|AB|MM;RC|340^5^0;545^8^0;530^10^0
+29733893|Animals|C0003062|164665|CT|Animal Experimentation;CT Treecode Lookup: E05.017 (Animal Experimentation);Animal Welfare;CT Treecode Lookup: I01.880.604.100 (Animal Welfare);Animal Testing Alternatives;CT Treecode Lookup: E05.017 (Animal Testing Alternatives);Primates;CT Treecode Lookup: B01.050.150.900.649.313.988 (Primates);CT Text Lookup: primate|TI|MM;RC|82^8^0
+29733893|*Neuroscience|C0027910|163665|ET|Entry Term Replacement for "Neurosciences";RtM via: Neuroscience discipline|TI;AB|MM;RC|125^12^0;41^12^0
+29733893|Animal Experimentation|C0003048|108514|MH|||RC
+29733893|Animal Welfare|C0003061|45799|MH|||RC
+29733893|Animal Testing Alternatives|C0003059|33076|MH|||RC
+29733893|Research Methodology|C0086912|30394|ET|Entry Term Replacement for "Research Design";RtM via: Research Methodology|AB|MM;RC|891^20^0
+29733893|Primates|C0033147|28916|MH|Forced Non-Leaf Node Lookup:primates||MM;RC|82^8^0;162^8^0
+29733893|Biomedical Research|C0005540|22932|MH|||RC
+29733893|Researchers|C0035173|836|ET|Entry Term Replacement for "Research Personnel";RtM via: Research Personnel|AB|MM|850^11^0;708^11^0

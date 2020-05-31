@@ -1,0 +1,153 @@
+22930834|Software|C0037585|165460|MH|RtM via: Computer software|AB|MM;RC|331^8^0;119^8^0
+22930834|Image Processing, Computer-Assisted|C0020911|112405|MH|||RC
+22930834|Brain|C0006104|15456|MH|||RC
+29727584|Metabolomics|C1328813|85682|MH|||RC
+29727584|Genomics|C0887950|78116|MH|||RC
+29727584|Proteomics|C0872252|70871|MH|||RC
+29727584|Systems Biology|C1450477|34300|MH|||RC
+29727584|Single-Cell Analysis|C0597452|23917|MH|||RC
+29727584|Gene Expression Profiling|C0752248|16495|MH|||RC
+29727584|Transcriptome|C3178810|16467|MH|||RC
+27686657|*Systems Biology|C1450477|896780|MH|RtM via: Systems Biology;Forced Leaf Node Lookup:systems biology|TI;AB|MM;RC|1005^15^0;484^15^0;239^15^0;33^15^0
+27686657|Proteomics|C0872252|272460|MH|RtM via: Proteomics;Forced Lookup:proteomic|AB|MM;RC|721^9^0
+27686657|Metabolomics|C1328813|304617|MH|RtM via: Metabolomics|AB|MM;RC|735^12^0
+27686657|Genomics|C0887950|118864|MH|||RC
+27686657|Mass Spectrometry|C0037813|90484|MH|RtM via: Mass Spectrometry|AB|MM;RC|630^17^0
+27686657|Bioinformatics|C1140694|28210|ET|Entry Term Replacement for "Computational Biology";RtM via: Bio-Informatics|AB|MM;RC|811^14^0
+27686657|Gene Expression Profiling|C0752248|17577|MH|||RC
+27686657|Databases, Factual|C0079199|3946|MH|RtM via: Databases|AB|MM;RC|930^8^0
+27465042|*Computational Biology|C0376528|278144|MH|RtM via: Computational Biology;RtM via: Bio-Informatics;Forced Leaf Node Lookup:computational biology;Forced Leaf Node Lookup:bioinformatics|TI;AB|MM;RC|639^21^0;29^21^0;683^14^0;331^14^0;202^14^0;308^14^0
+27465042|Genomics|C0887950|62243|MH|RtM via: Genomics|AB|MM;RC|550^7^0
+27465042|Genome|C0017428|11014|MH|RtM via: Genome|AB|MM;RC|550^7^0
+27465042|Databases, Factual|C0079199|10610|MH|RtM via: Databases|AB|MM;RC|509^8^0
+27465042|*Biological Phenomena|C0005520|3603|MH|RtM via: Tissue Growth|TI;AB|MM|113^7^0;51^6^0
+27465042|Internet|C0282111|262|MH|RtM via: Internet|AB|MM|752^8^0;152^8^0
+27465042|Algorithm|C0002045|139|ET|Entry Term Replacement for "Algorithms";RtM via: algorithm|AB|MM|572^9^0
+27465042|Information Science|C0021423|59|MH|RtM via: Information Sciences|AB|MM|165^22^0
+27465042|India|C0021201|30|MH|RtM via: India|TI;AB|MM|368^5^0;227^5^0;80^7^0;21^7^0
+29098954|Systems Biology|C1450477|77458|MH|||RC
+29098954|Genomics|C0887950|76477|MH|||RC
+29098954|Computational Biology|C0376528|53330|MH|||RC
+29098954|Proteomics|C0872252|34325|MH|||RC
+29098954|Circadian Rhythm|C0008810|16755|MH|||RC
+29098954|*Physiological Phenomena|C2350828|5640|MH|RtM via: Biological Rhythm|TI;AB|MM|1192^18^0;1029^18^0;170^18^0;61^18^0
+15461798|*Computational Biology|C0376528|1654042|MH|RtM via: Computational Biology;RtM via: Bio-Informatics;Forced Leaf Node Lookup:computational biology;Forced Leaf Node Lookup:bioinformatics|TI;AB|MM;RC|213^21^0;65^21^0;625^14^0;239^14^0;91^14^0
+15461798|Reproducibility of Results|C0035149|124418|MH|Forced Lookup:reproducibility|AB|MM|479^15^0
+15461798|*Software|C0037585|1157343|MH|RtM via: Software Development;RtM via: Computer software;Forced Non-Leaf Node Lookup:software|TI;AB|MM;RC|40^20^0;358^8^0;200^8^0
+15461798|Databases, Genetic|C0872179|92495|MH|||RC
+15461798|Information Storage and Retrieval|C0021427|47109|MH|||RC
+15461798|Algorithms|C0002045|39792|MH|||RC
+30696086|*Big Data|C4704779|47205|MH|RtM via: Big Data;Forced Leaf Node Lookup:big data|TI|MM;RC|77^8^0
+30696086|*Machine Learning|C0376284|330225|MH|RtM via: Machine Learning;Forced Non-Leaf Node Lookup:machine learning|TI;AB|MM;RC|895^2^0;395^16^0;21^16^0
+30696086|Computational Biology|C0376528|59885|MH|||RC
+30696086|Algorithms|C0002045|29903|MH|RtM via: State Machine|AB|MM;RC|878^5^1;895^2^1
+30696086|Precision Medicine|C2718059|23369|MH|RtM via: Precision Medicine|AB|MM;RC|537^18^0
+30696086|Transcriptome|C3178810|12526|MH|RtM via: Transcriptome|AB|MM;RC|254^13^0
+31561483|Humans|C0086418|550798|CT|CT Text Lookup: human|AB|MM;RC|278^5^0
+31561483|*Precision Medicine|C2718059|549798|MH|RtM via: Precision Medicine;Forced Lookup:precision oncology;Forced Leaf Node Lookup:precision medicine|TI;AB|MM;RC|1167^18^0;992^18^0;536^18^0;70^18^0;586^18^0
+31561483|Neoplasms|C0027651|68922|MH|RtM via: Malignant Neoplasms;RtM via: Primary malignant neoplasm;RtM via: Neoplasms;Forced Lookup:precision oncology|AB|MM;RC|713^6^0;304^6^0;596^8^0;586^18^0
+31561483|Metabolomics|C1328813|236178|MH|RtM via: Metabolomics|AB|MM;RC|444^12^0
+31561483|Genomics|C0887950|228794|MH|RtM via: Genomics|AB|MM;RC|606^8^0;392^8^0
+31561483|Proteomics|C0872252|192643|MH|RtM via: Proteomics|AB|MM;RC|432^10^0
+31561483|*Biomarkers|C0005516|157077|MH|RtM via: Biological Markers;Forced Non-Leaf Node Lookup:biomarkers|TI|MM;RC|46^9^0
+31561483|Computational Biology|C0376528|73371|MH|RtM via: Transcriptomics|AB|MM;RC|402^15^0
+31561483|Epigenomics|C2936263|65024|MH|RtM via: Epigenomics|AB|MM;RC|419^11^0
+21900203|*Systems Biology|C1450477|1353790|MH|RtM via: Systems Biology;Forced Leaf Node Lookup:systems biology|TI;AB|MM;RC|437^15^0;130^15^0;62^15^0;552^15^0
+21900203|Computational Biology|C0376528|160981|MH|RtM via: Computational Biology|AB|MM;RC|526^21^0;104^21^0
+21900203|Computer Simulation|C0009609|27370|MH|||RC
+21900203|Signal Transduction|C0037083|16633|MH|RtM via: Signal Transduction|AB|MM;RC|333^14^0;584^19^0;251^9^0;369^9^0
+21900203|Models, Biological|C0026339|16513|MH|||RC
+30232369|*DNA Transposable Elements|C0012868|809564|MH|RtM via: DNA Transposable Elements;Forced Leaf Node Lookup:transposable elements;checkForceMH Boosted|TI;AB|MM;RC|151^21^0;51^21^0
+30232369|Genomics|C0887950|168298|MH|RtM via: Genomics|AB|MM;RC|820^7^0;463^7^0
+30232369|Software Tools|C0037589|76469|ET|Entry Term Replacement for "Software";RtM via: Software Tools|AB|MM;RC|618^14^0
+30232369|Computational Biology|C0376528|61145|MH|||RC
+30232369|Eukaryota|C0684063|39890|MH|||RC
+30232369|Evolution, Molecular|C0282688|21227|MH|||RC
+26845152|Humans|C0086418|136812|CT|African Continental Ancestry Group;CT Treecode Lookup: M01.686 (African Continental Ancestry Group)||MM;RC
+26845152|*Computational Biology|C0376528|135812|MH|RtM via: Computational Biology;RtM via: Bio-Informatics;Forced Leaf Node Lookup:computational biology;Forced Leaf Node Lookup:bioinformatics|TI;AB|MM;RC|584^21^0;40^21^0;856^14^0;444^14^0;124^14^0;972^14^0
+26845152|South Africa|C0037712|14146|MH|RtM via: South Africa;Forced Leaf Node Lookup:south africa|TI;AB|MM;RC|920^12^0;65^12^0
+26845152|*Learning|C0023185|7125|MH|RtM via: Learning|TI;AB|MM|1126^6^0;110^6^0
+26845152|University|C0041740|6253|ET|Entry Term Replacement for "Universities";RtM via: Universities|AB|MM;RC|624^12^0
+26845152|Researchers|C0035173|87|ET|Entry Term Replacement for "Research Personnel";RtM via: Research Personnel|AB|MM|285^11^0
+26845152|Drive|C0013126|24|MH|RtM via: Initiative|AB|MM|423^11^0
+26845152|Government|C0018104|24|MH|RtM via: Government|AB|MM|369^10^0
+26845152|Dissent and Disputes|C1136019|20|MH|RtM via: Disputes|AB|MM|940^8^0
+26845152|African Continental Ancestry Group|C1257891|3|MH|RtM via: South African|AB|MM|271^13^0
+26845152|Lymphatic System|C0024235|0|MH|RtM via: Injection of therapeutic agent|AB|MM|496^10^0
+25483351|Genomics|C0887950|265202|MH|RtM via: Genomics|AB|MM;RC|325^7^0
+25483351|*Genome|C0017428|225795|MH|RtM via: Genome|TI;AB|MM;RC|536^6^0;270^6^0;412^7^0;325^7^0;168^6^0;221^7^0;119^6^0;38^6^0
+25483351|Sequence Alignment|C0080143|150318|MH|||RC
+25483351|Computational Biology|C0376528|132031|MH|||RC
+25483351|Software|C0037585|74305|MH|||RC
+25483351|Algorithms|C0002045|26594|MH|||RC
+25483351|Sequencing, Next-Generation|C2936621|26088|ET|Entry Term Replacement for "High-Throughput Nucleotide Sequencing";RtM via: High-Throughput Nucleotide Sequencing;RtM via: Massively-Parallel Sequencing|AB|MM;RC|61^26^0
+14630646|Pregnancy|C0032961|471593|CT|Birth;CT Treecode Lookup: G08.686.784.769.490 (Birth)|TI|MM
+14630646|Female|C0086287|471593|CT|Birth;CT Treecode Lookup: G08.686.784.769.490 (Birth)|TI|MM
+14630646|Humans|C0086418|1000|CT|Forced Treecode Turn Back On: G08.686.784.769 (Pregnancy)||MM
+14630646|*Computational Biology|C0376528|470593|MH|RtM via: Bio-Informatics;Forced Leaf Node Lookup:bioinformatics|TI;AB|MM;RC|106^14^0;27^14^0
+14630646|Sequence Analysis|C0162801|78531|MH|||RC
+14630646|Databases, Genetic|C0872179|49073|MH|||RC
+14630646|Gene Expression Profiling|C0752248|23121|MH|||RC
+14630646|*Birth|C0005615|2634|ET|Entry Term Replacement for "Parturition";RtM via: Birth;RtM via: Childbirth|TI|MM|47^5^0
+29072373|Cricetinae|C0018557|1196513|CT|Chinese Hamster;CT Treecode Lookup: B01.050.150.900.649.313.992.635.075.250 (Chinese Hamster);CHO Cells;CT Treecode Lookup: A11.251.210.200 (CHO Cells);CHO Cells;CT Treecode Lookup: A11.436.155 (CHO Cells);CT Text Lookup: hamster|TI|MM;RC|98^7^0
+29072373|Animals|C0003062|1196513|CT|Chinese Hamster;CT Treecode Lookup: B01.050.150.900.649.313.992 (Chinese Hamster);Chinese Hamster;CT Treecode Lookup: B01.050.150.900.649.313.992.635.075.250 (Chinese Hamster);CHO Cells;CT Treecode Lookup: A11.251.210.200 (CHO Cells);CHO Cells;CT Treecode Lookup: A11.436.155 (CHO Cells);CT Text Lookup: cho cells;CT Text Lookup: hamster|AB;TI|MM;RC|139^9^0;98^7^0
+29072373|Female|C0086287|1196513|CT|Ovary;CT Treecode Lookup: A05.360.319 (Ovary)||MM
+29072373|*Chinese Hamster|C0018555|1195513|ET|Entry Term Replacement for "Cricetulus";RtM via: Chinese Hamster;RtM via: Chinese Hamster Ovary Cell;Forced Lookup:chinese hamster ovary;Forced Lookup:cho cells;checkForceMH Boosted|TI;AB|MM;RC|90^15^0;1525^8^0;249^8^0;139^9^0
+29072373|*CHO Cells|C0085080|219783|MH|RtM via: Chinese Hamster Ovary Cell;Forced Lookup:chinese hamster ovary|AB;TI|MM;RC|1525^8^0;249^8^0;139^9^0;90^21^0
+29072373|Proteomics|C0872252|43697|MH|RtM via: Proteomics|AB|MM;RC|875^10^0
+29072373|Genomics|C0887950|38762|MH|RtM via: Genomics|AB|MM;RC|848^8^0
+29072373|Systems Biology|C1450477|35124|MH|RtM via: Systems Biology|AB|MM;RC|1484^15^0
+29072373|Metabolomics|C1328813|29794|MH|RtM via: Metabolomics|AB|MM;RC|887^12^0
+29072373|Glycomics|C1512223|20468|MH|RtM via: Glycomics|AB|MM;RC|924^9^0
+29072373|Cell Engineering|C0872130|14973|MH|RtM via: Cell Engineering|AB|MM;RC|496^4^1;506^11^1
+29072373|*Ovary|C0029939|4770|MH|RtM via: Ovary;RtM via: Both ovaries|TI|MM|106^5^0
+27899622|Databases, Protein|C0872249|299308|MH|||RC
+27899622|*Knowledgebase|C0022752|296322|ET|Entry Term Replacement for "Knowledge Bases";RtM via: Knowledge Bases;RtM via: UniProtKB;Forced Non-Leaf Node Lookup:knowledgebases|TI;AB|MM;RC|52^13^0;77^21^0;85^13^0
+27899622|Proteome|C0751973|128329|MH|RtM via: Proteome|AB|MM;RC|923^8^0;877^9^0;683^9^0;553^9^0
+27899622|Sequence Analysis, Protein|C0751970|109305|MH|||RC
+27899622|Computational Biology|C0376528|57126|MH|||RC
+27899622|Software|C0037585|51806|MH|RtM via: HTML Browser|AB|MM;RC|1158^8^0
+27899622|Proteomics|C0872252|47966|MH|||RC
+27899622|Amino Acid Sequence|C0002518|47521|MH|RtM via: Amino Acid Sequence|AB|MM;RC|122^17^0
+27899622|User-Computer Interface|C0042117|11378|MH|||RC
+27899622|Genomics|C0887950|748|MH|RtM via: Genomics|AB|MM|1069^7^0
+15520816|*Drug Discovery|C0920472|95717|MH|RtM via: Drug Discovery;Forced Leaf Node Lookup:drug discovery|TI|MM|66^14^0
+15520816|Binding Sites|C0005456|125299|MH|RtM via: Binding Sites|AB|MM;RC|260^13^0
+15520816|Ligands|C0023688|89559|MH|||RC
+15520816|Protein Binding|C0033618|88767|MH|||RC
+15520816|Models, Molecular|C0026344|60711|MH|||RC
+15520816|Structure-Activity Relationship|C0038477|60132|MH|||RC
+15520816|Drug Design|C0013171|50912|MH|||RC
+15520816|Computational Biology|C0376528|48458|MH|||RC
+15520816|Computer Simulation|C0009609|22993|MH|||RC
+15520816|Algorithms|C0002045|13091|MH|||RC
+15520816|*Biophysical Phenomena|C2350452|6813|MH|RtM via: Docking -molecular interaction;RtM via: docking protein activity|TI;AB|MM|21^7^0;726^15^0
+22877768|*Systems Biology|C1450477|952644|MH|RtM via: Systems Biology;Forced Leaf Node Lookup:systems biology|TI;AB|MM;RC|491^15^0;65^15^0
+22877768|*Drug Discovery|C0920472|240171|MH|RtM via: Drug Discovery;Forced Leaf Node Lookup:drug discovery|TI;AB|MM;RC|1717^14^0;392^14^0;35^14^0
+22877768|Reproducibility of Results|C0035149|58596|MH|Forced Lookup:reliability|AB|MM|1228^11^0
+22877768|Computational Biology|C0376528|92615|MH|||RC
+22877768|Genomics|C0887950|42533|MH|||RC
+22877768|Databases, Factual|C0079199|37564|MH|RtM via: Databases|AB|MM;RC|1489^9^0;1420^8^0;1101^9^0;880^9^0;769^9^0
+22877768|Software|C0037585|35602|MH|||RC
+22877768|*Systems Integrations|C0242722|22068|ET|Entry Term Replacement for "Systems Integration";RtM via: Systems Integration|TI|MM|53^19^0
+22877768|Proteomics|C0872252|19413|MH|||RC
+22877768|Medicinal Herbs|C0025125|6007|ET|Entry Term Replacement for "Plants, Medicinal";RtM via: Medicinal Herbs|AB|MM;RC|1559^15^0;1314^15^0;1114^15^0;969^15^0;313^15^0
+15318951|*Sequence Alignment|C0080143|2502829|MH|RtM via: Sequence Alignment;Forced Leaf Node Lookup:sequence alignments|TI|MM;RC|40^18^0
+15318951|Sequence Analysis, Protein|C0751970|187524|MH|||RC
+15318951|Amino Acid Sequence|C0002518|120350|MH|RtM via: Amino Acid Sequence|AB|MM;RC|205^17^0
+15318951|Software|C0037585|96895|MH|||RC
+15318951|Computational Biology|C0376528|78003|MH|||RC
+15318951|Algorithm|C0002045|63272|ET|Entry Term Replacement for "Algorithms";RtM via: algorithm|AB|MM;RC|419^9^0;254^9^0
+20816881|*Proteomics|C0872252|1128776|MH|RtM via: Proteomics;Forced Lookup:proteomic|TI;AB|MM;RC|323^9^0;142^10^0
+20816881|Tandem Mass Spectrometry|C0599748|247185|MH|RtM via: Tandem Mass Spectrometry;Forced Lookup:ms/ms|AB|MM;RC|264^24^0;290^5^0;407^5^0
+20816881|*Proteins|C0033684|936771|MH|RtM via: Proteins|TI;AB|MM;RC|1398^8^0;108^7^0
+20816881|*Peptides|C0030956|697779|MH|RtM via: Peptides;Forced Non-Leaf Node Lookup:peptides|TI;AB|MM;RC|1314^7^0;1433^8^0;951^7^0;665^7^0;386^7^0;215^7^0;96^7^0
+20816881|Databases, Protein|C0872249|369026|MH|||RC
+20816881|Sequence Analysis, Protein|C0751970|170143|MH|||RC
+20816881|Computational Biology|C0376528|86927|MH|||RC
+20816881|Probabilities|C0033204|7858|ET|Entry Term Replacement for "Probability";RtM via: Probability|AB|MM;RC|861^13^0
+20816881|*Survey|C0038951|804|ET|Entry Term Replacement for "Surveys and Questionnaires";RtM via: Surveys;Forced Non-Leaf Node Lookup:surveys|TI;AB|MM|697^8^0;23^6^0
+27927225|*RNA|C0035668|55651|MH|RtM via: RNA;checkForceMH Boosted;Forced Non-Leaf Node Lookup:rna|TI;AB|MM|138^3^0;60^3^0
+27927225|*Computational Biology|C0376528|524028|MH|RtM via: Computational Biology|TI;AB|MM;RC|124^13^1;142^7^1;46^13^1;64^7^1
+27927225|Genomics|C0887950|83424|MH|||RC
+27927225|Proteomics|C0872252|68077|MH|||RC
