@@ -13,40 +13,27 @@
 
 ## File Structure
 <pre>
-├── Aging  
-|    ├── script.sh  
-|    ├── abstract.txt   
-|    ├── index.py  
-|    ├── meshterms.txt  
+├── Aging    
+|    ├── index.py   
 |    └── pmid-AgingMeshT-set.txt  
-├── CommunicableDiseases  
-|    ├── script.sh  
-|    ├── abstract.txt  
+├── CommunicableDiseases   
 |    ├── index.py  
-|    ├── meshterms.txt  
 |    └── pmid-Communicab-set.txt  
-├── ComputationalBiology  
-|    ├── script.sh  
-|    ├── abstract.txt  
+├── ComputationalBiology   
 |    ├── index.py  
-|    ├── meshterms.txt  
 |    └── pmid-Computatio-set.txt  
 ├── Neoplasms  
-|    ├── script.sh  
-|    ├── abstract.txt  
 |    ├── index.py  
-|    ├── meshterms.txt  
 |    └── pmid-NeoplasmsM-set.txt  
 ├── Neurosciences  
-|    ├── script.sh  
-|    ├── abstract.txt  
 |    ├── index.py  
-|    ├── meshterms.txt  
 |    └── pmid-neurosciene-set.txt  
 ├── AllAPIMeshTerms.txt  
 ├── AllData.py  
 ├── AllData.tsv  
-├── AllPMID.txt  
+├── AllPMID.txt
+├── script.shscript
+├── run.sh
 ├── compareMesh.tsv  
 └── compareMesh.tsv  
 </pre>
