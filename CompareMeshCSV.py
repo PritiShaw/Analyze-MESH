@@ -17,13 +17,16 @@ for i in f:
 f.close()
 print("STEP1 Completed...")
 
-readfile = open('APIMeshTerms.txt', "r")
+readfile = open('AllMeshTerms.txt', "r")
 for line in readfile:
         Type = line.split("|")
-        PMID = Type[0]
-        MESH = Type[1]
+        if(len(Type)<2):
+            continue
+        else:
+            pmid = Type[0]
+            mesh = Type[1]
         #print(PMID,MESH)
-        Dictonary[PMID]['webapi'].append(MESH)
+        Dictonary[pmid]['webapi'].append(mesh)
 #print(Dictonary)
 print("STEP2 Completed...")
 

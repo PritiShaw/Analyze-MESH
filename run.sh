@@ -8,3 +8,7 @@ for val in ${StringArray[@]}; do
     cd $path_to_disease/$val
     ./script.sh $path_to_java $path_to_disease/$val $email
 done
+cd $path_to_disease
+python3 merge.py
+python3 AllData.py
+python3 CompareMeshCSV.py
