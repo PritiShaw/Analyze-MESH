@@ -1,6 +1,6 @@
 # Table of contents
-- `AllData.py`: Pyhthon code for displaing mesh terms of 100 articles in TSV file _(*AllData.tsv*)_.
-- `AllData.tsv`: TSV file contains details of all 100 articles.
+- `AllData.py`: Pyhthon code for displaing mesh details of 100 articles in TSV file _(*AllData.tsv*)_.
+- `AllData.tsv`: TSV file contains mesh details of all 100 articles.
 - `AllPMID.txt`: File contains _PMID_ of 100 articles.
 - `AllAPIMeshTerms.txt`: File contains the mesh terms of 100 articles which was obtained after merging all `meshterms.txt`(5 * 20=100).
 - `CompareMeshCSV.py`: Pyhton code for comparing between Mesh terms produced by using WebAPI and Eutil and dispaying it in a TSV file.
@@ -50,4 +50,3 @@
 ├── compareMesh.tsv  
 └── compareMesh.tsv  
 </pre>
-
