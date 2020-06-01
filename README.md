@@ -27,15 +27,15 @@
 ├── Neurosciences  
 |    ├── main.py  
 |    └── pmid-neurosciene-set.txt  
-├── AllMeshTerms.txt  
+├── AllData.csv   
 ├── AllData.py  
-├── merge.py  
-├── compareMeshCSV.tsv  
 ├── AllPMID.txt
-├── script.sh  
-├── run.sh  
+├── AllMeshTerms.txt 
 ├── compare.tsv  
-└── AllData.csv  
+├── compareMeshCSV.py
+├── merge.py
+├── run.sh  
+└── script.sh 
 </pre>
 
 ## Instructions
