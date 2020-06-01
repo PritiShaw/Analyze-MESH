@@ -28,12 +28,21 @@
 ├── Neurosciences  
 |    ├── index.py  
 |    └── pmid-neurosciene-set.txt  
-├── AllAPIMeshTerms.txt  
-├── AllData.py  
-├── AllData.tsv  
+├── AllMeshTerms.txt  
+├── AllData.py 
+├── merge.py  
+├── compareMeshCSV.tsv  
 ├── AllPMID.txt
-├── script.shscript
+├── script.sh
 ├── run.sh
-├── compareMesh.tsv  
-└── compareMesh.tsv  
+├── compare.tsv  
+└── AllData.tsv  
 </pre>
+
+## Instructions
+- Download the repository [https://github.com/PritiShaw/Analyze-MESH.git](https://github.com/PritiShaw/Analyze-MESH.git) and unzip it.
+- Download the WebAPI from [https://ii.nlm.nih.gov/Web_API/index.shtml](https://ii.nlm.nih.gov/Web_API/index.shtml) and unzip it.
+- open the terminal and `cd Analyze-MESH`
+- `chmod +x script.sh`
+- `chmod +x run.sh`
+- `./run.sh $PATH_TO_Analyze-MESH_REPO $PATH_TO_WEPAPI_FOLDER $Your_Email`
