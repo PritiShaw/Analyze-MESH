@@ -13,7 +13,7 @@ with open('abstract.txt','w') as o:
             pmid = int(i)
             print('UI  - ', pmid, file=o)
             print('TI  - ', article_title, file=o)
-            print('AB  - ', abstract_text, file=o)
+            print('AB  - ', abstract_text.encode(encoding="ascii",errors="namereplace"), file=o)
             print("\n", file=o)
     o.close()
 f.close()
