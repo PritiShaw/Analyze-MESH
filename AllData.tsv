@@ -1,4 +1,4 @@
-PMID	Terms	CUI	Score	Type	Misc	Location	Paths
+PMID	Terms	CUI	Score	Type	Misc	Location	Paths	 
 28303019	*Optogenetics	C3494301	613216	MH	RtM via: Optogenetics;Forced Leaf Node Lookup:optogenetics	TI;AB	MM;RC	"711^11^0;363^12^0;120^12^0;36^12^0;520^12^0
 "
 28303019	*Neuroscience	C0027910	291822	ET	"Entry Term Replacement for ""Neurosciences"";RtM via: Neuroscience discipline"	TI	MM;RC	"93^12^0
@@ -28,7 +28,7 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 29432512	*Emotions	C0013987	56655	MH	RtM via: Emotions;Forced Non-Leaf Node Lookup:emotions	TI;AB	MM;RC	"1289^9^0;1036^9^0;886^9^0;593^9^0;42^8^0
 "
 29432512	Psychoanalytic Therapy	C0033887	54194	MH			"RC
-"
+"	
 29432512	Neuroscience	C0027910	53216	ET	"Entry Term Replacement for ""Neurosciences"";RtM via: Neuroscience discipline"	AB	MM;RC	"771^12^0;360^12^0
 "
 29432512	Neurobiology	C0027817	9054	MH	RtM via: Neurobiology	AB	MM;RC	"934^12^0
@@ -48,7 +48,7 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 29460160	Informed Consent	C0021430	91683	MH	RtM via: Informed Consent	AB	MM;RC	"1166^16^0
 "
 29460160	Ethics, Medical	C0015004	48289	MH			"RC
-"
+"	
 29460160	*Neuroscience	C0027910	31440	ET	"Entry Term Replacement for ""Neurosciences"";RtM via: Neuroscience discipline"	TI;AB	MM;RC	"691^12^0;483^12^0;62^12^0
 "
 29460160	Morals	C0026532	7434	MH	RtM via: Morality	AB	MM;RC	"1041^7^0;669^7^0;356^7^0
@@ -60,7 +60,7 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 29924477	*Neuroscience	C0027910	576612	ET	"Entry Term Replacement for ""Neurosciences"";RtM via: Neuroscience discipline"	TI;AB	MM;RC	"398^12^0;28^12^0
 "
 29924477	Brain Mapping	C0006117	125476	MH			"RC
-"
+"	
 29924477	Brain	C0006104	103817	MH	RtM via: Brain	AB	MM;RC	"932^5^0;838^5^0
 "
 29924477	Functions, Cognitive	C0009240	26986	ET	"Entry Term Replacement for ""Cognition"";RtM via: Cognition;RtM via: Cognitive functions"	AB	MM;RC	"569^19^0
@@ -102,17 +102,17 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 29096071	Brain	C0006104	75939	MH	RtM via: Brain	AB	MM;RC	"486^5^0;329^5^0;176^5^0;133^5^0
 "
 29096071	Neuronal Plasticity	C0027880	71548	MH			"RC
-"
+"	
 29121942	Humans	C0086418	131256	CT	CT Text Lookup: human;CT Text Lookup: individuals	AB	MM;RC	"655^5^0;245^11^0
 "
 29121942	*Brain-Computer Interfaces	C3494288	130256	MH	Forced Leaf Node Lookup:brain computer interfaces;Forced Leaf Node Lookup:brain-computer interfaces;Forced Leaf Node Lookup:bci	TI;AB	MM;RC	"40^25^0;91^24^0;117^3^0;195^3^0;492^3^0;643^3^0
 "
 29121942	Communication Aids for Disabled	C0009453	79876	MH			"RC
-"
+"	
 29121942	Electroencephalography	C0013819	32631	MH			"RC
-"
+"	
 29121942	User-Computer Interface	C0042117	21306	MH			"RC
-"
+"	
 29121942	Brain	C0006104	7288	MH	RtM via: Brain	AB	MM;RC	"661^6^0
 "
 29121942	Amyotrophic Lateral Sclerosis	C0002736	3336	MH	RtM via: Amyotrophic Lateral Sclerosis	AB	MM;RC	"316^29^0
@@ -128,15 +128,15 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 27634721	Brain	C0006104	36507	MH	RtM via: Brain	AB	MM;RC	"698^5^0;303^5^0
 "
 27634721	Criminal Law	C0010328	31585	MH			"RC
-"
+"	
 27634721	Crime	C0010325	16556	MH			"RC
-"
+"	
 27634721	Intentions	C0162425	13527	ET	"Entry Term Replacement for ""Intention"";RtM via: Intention - mental process"	AB	MM;RC	"1016^10^0
 "
 27634721	*Social Behavior	C0037397	11133	MH	RtM via: Responsibility	TI;AB	MM	"1379^14^0;1097^14^0;34^14^0
 "
 27634721	Social Responsibility	C0037433	10973	MH			"RC
-"
+"	
 30980031	Animals	C0003062	352967	CT	CT Text Lookup: mouse	AB	MM;RC	"988^5^0
 "
 30980031	Mice	C0026809	352967	CT	CT Text Lookup: mouse	AB	MM;RC	"988^5^0
@@ -146,15 +146,15 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 30980031	*Silicon	C0037107	351967	MH	RtM via: Silicon;Forced Leaf Node Lookup:silicon;checkForceMH Boosted	TI;AB	MM;RC	"642^2^0;375^7^0;61^7^0
 "
 30980031	Action Potentials	C0001272	49465	MH			"RC
-"
+"	
 30980031	Neurosciences	C0027910	29950	MH			"RC
-"
+"	
 30980031	Neurons	C0027882	29207	MH			"RC
-"
+"	
 30980031	Nanotechnology	C0872323	24906	MH			"RC
-"
+"	
 30980031	Brain	C0006104	9935	MH			"RC
-"
+"	
 30731065	*Neuroscience	C0027910	412815	ET	"Entry Term Replacement for ""Neurosciences"";RtM via: Neuroscience discipline;Forced Non-Leaf Node Lookup:neuroethics"	TI	MM;RC	"75^12^0;59^11^0;290^11^0
 "
 30731065	*Brain	C0006104	56082	MH	RtM via: Brain;Forced Non-Leaf Node Lookup:brain	TI;AB	MM;RC	"377^5^0;166^5^0;103^5^0;279^5^0;29^5^0
@@ -170,11 +170,11 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 31260438	*Brain	C0006104	207318	MH	RtM via: Brain;Forced Non-Leaf Node Lookup:brain	TI;AB	MM;RC	"656^3^0;751^5^0;355^3^0;401^5^0;148^5^0;253^5^0;31^5^0;103^5^0;462^5^0;606^5^0
 "
 31260438	Brain Mapping	C0006117	98201	MH			"RC
-"
+"	
 31260438	Image Processing, Computer-Assisted	C0020911	42470	MH			"RC
-"
+"	
 31260438	Medical Informatics	C0025088	12651	MH			"RC
-"
+"	
 31260438	*Technology	C0039421	2646	MH	RtM via: Technology	TI;AB	MM	"515^10^0;317^10^0;118^12^0
 "
 27637950	Humans	C0086418	900826	CT	Forced Lookup:general population;CT Text Lookup: human	AB	MM;RC	"339^18^0;121^5^0
@@ -192,15 +192,15 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 28250055	*Neurons	C0027882	153840	MH	RtM via: neuronal	TI	MM;RC	"51^8^0
 "
 28250055	Wakefulness	C0043012	75747	MH			"RC
-"
+"	
 28250055	Intracellular Signaling Peptides and Proteins	C1449791	65190	MH			"RC
-"
+"	
 28250055	Hypothalamus	C0020663	26980	MH	RtM via: Hypothalamic structure	AB	MM;RC	"205^12^0
 "
 29547172	Humans	C0086418	1307923	CT	CT Text Lookup: patient	AB	MM;RC	"278^7^0
 "
 29547172	United States	C0041703	1307923	CT	USA Lookup:National Institute of Mental Health;National Institute of Mental Health;CT Treecode Lookup: I01.409.418.750 (National Institute of Mental Health);National Institute of Mental Health;CT Treecode Lookup: N03.540.348.500.500 (National Institute of Mental Health)		"MM;RC
-"
+"	
 29547172	India	C0021201	0	MH	RtM via: India;Geo Lookup:karnatakas	TI;AB	MM	"867^5^0
 "
 29547172	*Neurology	C0027855	1306923	MH	RtM via: Neurology speciality;Forced Non-Leaf Node Lookup:neurology	TI;AB	MM;RC	"1039^9^0;568^9^0;108^9^0;36^9^0
@@ -212,7 +212,7 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 29547172	Academies and Institutes	C0000877	42300	MH	RtM via: Institutes	AB	MM;RC	"718^9^0
 "
 29547172	Societies, Medical	C0037459	12324	MH			"RC
-"
+"	
 29547172	National Institute of Mental Health	C0027466	1048	ET	"Entry Term Replacement for ""National Institute of Mental Health (U.S.)"";RtM via: National Institute of Mental Health (U.S.)"	AB	MM	"119^35^0
 "
 29547172	Faculty	C0015535	171	MH	RtM via: Faculty	AB	MM	"674^7^0;344^7^0
@@ -220,11 +220,11 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 29547172	Government	C0018104	113	MH	RtM via: Government	AB	MM	"853^10^0
 "
 30720413	Humans	C0086418	1000	CT	Forced Humans: Sister		"MM
-"
+"	
 30720413	Neuroscience	C0027910	71380	ET	"Entry Term Replacement for ""Neurosciences"";RtM via: Neuroscience discipline;Forced Non-Leaf Node Lookup:neuroethics"	AB	MM;RC	"706^12^0;234^12^0;34^11^0;185^11^0;431^11^0;1069^11^0
 "
 30720413	Bioethical Issues	C0005488	33347	MH			"RC
-"
+"	
 30720413	Technology	C0039421	1866	MH	RtM via: Technology	AB	MM;RC	"803^12^0;370^13^0
 "
 30720413	Brain	C0006104	784	MH	RtM via: Brain	AB	MM;RC	"785^5^0;409^5^0
@@ -244,13 +244,13 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 30720413	Rubiaceae	C0524885	0	MH	RtM via: Adina	AB	MM	"200^5^0
 "
 28552516	Animals	C0003062	109384	CT	Behavior, Animal;CT Treecode Lookup: F01.145.113 (Behavior, Animal)		"RC
-"
+"	
 28552516	*Neuroscience	C0027910	108384	ET	"Entry Term Replacement for ""Neurosciences"";RtM via: Neuroscience discipline"	TI;AB	MM;RC	"151^12^0;64^12^0
 "
 28552516	Behavioral Research	C0004939	67051	MH			"RC
-"
+"	
 28552516	Behavior, Animal	C0004935	24380	MH			"RC
-"
+"	
 28552516	*Bioassays	C0005507	13533	ET	"Entry Term Replacement for ""Biological Assay"";RtM via: Biological Assay;Forced Non-Leaf Node Lookup:bioassays"	TI;AB	MM;RC	"100^8^0;51^9^0
 "
 29316506	Humans	C0086418	310013	CT	CT Text Lookup: human	AB	MM;RC	"1150^5^0
@@ -262,9 +262,9 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 29316506	*Neuroscience	C0027910	121977	ET	"Entry Term Replacement for ""Neurosciences"";RtM via: Neuroscience discipline"	TI;AB	MM;RC	"97^12^0;59^12^0
 "
 29316506	Microscopy, Fluorescence	C0026022	29422	MH			"RC
-"
+"	
 29316506	Microscopy, Confocal	C0242842	20191	MH			"RC
-"
+"	
 29316506	Synapses	C0039062	16043	MH	RtM via: Synapses	AB	MM;RC	"1056^8^0
 "
 29316506	Neurons	C0027882	10614	MH	RtM via: Neurons	AB	MM;RC	"315^7^0
@@ -282,17 +282,17 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 29733893	*Neuroscience	C0027910	163665	ET	"Entry Term Replacement for ""Neurosciences"";RtM via: Neuroscience discipline"	TI;AB	MM;RC	"125^12^0;41^12^0
 "
 29733893	Animal Experimentation	C0003048	108514	MH			"RC
-"
+"	
 29733893	Animal Welfare	C0003061	45799	MH			"RC
-"
+"	
 29733893	Animal Testing Alternatives	C0003059	33076	MH			"RC
-"
+"	
 29733893	Research Methodology	C0086912	30394	ET	"Entry Term Replacement for ""Research Design"";RtM via: Research Methodology"	AB	MM;RC	"891^20^0
 "
 29733893	Primates	C0033147	28916	MH	Forced Non-Leaf Node Lookup:primates		MM;RC	"82^8^0;162^8^0
 "
 29733893	Biomedical Research	C0005540	22932	MH			"RC
-"
+"	
 29733893	Researchers	C0035173	836	ET	"Entry Term Replacement for ""Research Personnel"";RtM via: Research Personnel"	AB	MM	"850^11^0;708^11^0
 "
 26289314	Humans	C0086418	621918	CT	CT Text Lookup: human	AB	MM;RC	"411^5^0
@@ -306,7 +306,7 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 26289314	Glycans	C0032594	36124	ET	"Entry Term Replacement for ""Polysaccharides"";RtM via: Polysaccharides"	AB	MM;RC	"981^7^0;707^7^0;427^7^0
 "
 26289314	Cell Adhesion	C0007577	7710	MH			"RC
-"
+"	
 26289314	Cell Signaling	C0037083	4947	ET	"Entry Term Replacement for ""Signal Transduction"";RtM via: Signal Transduction"	AB	MM;RC	"529^15^0
 "
 26289314	Disease Progression	C0242656	4593	MH	RtM via: Disease Progression	AB	MM;RC	"1050^11^0;822^11^0
@@ -314,23 +314,23 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 28244479	*Cancers	C0006826	408222	ET	"Entry Term Replacement for ""Neoplasms"";RtM via: Malignant Neoplasms;RtM via: Primary malignant neoplasm"	TI;AB	MM;RC	"702^6^0;622^9^0;498^7^0;425^6^0;351^6^0;296^6^0;65^6^0;21^6^0
 "
 28244479	Survival Rate	C0038954	81296	MH			"RC
-"
+"	
 28244479	India	C0021201	43787	MH	RtM via: India	AB	MM;RC	"304^5^0
 "
 28244479	Incidence	C0021149	41761	MH			"RC
-"
+"	
 21248838	Humans	C0086418	330037	CT	CT Text Lookup: individuals	AB	MM;RC	"665^11^0
 "
 21248838	*Cancers	C0006826	329037	ET	"Entry Term Replacement for ""Neoplasms"";RtM via: Malignant Neoplasms;RtM via: Primary malignant neoplasm;RtM via: Neoplasms;RtM via: Tumor Mass;RtM via: Solid Neoplasm"	TI;AB	MM;RC	"704^6^0;557^12^0;458^6^0;282^7^0;40^6^0;595^6^0;225^6^0;59^13^0
 "
 21248838	Neoplastic Stem Cells	C1956421	89214	MH			"RC
-"
+"	
 21248838	Cell Transformation, Neoplastic	C0007621	47081	MH			"RC
-"
+"	
 21248838	Cell Lineage	C0282637	33533	MH			"RC
-"
+"	
 21248838	Cell Differentiation	C0007589	16850	MH			"RC
-"
+"	
 28741511	*Endoplasmic Reticulum Stress	C3178870	942092	MH	RtM via: Endoplasmic Reticulum Stress;Forced Leaf Node Lookup:endoplasmic reticulum stress	TI;AB	MM;RC	"875^9^0;196^21^1;223^6^1;21^28^0
 "
 28741511	*Cancer	C0006826	323310	ET	"Entry Term Replacement for ""Neoplasms"";RtM via: Malignant Neoplasms;RtM via: Primary malignant neoplasm;RtM via: tumor growth;Cancer/Neoplasm in Title, none specified"	TI;AB	MM;RC	"898^6^0;71^6^0;445^12^0
@@ -340,17 +340,17 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 28741511	Signal Transduction	C0037083	58491	MH	RtM via: Signal Transduction	AB	MM;RC	"885^9^0;376^9^0
 "
 28741511	Endoplasmic Reticulum	C0014239	39789	MH			"RC
-"
+"	
 28741511	Neovascularization, Pathologic	C0027686	38291	MH	RtM via: Tumor Angiogenesis	AB	MM;RC	"822^12^0
 "
 28741511	Proteostasis	C4505258	33392	MH	RtM via: Proteostasis	AB	MM;RC	"298^12^0;160^19^0
 "
 28741511	Apoptosis	C0162638	17067	MH			"RC
-"
+"	
 28741511	Inflammation	C0021368	4840	MH	RtM via: Inflammation	AB	MM;RC	"725^12^0
 "
 28741511	Tumor Microenvironment	C2936626	1000	MH	Forced MicroEnv Found	TI	"MM
-"
+"	
 29056514	Humans	C0086418	262663	CT	CT Text Lookup: patient;CT Text Lookup: patients	AB	MM;RC	"146^8^0
 "
 29056514	*Exercise	C0015259	261663	MH	RtM via: Exercise;RtM via: Exercise Training;Forced Non-Leaf Node Lookup:exercise trainings	TI;AB	MM;RC	"395^8^0;359^8^0;190^17^0;50^8^0;117^17^0
@@ -362,17 +362,17 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 29056514	Incidence	C0021149	8088	MH	RtM via: Incidence	AB	MM;RC	"240^9^0
 "
 29056514	Risk Factors	C0035648	5640	MH			"RC
-"
+"	
 31455183	Animals	C0003062	197356	CT	CT Text Lookup: mammalian	AB	MM;RC	"142^9^0
 "
 31455183	*Aging	C0001811	196356	MH	RtM via: Aging;Forced Non-Leaf Node Lookup:aging	TI;AB	MM;RC	"708^5^0;152^5^0;48^5^0
 "
 31455183	Cellular Reprogramming	C3850096	74373	MH			"RC
-"
+"	
 31455183	Cellular Senescence	C0007581	71173	MH			"RC
-"
+"	
 31455183	Regenerative Medicine	C1257974	41625	MH			"RC
-"
+"	
 31455183	Phenotype	C0031437	9692	MH	RtM via: Phenotype	AB	MM;RC	"906^9^0
 "
 31455183	Cancer	C0006826	6106	ET	"Entry Term Replacement for ""Neoplasms"";RtM via: Malignant Neoplasms;RtM via: Primary malignant neoplasm;RtM via: Neoplasms;RtM via: Tumor Mass"	AB	MM;RC	"919^6^0;321^5^0
@@ -382,11 +382,11 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 12724736	*Photochemotherapy	C0031740	1547401	MH	RtM via: Photochemotherapy;Forced Leaf Node Lookup:photodynamic therapy	TI;AB	MM;RC	"408^3^0;231^3^0;177^20^0;21^20^0
 "
 12724736	Photosensitizing Agents	C0162713	214158	MH			"RC
-"
+"	
 12724736	Medical Oncology	C0025098	108364	MH	RtM via: oncology field	AB	MM;RC	"276^8^0
 "
 12724736	Lung Neoplasms	C0024121	18236	MH			"RC
-"
+"	
 12724736	Prostate	C0033572	265	MH	RtM via: Prostate	AB	MM	"380^8^0
 "
 12724736	Skin	C1123023	80	MH	RtM via: Skin;RtM via: Skin, Human	AB	MM	"393^4^0
@@ -406,7 +406,7 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 17476343	*Tumors	C0027651	70212	ET	"Entry Term Replacement for ""Neoplasms"";RtM via: Neoplasms;RtM via: Malignant Neoplasms;RtM via: Primary malignant neoplasm"	TI;AB	MM;RC	"123^6^0;44^6^0;572^6^0;296^6^0;184^6^0
 "
 17476343	Tumor Escape	C0282683	69037	MH			"RC
-"
+"	
 17476343	Immunotherapies	C0021083	58218	ET	"Entry Term Replacement for ""Immunotherapy"";RtM via: Immunotherapy"	AB	MM;RC	"637^15^0
 "
 17476343	Immune System	C0020962	13080	MH	RtM via: Immune system	AB	MM;RC	"77^13^0
@@ -420,7 +420,7 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 21858793	Quality of Life	C0034380	30957	MH	RtM via: Quality of life;RtM via: Perceived quality of life;Forced Lookup:quality of life	AB	MM;RC	"824^15^0
 "
 21858793	Neoplasm Recurrence, Local	C0027643	1000	MH	Recurrence-C04 (CBD)		"MM
-"
+"	
 21858793	*Medical Oncology	C0025098	209889	MH	RtM via: oncology field	TI;AB	MM;RC	"107^9^0;21^9^0
 "
 21858793	Tumour Lysis Syndrome	C0041364	46391	ET	"Entry Term Replacement for ""Tumor Lysis Syndrome"";RtM via: Tumor Lysis Syndrome"	AB	MM;RC	"946^20^0
@@ -438,7 +438,7 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 21858793	Hypoglycemia	C0020615	1347	MH	RtM via: Hypoglycemia	AB	MM;RC	"932^12^0
 "
 28741506	Neoplasm Recurrence, Local	C0027643	1000	MH	Recurrence-C04 (CBD)		"MM
-"
+"	
 28741506	Cellular Senescence	C0007581	224479	MH	RtM via: Cellular Senescence;RtM via: Senescence-Associated Secretory Phenotype	AB	MM;RC	"253^15^0;68^19^0;312^41^0
 "
 28741506	Cell Transformation, Neoplastic	C0007621	73290	MH	RtM via: Neoplastic Cell Transformation	AB	MM;RC	"850^13^0
@@ -452,7 +452,7 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 28741506	*Promoter Regions, Genetic	C0033413	14733	MH	RtM via: Promoter	TI	MM;RC	"47^8^0
 "
 28741506	Phenotype	C0031437	11285	MH			"RC
-"
+"	
 31014516	*Matrix Metalloproteinases	C0623362	731708	MH	RtM via: Matrix Metalloproteinases;checkForceMH Boosted;Forced Non-Leaf Node Lookup:matrix metalloproteinases	TI;AB	MM;RC	"969^4^0;748^3^0;620^4^0;527^4^0;154^25^0;21^25^0;181^4^0
 "
 31014516	*Cancer	C0006826	248055	ET	"Entry Term Replacement for ""Neoplasms"";RtM via: Malignant Neoplasms;RtM via: Primary malignant neoplasm;RtM via: Primary Neoplasm;RtM via: Neoplasms;RtM via: Tumor Mass;Cancer/Neoplasm in Title, none specified"	TI;AB	MM;RC	"830^6^0;226^6^0;140^6^0;690^13^0;937^5^0
@@ -468,7 +468,7 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 27890287	*Medical Oncology	C0025098	20232	MH	RtM via: oncology field	TI;AB	MM	"743^9^0;28^8^0
 "
 27890287	Neoplasms	C0027651	7028	MH			"RC
-"
+"	
 27890287	Integumentary Systems	C0037267	5	ET	"Entry Term Replacement for ""Integumentary System"";RtM via: Integumentary system"	AB	MM	"491^21^0
 "
 27890287	Problem Solving	C0033211	2	MH	RtM via: Insight	AB	MM	"545^8^0
@@ -510,15 +510,15 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 28782469	Cancer	C0006826	151451	ET	"Entry Term Replacement for ""Neoplasms"";RtM via: Malignant Neoplasms;RtM via: Primary malignant neoplasm"	AB	MM;RC	"640^6^0;80^6^0
 "
 28782469	Antineoplastic Agents	C0003392	59999	MH			"RC
-"
+"	
 28782469	Cell Cycle Checkpoints	C1155874	59990	MH			"RC
-"
+"	
 28782469	*Immunologic Factors	C0021054	12069	MH	RtM via: Immune Checkpoint Inhibitor;RtM via: Biological Response Modifiers	TI;AB	MM	"831^28^0;21^28^0;219^13^0
 "
 28782469	Efficacy, Clinical	C0087113	3405	ET	"Entry Term Replacement for ""Treatment Outcome"";RtM via: Treatment Effectiveness"	AB	MM;RC	"1018^17^0
 "
 27890288	Animals	C0003062	86385	CT	Ferrets;CT Treecode Lookup: B01.050.150.900.649.313.750 (Ferrets)		"MM;RC
-"
+"	
 27890288	*Ferrets	C0015859	85385	MH	RtM via: Ferrets;Forced Leaf Node Lookup:ferrets;checkForceMH Boosted	TI;AB	MM;RC	"626^7^0;387^7^0;172^7^0;117^7^0;21^6^0
 "
 27890288	Insulinoma	C0021670	50693	MH	RtM via: insulinoma	AB	MM;RC	"403^10^0
@@ -528,7 +528,7 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 27890288	Adrenalectomy	C0001632	6375	MH	RtM via: Adrenalectomy	AB	MM;RC	"369^13^0
 "
 27890288	Pancreatic Neoplasms	C0030297	1000	MH	Neoplasm Coordination Rule: Insulinoma		"MM;RC
-"
+"	
 31362690	Humans	C0086418	94216	CT	CT Text Lookup: human;CT Text Lookup: patient	AB	MM;RC	"887^5^0;794^7^0
 "
 31362690	Cancer	C0006826	93216	ET	"Entry Term Replacement for ""Neoplasms"";RtM via: Cancer Patient;RtM via: Malignant Neoplasms;RtM via: Primary malignant neoplasm;Cancer/Neoplasm in Title, none specified"	AB	MM;RC	"787^14^0;475^6^0
@@ -536,17 +536,17 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 31362690	Oncogene	C0029016	27373	ET	"Entry Term Replacement for ""Oncogenes"";RtM via: Oncogenes"	AB	MM;RC	"610^8^0
 "
 31362690	Biomedical Research	C0005540	10971	MH			"RC
-"
+"	
 25993239	*Clonal Evolution	C1516669	1253326	MH	RtM via: Clonal Evolution;RtM via: Somatic Evolution;Forced Leaf Node Lookup:somatic evolution;Forced Leaf Node Lookup:clonal evolution	TI;AB	MM;RC	"83^16^0;21^16^0;1522^17^0;249^17^0;75^7^1;90^9^1
 "
 25993239	Neoplastic Stem Cells	C1956421	40978	MH			"RC
-"
+"	
 25993239	Biomarkers, Tumor	C0041366	22950	MH			"RC
-"
+"	
 25993239	Precancerous Conditions	C0032927	15584	MH	RtM via: Precancerous Conditions	AB	MM;RC	"995^12^0;943^12^0;832^12^0
 "
 25993239	Mutation	C0026882	15096	MH			"RC
-"
+"	
 25993239	Clones	C0009013	13940	ET	"Entry Term Replacement for ""Clone Cells"";RtM via: Clone Cells"	AB	MM;RC	"845^6^0
 "
 31099667	*Metabolic Pathways	C1291081	294381	ET	"Entry Term Replacement for ""Metabolic Networks and Pathways"";RtM via: Metabolic Pathway"	TI	MM;RC	"50^18^0
@@ -556,15 +556,15 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 31099667	Tumor Microenvironment	C2936626	147168	MH	RtM via: Tumor Microenvironment	AB	MM;RC	"870^22^0
 "
 31099667	Molecular Targeted Therapy	C2699893	135808	MH			"RC
-"
+"	
 31099667	Glycolysis	C0017952	102229	MH	RtM via: Glycolysis	AB	MM;RC	"992^10^0
 "
 31099667	Energy Metabolism	C0014272	65508	MH			"RC
-"
+"	
 31099667	Cell Proliferation	C0596290	17955	MH	RtM via: Cell Growth	AB	MM;RC	"224^11^0
 "
 31099667	Signal Transduction	C0037083	14940	MH			"RC
-"
+"	
 30241109	Humans	C0086418	109435	CT	CT Text Lookup: individuals;CT Text Lookup: patient;CT Text Lookup: patients	AB	MM;RC	"1730^11^0;916^8^0
 "
 30241109	Cancer	C0006826	11911	ET	"Entry Term Replacement for ""Neoplasms"";RtM via: Malignant Neoplasms;RtM via: Primary malignant neoplasm;Cancer/Neoplasm in Title, none specified"	AB	MM;RC	"1675^6^0;1569^6^0;714^6^0
@@ -576,11 +576,11 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 30241109	Europe	C0015176	70234	MH	RtM via: Europe	AB	MM;RC	"1444^6^0;628^6^0
 "
 30241109	Biomedical Research	C0005540	17609	MH			"RC
-"
+"	
 30241109	Healthcare	C0086388	16759	ET	"Entry Term Replacement for ""Delivery of Health Care"";RtM via: Health Care;RtM via: Health Care Systems;RtM via: Long-term Follow-up"	AB	MM;RC	"1057^11^0;801^17^0;1299^19^0
 "
 30241109	Quality of Health Care	C0034379	11187	MH			"RC
-"
+"	
 30241109	*Medicine	C0025118	3303	MH	RtM via: Cancer Science;RtM via: medical specialist	TI;AB	MM	"1344^4^0;105^15^0;41^15^0;179^19^0
 "
 30241109	Researchers	C0035173	381	ET	"Entry Term Replacement for ""Research Personnel"";RtM via: Research Personnel"	AB	MM	"203^11^0
@@ -592,23 +592,23 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 22930834	Software	C0037585	165460	MH	RtM via: Computer software	AB	MM;RC	"331^8^0;119^8^0
 "
 22930834	Image Processing, Computer-Assisted	C0020911	112405	MH			"RC
-"
+"	
 22930834	Brain	C0006104	15456	MH			"RC
-"
+"	
 29727584	Metabolomics	C1328813	85682	MH			"RC
-"
+"	
 29727584	Genomics	C0887950	78116	MH			"RC
-"
+"	
 29727584	Proteomics	C0872252	70871	MH			"RC
-"
+"	
 29727584	Systems Biology	C1450477	34300	MH			"RC
-"
+"	
 29727584	Single-Cell Analysis	C0597452	23917	MH			"RC
-"
+"	
 29727584	Gene Expression Profiling	C0752248	16495	MH			"RC
-"
+"	
 29727584	Transcriptome	C3178810	16467	MH			"RC
-"
+"	
 27686657	*Systems Biology	C1450477	896780	MH	RtM via: Systems Biology;Forced Leaf Node Lookup:systems biology	TI;AB	MM;RC	"1005^15^0;484^15^0;239^15^0;33^15^0
 "
 27686657	Proteomics	C0872252	272460	MH	RtM via: Proteomics;Forced Lookup:proteomic	AB	MM;RC	"721^9^0
@@ -616,13 +616,13 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 27686657	Metabolomics	C1328813	304617	MH	RtM via: Metabolomics	AB	MM;RC	"735^12^0
 "
 27686657	Genomics	C0887950	118864	MH			"RC
-"
+"	
 27686657	Mass Spectrometry	C0037813	90484	MH	RtM via: Mass Spectrometry	AB	MM;RC	"630^17^0
 "
 27686657	Bioinformatics	C1140694	28210	ET	"Entry Term Replacement for ""Computational Biology"";RtM via: Bio-Informatics"	AB	MM;RC	"811^14^0
 "
 27686657	Gene Expression Profiling	C0752248	17577	MH			"RC
-"
+"	
 27686657	Databases, Factual	C0079199	3946	MH	RtM via: Databases	AB	MM;RC	"930^8^0
 "
 27465042	*Computational Biology	C0376528	278144	MH	RtM via: Computational Biology;RtM via: Bio-Informatics;Forced Leaf Node Lookup:computational biology;Forced Leaf Node Lookup:bioinformatics	TI;AB	MM;RC	"639^21^0;29^21^0;683^14^0;331^14^0;202^14^0;308^14^0
@@ -644,15 +644,15 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 27465042	India	C0021201	30	MH	RtM via: India	TI;AB	MM	"368^5^0;227^5^0;80^7^0;21^7^0
 "
 29098954	Systems Biology	C1450477	77458	MH			"RC
-"
+"	
 29098954	Genomics	C0887950	76477	MH			"RC
-"
+"	
 29098954	Computational Biology	C0376528	53330	MH			"RC
-"
+"	
 29098954	Proteomics	C0872252	34325	MH			"RC
-"
+"	
 29098954	Circadian Rhythm	C0008810	16755	MH			"RC
-"
+"	
 29098954	*Physiological Phenomena	C2350828	5640	MH	RtM via: Biological Rhythm	TI;AB	MM	"1192^18^0;1029^18^0;170^18^0;61^18^0
 "
 15461798	*Computational Biology	C0376528	1654042	MH	RtM via: Computational Biology;RtM via: Bio-Informatics;Forced Leaf Node Lookup:computational biology;Forced Leaf Node Lookup:bioinformatics	TI;AB	MM;RC	"213^21^0;65^21^0;625^14^0;239^14^0;91^14^0
@@ -662,17 +662,17 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 15461798	*Software	C0037585	1157343	MH	RtM via: Software Development;RtM via: Computer software;Forced Non-Leaf Node Lookup:software	TI;AB	MM;RC	"40^20^0;358^8^0;200^8^0
 "
 15461798	Databases, Genetic	C0872179	92495	MH			"RC
-"
+"	
 15461798	Information Storage and Retrieval	C0021427	47109	MH			"RC
-"
+"	
 15461798	Algorithms	C0002045	39792	MH			"RC
-"
+"	
 30696086	*Big Data	C4704779	47205	MH	RtM via: Big Data;Forced Leaf Node Lookup:big data	TI	MM;RC	"77^8^0
 "
 30696086	*Machine Learning	C0376284	330225	MH	RtM via: Machine Learning;Forced Non-Leaf Node Lookup:machine learning	TI;AB	MM;RC	"895^2^0;395^16^0;21^16^0
 "
 30696086	Computational Biology	C0376528	59885	MH			"RC
-"
+"	
 30696086	Algorithms	C0002045	29903	MH	RtM via: State Machine	AB	MM;RC	"878^5^1;895^2^1
 "
 30696086	Precision Medicine	C2718059	23369	MH	RtM via: Precision Medicine	AB	MM;RC	"537^18^0
@@ -702,11 +702,11 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 21900203	Computational Biology	C0376528	160981	MH	RtM via: Computational Biology	AB	MM;RC	"526^21^0;104^21^0
 "
 21900203	Computer Simulation	C0009609	27370	MH			"RC
-"
+"	
 21900203	Signal Transduction	C0037083	16633	MH	RtM via: Signal Transduction	AB	MM;RC	"333^14^0;584^19^0;251^9^0;369^9^0
 "
 21900203	Models, Biological	C0026339	16513	MH			"RC
-"
+"	
 30232369	*DNA Transposable Elements	C0012868	809564	MH	RtM via: DNA Transposable Elements;Forced Leaf Node Lookup:transposable elements;checkForceMH Boosted	TI;AB	MM;RC	"151^21^0;51^21^0
 "
 30232369	Genomics	C0887950	168298	MH	RtM via: Genomics	AB	MM;RC	"820^7^0;463^7^0
@@ -714,13 +714,13 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 30232369	Software Tools	C0037589	76469	ET	"Entry Term Replacement for ""Software"";RtM via: Software Tools"	AB	MM;RC	"618^14^0
 "
 30232369	Computational Biology	C0376528	61145	MH			"RC
-"
+"	
 30232369	Eukaryota	C0684063	39890	MH			"RC
-"
+"	
 30232369	Evolution, Molecular	C0282688	21227	MH			"RC
-"
+"	
 26845152	Humans	C0086418	136812	CT	African Continental Ancestry Group;CT Treecode Lookup: M01.686 (African Continental Ancestry Group)		"MM;RC
-"
+"	
 26845152	*Computational Biology	C0376528	135812	MH	RtM via: Computational Biology;RtM via: Bio-Informatics;Forced Leaf Node Lookup:computational biology;Forced Leaf Node Lookup:bioinformatics	TI;AB	MM;RC	"584^21^0;40^21^0;856^14^0;444^14^0;124^14^0;972^14^0
 "
 26845152	South Africa	C0037712	14146	MH	RtM via: South Africa;Forced Leaf Node Lookup:south africa	TI;AB	MM;RC	"920^12^0;65^12^0
@@ -746,29 +746,29 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 25483351	*Genome	C0017428	225795	MH	RtM via: Genome	TI;AB	MM;RC	"536^6^0;270^6^0;412^7^0;325^7^0;168^6^0;221^7^0;119^6^0;38^6^0
 "
 25483351	Sequence Alignment	C0080143	150318	MH			"RC
-"
+"	
 25483351	Computational Biology	C0376528	132031	MH			"RC
-"
+"	
 25483351	Software	C0037585	74305	MH			"RC
-"
+"	
 25483351	Algorithms	C0002045	26594	MH			"RC
-"
+"	
 25483351	Sequencing, Next-Generation	C2936621	26088	ET	"Entry Term Replacement for ""High-Throughput Nucleotide Sequencing"";RtM via: High-Throughput Nucleotide Sequencing;RtM via: Massively-Parallel Sequencing"	AB	MM;RC	"61^26^0
 "
 14630646	Pregnancy	C0032961	471593	CT	Birth;CT Treecode Lookup: G08.686.784.769.490 (Birth)	TI	"MM
-"
+"	
 14630646	Female	C0086287	471593	CT	Birth;CT Treecode Lookup: G08.686.784.769.490 (Birth)	TI	"MM
-"
+"	
 14630646	Humans	C0086418	1000	CT	Forced Treecode Turn Back On: G08.686.784.769 (Pregnancy)		"MM
-"
+"	
 14630646	*Computational Biology	C0376528	470593	MH	RtM via: Bio-Informatics;Forced Leaf Node Lookup:bioinformatics	TI;AB	MM;RC	"106^14^0;27^14^0
 "
 14630646	Sequence Analysis	C0162801	78531	MH			"RC
-"
+"	
 14630646	Databases, Genetic	C0872179	49073	MH			"RC
-"
+"	
 14630646	Gene Expression Profiling	C0752248	23121	MH			"RC
-"
+"	
 14630646	*Birth	C0005615	2634	ET	"Entry Term Replacement for ""Parturition"";RtM via: Birth;RtM via: Childbirth"	TI	MM	"47^5^0
 "
 29072373	Cricetinae	C0018557	1196513	CT	Chinese Hamster;CT Treecode Lookup: B01.050.150.900.649.313.992.635.075.250 (Chinese Hamster);CHO Cells;CT Treecode Lookup: A11.251.210.200 (CHO Cells);CHO Cells;CT Treecode Lookup: A11.436.155 (CHO Cells);CT Text Lookup: hamster	TI	MM;RC	"98^7^0
@@ -776,7 +776,7 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 29072373	Animals	C0003062	1196513	CT	Chinese Hamster;CT Treecode Lookup: B01.050.150.900.649.313.992 (Chinese Hamster);Chinese Hamster;CT Treecode Lookup: B01.050.150.900.649.313.992.635.075.250 (Chinese Hamster);CHO Cells;CT Treecode Lookup: A11.251.210.200 (CHO Cells);CHO Cells;CT Treecode Lookup: A11.436.155 (CHO Cells);CT Text Lookup: cho cells;CT Text Lookup: hamster	AB;TI	MM;RC	"139^9^0;98^7^0
 "
 29072373	Female	C0086287	1196513	CT	Ovary;CT Treecode Lookup: A05.360.319 (Ovary)		"MM
-"
+"	
 29072373	*Chinese Hamster	C0018555	1195513	ET	"Entry Term Replacement for ""Cricetulus"";RtM via: Chinese Hamster;RtM via: Chinese Hamster Ovary Cell;Forced Lookup:chinese hamster ovary;Forced Lookup:cho cells;checkForceMH Boosted"	TI;AB	MM;RC	"90^15^0;1525^8^0;249^8^0;139^9^0
 "
 29072373	*CHO Cells	C0085080	219783	MH	RtM via: Chinese Hamster Ovary Cell;Forced Lookup:chinese hamster ovary	AB;TI	MM;RC	"1525^8^0;249^8^0;139^9^0;90^21^0
@@ -796,23 +796,23 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 29072373	*Ovary	C0029939	4770	MH	RtM via: Ovary;RtM via: Both ovaries	TI	MM	"106^5^0
 "
 27899622	Databases, Protein	C0872249	299308	MH			"RC
-"
+"	
 27899622	*Knowledgebase	C0022752	296322	ET	"Entry Term Replacement for ""Knowledge Bases"";RtM via: Knowledge Bases;RtM via: UniProtKB;Forced Non-Leaf Node Lookup:knowledgebases"	TI;AB	MM;RC	"52^13^0;77^21^0;85^13^0
 "
 27899622	Proteome	C0751973	128329	MH	RtM via: Proteome	AB	MM;RC	"923^8^0;877^9^0;683^9^0;553^9^0
 "
 27899622	Sequence Analysis, Protein	C0751970	109305	MH			"RC
-"
+"	
 27899622	Computational Biology	C0376528	57126	MH			"RC
-"
+"	
 27899622	Software	C0037585	51806	MH	RtM via: HTML Browser	AB	MM;RC	"1158^8^0
 "
 27899622	Proteomics	C0872252	47966	MH			"RC
-"
+"	
 27899622	Amino Acid Sequence	C0002518	47521	MH	RtM via: Amino Acid Sequence	AB	MM;RC	"122^17^0
 "
 27899622	User-Computer Interface	C0042117	11378	MH			"RC
-"
+"	
 27899622	Genomics	C0887950	748	MH	RtM via: Genomics	AB	MM	"1069^7^0
 "
 15520816	*Drug Discovery	C0920472	95717	MH	RtM via: Drug Discovery;Forced Leaf Node Lookup:drug discovery	TI	MM	"66^14^0
@@ -820,21 +820,21 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 15520816	Binding Sites	C0005456	125299	MH	RtM via: Binding Sites	AB	MM;RC	"260^13^0
 "
 15520816	Ligands	C0023688	89559	MH			"RC
-"
+"	
 15520816	Protein Binding	C0033618	88767	MH			"RC
-"
+"	
 15520816	Models, Molecular	C0026344	60711	MH			"RC
-"
+"	
 15520816	Structure-Activity Relationship	C0038477	60132	MH			"RC
-"
+"	
 15520816	Drug Design	C0013171	50912	MH			"RC
-"
+"	
 15520816	Computational Biology	C0376528	48458	MH			"RC
-"
+"	
 15520816	Computer Simulation	C0009609	22993	MH			"RC
-"
+"	
 15520816	Algorithms	C0002045	13091	MH			"RC
-"
+"	
 15520816	*Biophysical Phenomena	C2350452	6813	MH	RtM via: Docking -molecular interaction;RtM via: docking protein activity	TI;AB	MM	"21^7^0;726^15^0
 "
 22877768	*Systems Biology	C1450477	952644	MH	RtM via: Systems Biology;Forced Leaf Node Lookup:systems biology	TI;AB	MM;RC	"491^15^0;65^15^0
@@ -844,29 +844,29 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 22877768	Reproducibility of Results	C0035149	58596	MH	Forced Lookup:reliability	AB	MM	"1228^11^0
 "
 22877768	Computational Biology	C0376528	92615	MH			"RC
-"
+"	
 22877768	Genomics	C0887950	42533	MH			"RC
-"
+"	
 22877768	Databases, Factual	C0079199	37564	MH	RtM via: Databases	AB	MM;RC	"1489^9^0;1420^8^0;1101^9^0;880^9^0;769^9^0
 "
 22877768	Software	C0037585	35602	MH			"RC
-"
+"	
 22877768	*Systems Integrations	C0242722	22068	ET	"Entry Term Replacement for ""Systems Integration"";RtM via: Systems Integration"	TI	MM	"53^19^0
 "
 22877768	Proteomics	C0872252	19413	MH			"RC
-"
+"	
 22877768	Medicinal Herbs	C0025125	6007	ET	"Entry Term Replacement for ""Plants, Medicinal"";RtM via: Medicinal Herbs"	AB	MM;RC	"1559^15^0;1314^15^0;1114^15^0;969^15^0;313^15^0
 "
 15318951	*Sequence Alignment	C0080143	2502829	MH	RtM via: Sequence Alignment;Forced Leaf Node Lookup:sequence alignments	TI	MM;RC	"40^18^0
 "
 15318951	Sequence Analysis, Protein	C0751970	187524	MH			"RC
-"
+"	
 15318951	Amino Acid Sequence	C0002518	120350	MH	RtM via: Amino Acid Sequence	AB	MM;RC	"205^17^0
 "
 15318951	Software	C0037585	96895	MH			"RC
-"
+"	
 15318951	Computational Biology	C0376528	78003	MH			"RC
-"
+"	
 15318951	Algorithm	C0002045	63272	ET	"Entry Term Replacement for ""Algorithms"";RtM via: algorithm"	AB	MM;RC	"419^9^0;254^9^0
 "
 20816881	*Proteomics	C0872252	1128776	MH	RtM via: Proteomics;Forced Lookup:proteomic	TI;AB	MM;RC	"323^9^0;142^10^0
@@ -878,11 +878,11 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 20816881	*Peptides	C0030956	697779	MH	RtM via: Peptides;Forced Non-Leaf Node Lookup:peptides	TI;AB	MM;RC	"1314^7^0;1433^8^0;951^7^0;665^7^0;386^7^0;215^7^0;96^7^0
 "
 20816881	Databases, Protein	C0872249	369026	MH			"RC
-"
+"	
 20816881	Sequence Analysis, Protein	C0751970	170143	MH			"RC
-"
+"	
 20816881	Computational Biology	C0376528	86927	MH			"RC
-"
+"	
 20816881	Probabilities	C0033204	7858	ET	"Entry Term Replacement for ""Probability"";RtM via: Probability"	AB	MM;RC	"861^13^0
 "
 20816881	*Survey	C0038951	804	ET	"Entry Term Replacement for ""Surveys and Questionnaires"";RtM via: Surveys;Forced Non-Leaf Node Lookup:surveys"	TI;AB	MM	"697^8^0;23^6^0
@@ -892,15 +892,15 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 27927225	*Computational Biology	C0376528	524028	MH	RtM via: Computational Biology	TI;AB	MM;RC	"124^13^1;142^7^1;46^13^1;64^7^1
 "
 27927225	Genomics	C0887950	83424	MH			"RC
-"
+"	
 27927225	Proteomics	C0872252	68077	MH			"RC
-"
+"	
 28667551	*Immune System	C0020962	472485	MH	RtM via: Immune system;Forced Non-Leaf Node Lookup:immune systems	TI;AB	MM;RC	"1049^13^0;923^13^0;531^13^0;422^15^0;307^13^0;97^13^0;37^13^0;688^13^0
 "
 28667551	Communicable Diseases	C0009450	31739	MH			"RC
-"
+"	
 28667551	Signal Transduction	C0037083	7168	MH			"RC
-"
+"	
 28667551	Homeostasis	C0019868	4848	MH	RtM via: tissue homeostasis	AB	MM;RC	"477^18^0
 "
 31027668	Animals	C0003062	1539697	CT	Zoonotic Diseases;CT Treecode Lookup: C22 (Zoonotic Diseases);Mosquito Vectors;CT Treecode Lookup: N06.850.310.350 (Mosquito Vectors);CT Text Lookup: animal;CT Text Lookup: animals;CT Text Lookup: avian influenza;CT Text Lookup: mosquito;CT Text Lookup: mosquito-borne	AB	MM;RC	"191^7^0;524^15^0;360^8^0
@@ -912,11 +912,11 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 31027668	Influenza A Virus, H7N2 Subtype	C2936282	88551	MH	Forced Lookup:h7n2	AB	MM	"540^4^0
 "
 31027668	Mosquito Vectors	C4277713	1000	MH	Forced Culicidae and Vector: Anopheles		"MM
-"
+"	
 31027668	Zoonotic Diseases	C0043528	452671	ET	"Entry Term Replacement for ""Zoonoses"";RtM via: Zoonoses"	AB	MM;RC	"152^17^0
 "
 31027668	Public Health	C0034019	33612	MH			"RC
-"
+"	
 31027668	Morbidity	C0026538	5518	MH	RtM via: Morbidity - disease rate	AB	MM;RC	"334^9^0
 "
 28051192	Humans	C0086418	266424	CT	CT Text Lookup: human;CT Text Lookup: patient;CT Text Lookup: patients	AB	MM;RC	"93^5^0;782^8^0
@@ -928,17 +928,17 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 28051192	Ecosystem	C0162358	26798	MH	RtM via: Ecosystem;RtM via: Habitat;Forced Lookup:ecosystems	AB	MM	"424^10^0;1205^8^0
 "
 28051192	Mosquito Vectors	C4277713	1000	MH	Forced Culicidae and Vector: Mosquitoes		"MM
-"
+"	
 28051192	Climate Change	C2718051	83966	MH	RtM via: Climate Change	AB	MM;RC	"2737^14^0;1760^14^0;1341^14^0;989^14^0
 "
 28051192	Infectious Diseases	C0009450	66294	ET	"Entry Term Replacement for ""Communicable Diseases"";RtM via: Communicable Diseases"	AB	MM;RC	"1402^19^0
 "
 28051192	Greenhouse Effect	C0206218	38775	MH			"RC
-"
+"	
 28051192	Disease Vectors	C0012656	30579	MH	RtM via: Disease Vectors	AB	MM;RC	"2024^6^0
 "
 28051192	Public Health	C0034019	17149	MH			"RC
-"
+"	
 28051192	Environmental Pollution	C0014419	13719	MH	RtM via: Pollution	AB	MM;RC	"1126^9^0
 "
 28051192	Outbreaks	C0012652	12318	ET	"Entry Term Replacement for ""Disease Outbreaks"";RtM via: Disease Outbreaks"	AB	MM;RC	"1450^9^0
@@ -968,7 +968,7 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 29165905	*Nucleic Acid Amplification Techniques	C0887813	358047	MH	RtM via: Loop-mediated Isothermal Amplification	TI;AB	MM;RC	"1194^4^0;943^4^0;800^4^0;483^4^0;170^4^0;130^38^0;61^4^0;21^38^0
 "
 29165905	DNA Primers	C0206416	75799	MH			"RC
-"
+"	
 29165905	Reverse Transcription	C0035380	28042	MH	RtM via: Reverse Transcription	AB	MM;RC	"615^21^0
 "
 29165905	DNA	C0012854	19674	MH	RtM via: DNA	AB	MM;RC	"186^3^0
@@ -986,17 +986,17 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 27598145	*Infectious Diseases	C0009450	1064745	ET	"Entry Term Replacement for ""Communicable Diseases"";RtM via: Communicable Diseases"	TI;AB	MM;RC	"93^19^0;21^19^0
 "
 27598145	Communicable Disease Control	C0009449	185140	MH			"RC
-"
+"	
 27598145	Knowledge	C0376554	16	MH	RtM via: Knowledge	AB	MM	"216^9^0
 "
 29040428	Animals	C0003062	504886	CT	Parasites;CT Treecode Lookup: B01.050.500.714 (Parasites)		"MM;RC
-"
+"	
 29040428	*Sequencing, Next-Generation	C2936621	503886	ET	"Entry Term Replacement for ""High-Throughput Nucleotide Sequencing"";RtM via: High-Throughput Nucleotide Sequencing;RtM via: Massively-Parallel Sequencing;Forced Non-Leaf Node Lookup:next-generation sequencing"	TI;AB	MM;RC	"865^4^0;569^4^0;175^26^0;75^26^0
 "
 29040428	*Metagenomes	C2717745	260676	ET	"Entry Term Replacement for ""Metagenome"";RtM via: Metagenome"	TI;AB	MM;RC	"865^4^0;569^4^0;163^11^0;63^11^0
 "
 29040428	Metagenomics	C2717799	105623	MH			"RC
-"
+"	
 29040428	Viruses	C0042776	55748	MH	RtM via: Virus	AB	MM;RC	"423^7^0
 "
 29040428	Fungi	C0016832	47974	MH	RtM via: Fungi	AB	MM;RC	"401^5^0
@@ -1004,11 +1004,11 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 29040428	Bacteria	C0004611	47419	MH	RtM via: Bacteria	AB	MM;RC	"391^8^0
 "
 29040428	Sequence Analysis, DNA	C0162802	42655	MH			"RC
-"
+"	
 29040428	Communicable Diseases	C0009450	24780	MH			"RC
-"
+"	
 29040428	Molecular Diagnostic Techniques	C0949688	15651	MH			"RC
-"
+"	
 29040428	Clinical Laboratory Services	C3658216	9530	MH	RtM via: Clinical Laboratory Services	AB	MM;RC	"822^8^1;844^12^1
 "
 29040428	Parasites	C0030498	4710	MH	RtM via: Parasites	AB	MM;RC	"408^9^0
@@ -1018,7 +1018,7 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 29040428	Laboratories	C0022877	3464	MH	RtM via: Laboratory	AB	MM;RC	"844^12^0
 "
 30120891	United States	C0041703	352754	CT	USA Lookup:Public Health Service		"MM
-"
+"	
 30120891	Animals	C0003062	352754	CT	Disease Vectors;CT Treecode Lookup: N06.850.310.350 (Disease Vectors);CT Text Lookup: animal;CT Text Lookup: animals	AB	MM;RC	"962^7^0
 "
 30120891	Humans	C0086418	352754	CT	CT Text Lookup: human	AB	MM;RC	"145^5^0
@@ -1034,7 +1034,7 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 30120891	Arctic Regions	C0003740	46181	MH	RtM via: Arctic Regions	AB	MM;RC	"650^6^0
 "
 30120891	Public Health	C0034019	21916	MH			"RC
-"
+"	
 30120891	*Future	C0016884	18456	ET	"Entry Term Replacement for ""Forecasting"";RtM via: Future"	TI;AB	MM;RC	"787^6^0;42^6^0
 "
 30120891	New Territories	C0524613	0	ET	"Entry Term Replacement for ""Hong Kong"";RtM via: New Territories"	AB	MM	"518^15^0
@@ -1060,7 +1060,7 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 30341241	*Infectious Diseases	C0009450	118776	ET	"Entry Term Replacement for ""Communicable Diseases"";RtM via: Communicable Diseases"	TI;AB	MM;RC	"872^19^0;736^19^0;83^19^0
 "
 30341241	Molecular Diagnostic Techniques	C0949688	46735	MH			"RC
-"
+"	
 30341241	Deoxyribonucleic Acid	C0012854	13810	ET	"Entry Term Replacement for ""DNA"";RtM via: DNA"	AB	MM;RC	"600^3^0;200^21^0
 "
 30341241	Viral Diseases	C0042769	13716	ET	"Entry Term Replacement for ""Virus Diseases"";RtM via: Virus Diseases"	AB	MM;RC	"903^14^0
@@ -1068,7 +1068,7 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 30341241	Bacterial Infections	C0004623	10197	MH	RtM via: Bacterial Infections	AB	MM;RC	"919^18^0
 "
 26479830	Animals	C0003062	417691	CT	Disease Vectors;CT Treecode Lookup: N06.850.310.350 (Disease Vectors)		"RC
-"
+"	
 26479830	Humans	C0086418	417691	CT	Forced Leaf Node Lookup:humans;CT Text Lookup: human;CT Text Lookup: humans	TI;AB	MM;RC	"49^5^0;99^5^0;775^6^0;270^5^0;403^5^0;478^5^0;893^5^0
 "
 26479830	*Climate Change	C2718051	240422	MH	RtM via: Climate Change;Forced Lookup:climate change	TI;AB	MM;RC	"1356^14^0;1055^14^0;832^14^0;385^14^0;123^14^0;31^14^0;1497^14^0;1698^14^0
@@ -1078,7 +1078,7 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 26479830	*Acclimatization	C0000934	59943	MH	RtM via: Acclimatization	TI;AB	MM;RC	"1253^10^0;105^10^0
 "
 26479830	Disease Vectors	C0012656	33536	MH			"RC
-"
+"	
 26479830	Weather	C0043085	30020	MH	RtM via: Weather	AB	MM;RC	"168^7^0
 "
 26479830	*Adaptation, Physiological	C0001400	12951	MH	RtM via: Adaptation	TI;AB	MM;RC	"1253^10^0;105^10^0
@@ -1092,7 +1092,7 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 31691607	*Metagenomes	C2717745	244647	ET	"Entry Term Replacement for ""Metagenome"";RtM via: Metagenome"	TI;AB	MM;RC	"1517^4^0;1457^4^0;1221^4^0;1017^4^0;652^4^0;596^4^0;473^4^0;96^11^0;21^4^0
 "
 31691607	Metagenomics	C2717799	113280	MH			"RC
-"
+"	
 31691607	*Clinical Laboratory Services	C3658216	93870	MH	RtM via: Clinical Laboratory Services	TI;AB	MM;RC	"1555^8^1;1577^12^1;1258^21^0;175^21^0;29^8^1;51^12^1
 "
 31691607	Infectious Diseases	C0009450	54155	ET	"Entry Term Replacement for ""Communicable Diseases"";RtM via: Communicable Diseases;RtM via: Clinical infection"	AB	MM;RC	"1057^18^0;631^19^0
@@ -1108,7 +1108,7 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 31691607	Antibiotic	C0003232	4035	ET	"Entry Term Replacement for ""Anti-Bacterial Agents"";RtM via: Antibiotics"	AB	MM;RC	"847^10^0
 "
 30911807	Humans	C0086418	1000	CT	Forced Humans: Transplant Recipients		"MM
-"
+"	
 30911807	*Transplant Recipients	C0376387	100022	MH	Forced Leaf Node Lookup:transplant recipients	TI	MM;RC	"95^21^0
 "
 30911807	Opportunistic Infections	C0029118	130474	MH	RtM via: Opportunistic Infections	AB	MM;RC	"339^24^0
@@ -1116,13 +1116,13 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 30911807	*Infectious Diseases	C0009450	96483	ET	"Entry Term Replacement for ""Communicable Diseases"";RtM via: Communicable Diseases"	TI	MM	"60^19^0
 "
 30911807	Organ Transplantation	C0029216	90565	MH			"RC
-"
+"	
 30911807	Immunocompromised Host	C0085393	65385	MH			"RC
-"
+"	
 30911807	Immunosuppressive Agents	C0021081	16405	MH			"RC
-"
+"	
 30911807	Risk Factors	C0035648	3918	MH			"RC
-"
+"	
 29785478	Nepal	C0027689	37715	MH	RtM via: Nepal;Forced Leaf Node Lookup:nepal	TI;AB	MM;RC	"1161^5^0;134^5^0;62^5^0
 "
 29785478	Influenza A Virus, H1N1 Subtype	C1615607	28724	MH	Forced Lookup:h1n1	AB	MM	"653^4^0
@@ -1130,7 +1130,7 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 29785478	Influenza A Virus, H5N1 Subtype	C1613950	28724	MH	Forced Lookup:h5n1	AB	MM	"644^4^0
 "
 29785478	Communicable Diseases	C0009450	193786	MH			"RC
-"
+"	
 29785478	Outbreaks	C0012652	67223	ET	"Entry Term Replacement for ""Disease Outbreaks"";RtM via: Disease Outbreaks"	AB	MM;RC	"749^9^0
 "
 29785478	Dengue Fever	C0011311	40095	ET	"Entry Term Replacement for ""Dengue"";RtM via: Dengue Fever"	AB	MM;RC	"605^12^0
@@ -1144,7 +1144,7 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 29785478	HIV Coinfection	C4505456	9720	ET	"Entry Term Replacement for ""HIV Infections"";RtM via: HIV Coinfection"	AB	MM;RC	"793^3^1;800^11^1
 "
 30173662	Animals	C0003062	393172	CT	Disease Vectors;CT Treecode Lookup: N06.850.310.350 (Disease Vectors)		"MM;RC
-"
+"	
 30173662	*Poverty	C0032854	56110	MH	RtM via: Poverty;Forced Leaf Node Lookup:poverty	TI;AB	MM;RC	"645^7^0;269^7^0;157^7^0
 "
 30173662	*Diagnostic Tests, Routine	C0011930	50899	MH	RtM via: Diagnostic tests;Forced Leaf Node Lookup:diagnostic tests	TI	MM;RC	"90^16^0
@@ -1154,15 +1154,15 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 30173662	*Disease Vectors	C0012656	293004	MH	RtM via: Disease Vectors	TI;AB	MM;RC	"234^6^0;111^6^0
 "
 30173662	Dengue	C0011311	20350	MH			"RC
-"
+"	
 30173662	Malaria	C0024530	19721	MH			"RC
-"
+"	
 30173662	Urban Health	C0041933	7532	MH			"RC
-"
+"	
 30209913	Humans	C0086418	41695	CT	CT Text Lookup: patient;CT Text Lookup: patients	AB	MM;RC	"623^8^0
 "
 30209913	Communicable Diseases	C0009450	40695	MH			"RC
-"
+"	
 30209913	Anti-Infective Agents	C0003204	36678	MH	RtM via: Microbicides	AB	MM;RC	"87^14^0
 "
 30209913	Nosocomial Infection	C0205721	11212	ET	"Entry Term Replacement for ""Cross Infection"";RtM via: Cross Infection;RtM via: Infections, Hospital"	AB	MM;RC	"545^20^0
@@ -1170,7 +1170,7 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 30209913	Fungal Infection	C0026946	8925	ET	"Entry Term Replacement for ""Mycoses"";RtM via: Mycoses"	AB	MM;RC	"682^16^0
 "
 30209913	HIV Infections	C0019693	4594	MH			"RC
-"
+"	
 30209913	Immunocompromised Host	C0085393	2774	MH	RtM via: Immunocompromised Host	AB	MM;RC	"879^25^0
 "
 30209913	Sepsis	C0243026	1274	MH	RtM via: Sepsis;RtM via: Septicemia	AB	MM	"811^6^0
@@ -1178,7 +1178,7 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 30209913	Infection Control	C0085557	722	MH	RtM via: Infectious disease prevention / control	AB	MM	"975^17^0
 "
 30209913	Peer Review	C0030768	304	MH			"RC
-"
+"	
 30209913	Biofilms	C0081786	57	MH	RtM via: Microbial Biofilms	AB	MM	"723^8^0
 "
 30209913	Enterocolitis, Pseudomembranous	C0014358	41	MH	RtM via: Clostridium difficile colitis	AB	MM	"591^31^0
@@ -1196,11 +1196,11 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 23669075	Thrombomodulin	C0145779	90230	HM	RtM via: Thrombomodulin;RtM via: THBD protein, human	AB	MM;RC	"842^14^0
 "
 23669075	Vascular Cell Adhesion Molecule-1	C0078056	50405	MH			"RC
-"
+"	
 23669075	Sepsis	C0243026	49117	MH	RtM via: Sepsis;RtM via: Septicemia	AB	MM;RC	"1085^6^0;633^28^0;237^6^0
 "
 23669075	E-Selectin	C0115305	43713	MH			"RC
-"
+"	
 23669075	von Willebrand Factor	C0042971	39224	MH	RtM via: von Willebrand factor;RtM via: von Willebrand factor, human	AB	MM;RC	"805^21^0
 "
 23669075	Septic Shock	C0036983	37697	ET	"Entry Term Replacement for ""Shock, Septic"";RtM via: Septic Shock"	AB	MM;RC	"248^12^0
@@ -1210,7 +1210,7 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 23669075	Cell Adhesion Molecules	C0007578	31775	MH	RtM via: Cell Adhesion Molecules	AB	MM;RC	"867^4^1;880^18^1
 "
 23669075	Endothelium, Vascular	C0014261	29409	MH			"RC
-"
+"	
 23669075	*Vascular Diseases	C0042373	9801	MH	RtM via: Endothelial dysfunction	TI;AB	MM	"387^23^0;100^23^0;35^11^1;58^11^1
 "
 10642539	Animals	C0003062	1182400	CT	Animals, Wild;CT Treecode Lookup: B01.050.050 (Animals, Wild);Zoonoses;CT Treecode Lookup: C22 (Zoonoses);Animals, Domestic;CT Treecode Lookup: B01.050.050 (Animals, Domestic);CT Text Lookup: animal;CT Text Lookup: animals	AB	MM;RC	"167^7^0
@@ -1222,23 +1222,23 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 10642539	*Communicable Diseases, Emerging	C0872315	1115049	MH	RtM via: Communicable Diseases, Emerging;Forced Leaf Node Lookup:emerging infectious diseases	TI;AB	MM;RC	"701^4^0;268^4^0;111^28^0;21^28^0
 "
 10642539	Zoonoses	C0043528	244402	MH			"RC
-"
+"	
 10642539	Animals, Domestic	C0003063	165149	MH	RtM via: Animals, Domestic	AB	MM;RC	"650^15^0;307^16^0;494^15^0
 "
 10642539	*Biodiversity	C0282469	154509	MH	RtM via: Biodiversity;Forced Non-Leaf Node Lookup:biodiversity	TI;AB	MM;RC	"762^12^0;74^12^0
 "
 10642539	Communicable Diseases	C0009450	117368	MH			"RC
-"
+"	
 10642539	Disease Reservoirs	C0012653	82751	MH			"RC
-"
+"	
 10642539	Conservation of Natural Resources	C0009799	40497	MH			"RC
-"
+"	
 29702253	Animals	C0003062	369950	CT	Mesocricetus;CT Treecode Lookup: B01.050.150.900.649.313.992 (Mesocricetus);Mesocricetus;CT Treecode Lookup: B01.050.150.900.649.313.992.635.075.250 (Mesocricetus)		"MM;RC
-"
+"	
 29702253	Cricetinae	C0018557	369950	CT	Mesocricetus;CT Treecode Lookup: B01.050.150.900.649.313.992.635.075.250 (Mesocricetus)		"MM
-"
+"	
 29702253	Humans	C0086418	1000	CT	Forced Humans: Transients and Migrants		"MM
-"
+"	
 29702253	*Transients and Migrants	C0040705	368950	MH	RtM via: Migrants;Forced Leaf Node Lookup:migrants	TI;AB	MM;RC	"351^7^0;168^8^0;72^8^0
 "
 29702253	Syria	C0039138	129881	MH	RtM via: Syria;Forced Leaf Node Lookup:syrians	AB;TI;TI;AB	MM;RC	"240^5^0;52^6^0
@@ -1248,17 +1248,17 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 29702253	*Infectious Disease	C0009450	279174	ET	"Entry Term Replacement for ""Communicable Diseases"";RtM via: Communicable Diseases"	TI;AB	MM;RC	"386^19^0;21^18^0
 "
 29702253	Refugees	C0034961	48060	MH			"RC
-"
+"	
 29702253	Europe	C0015176	40761	MH	RtM via: Europe;Forced Non-Leaf Node Lookup:europe	TI;AB	MM;RC	"306^6^0;190^6^0;95^6^0
 "
 29702253	*Mesocricetus	C0025484	2505	MH	RtM via: Mesocricetus auratus	TI	MM	"52^6^0
 "
 29217262	Animals	C0003062	88027	CT	Animal Diseases;CT Treecode Lookup: C22 (Animal Diseases)	AB	"MM
-"
+"	
 29217262	Infectious Disease	C0009450	87027	ET	"Entry Term Replacement for ""Communicable Diseases"";RtM via: Communicable Diseases"	AB	MM;RC	"832^19^0;668^19^0;335^18^0;125^19^0
 "
 29217262	Philosophy, Medical	C0031536	22023	MH			"RC
-"
+"	
 29217262	Noncommunicable Diseases	C4505065	779	MH	RtM via: Noncommunicable Diseases	AB	MM	"896^24^0;208^24^0
 "
 29217262	Dissent and Disputes	C1136019	217	MH	RtM via: Disputes	AB	MM	"481^5^0;294^6^0
@@ -1274,7 +1274,7 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 27304507	Lifespan	C0870809	458930	ET	"Entry Term Replacement for ""Longevity"";RtM via: Life Span;RtM via: Longevity"	AB	MM;RC	"158^8^0
 "
 27304507	Hypoglycemic Agents	C0020616	99095	MH			"RC
-"
+"	
 27304507	Diet	C0012155	4892	MH	RtM via: Diet	AB	MM;RC	"103^7^0
 "
 27247702	Humans	C0086418	1254271	CT	CT Text Lookup: human	AB	MM;RC	"145^5^0
@@ -1288,9 +1288,9 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 27247702	*Aging	C0001811	391572	MH	RtM via: Aging;Forced Non-Leaf Node Lookup:age-related diseases	TI;AB	MM;RC	"1304^5^0;783^5^0;631^5^0;321^5^0;77^5^0;87^20^0;119^5^0;1163^5^0;1407^5^0
 "
 27247702	Oxidative Stress	C0242606	42270	MH			"RC
-"
+"	
 27247702	Signal Transduction	C0037083	27202	MH			"RC
-"
+"	
 31292558	Humans	C0086418	579116	CT	CT Text Lookup: human	AB	MM;RC	"761^5^0
 "
 31292558	*Healthy Aging	C2963171	578116	MH	RtM via: Healthy Aging;Forced Leaf Node Lookup:healthy ageing	TI	MM;RC	"77^14^0
@@ -1300,27 +1300,27 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 31292558	Lifespan	C0870809	405218	ET	"Entry Term Replacement for ""Longevity"";RtM via: Life Span;RtM via: Longevity"	AB	MM;RC	"351^8^0;170^8^0
 "
 31292558	Rejuvenation	C0035016	70439	MH			"RC
-"
+"	
 31292558	Geriatrics	C0017469	66368	MH			"RC
-"
+"	
 31292558	Biomedical Research	C0005540	4864	MH			"RC
-"
+"	
 24840916	Humans	C0086418	291646	CT	Activities of Daily Living;CT Treecode Lookup: E02.760 (Activities of Daily Living);Activities of Daily Living;CT Treecode Lookup: N02.421.784 (Activities of Daily Living)		"RC
-"
+"	
 24840916	*Aging	C0001811	290646	MH	RtM via: Aging;Forced Non-Leaf Node Lookup:aging	TI;AB	MM;RC	"172^5^0;41^5^0
 "
 24840916	Health Status	C0018759	100325	MH			"RC
-"
+"	
 24840916	Activities of Daily Living	C0001288	71751	MH			"RC
-"
+"	
 24840916	Personal Satisfaction	C0031206	69883	MH			"RC
-"
+"	
 24840916	Quality of Life	C0034380	56004	MH			"RC
-"
+"	
 24840916	Adaptation, Psychological	C0683269	25571	MH			"RC
-"
+"	
 24840916	Social Support	C0037438	22726	MH			"RC
-"
+"	
 25417146	Animals	C0003062	219208	CT	CT Text Lookup: mammalian	AB	MM;RC	"74^9^0
 "
 25417146	Humans	C0086418	219208	CT	Forced Lookup:elderly population;CT Text Lookup: human	AB	MM;RC	"173^18^0;403^5^0
@@ -1332,9 +1332,9 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 25417146	*Chronic Disease	C0008679	136878	MH	RtM via: Chronic disease;Forced Non-Leaf Node Lookup:chronic diseases	TI;AB	MM;RC	"280^16^0;51^15^0
 "
 25417146	Geriatrics	C0017469	75712	MH			"RC
-"
+"	
 25417146	Biomedical Research	C0005540	10589	MH			"RC
-"
+"	
 25417146	Morbidity	C0026538	6924	MH	RtM via: Morbidity - disease rate	AB	MM;RC	"310^9^0
 "
 25417146	Risk Factor	C0035648	156	ET	"Entry Term Replacement for ""Risk Factors"";RtM via: risk factors"	AB	MM	"250^11^0
@@ -1356,7 +1356,7 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 21402176	Chronic Diseases	C0008679	172973	ET	"Entry Term Replacement for ""Chronic Disease"";RtM via: Chronic disease"	AB	MM;RC	"1145^16^0
 "
 21402176	Comorbidity	C0009488	170766	MH			"RC
-"
+"	
 21402176	*Aging	C0001811	154119	MH	RtM via: Aging;Forced Non-Leaf Node Lookup:aging	TI	MM;RC	"21^5^0
 "
 21402176	Disabled Persons	C0018576	37591	MH	RtM via: Disability	AB	MM;RC	"816^10^0
@@ -1370,11 +1370,11 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 23454759	*Phenotype	C0031437	151413	MH	RtM via: Phenotype;Forced Non-Leaf Node Lookup:phenotypes	TI	MM;RC	"69^9^0
 "
 23454759	DNA Damage	C0012860	38345	MH			"RC
-"
+"	
 23454759	Inflammation	C0021368	34163	MH	RtM via: Chronic inflammation	AB	MM;RC	"496^20^0
 "
 23454759	Signal Transduction	C0037083	30784	MH			"RC
-"
+"	
 23454759	Chronic Disease	C0008679	6653	MH	RtM via: Chronic disease	AB	MM;RC	"665^15^0;155^16^0
 "
 22265401	*Rejuvenation	C0035016	301182	MH	RtM via: Rejuvenation;Forced Leaf Node Lookup:rejuvenation	TI;AB	MM;RC	"485^12^0;28^12^0
@@ -1384,7 +1384,7 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 22265401	Cellular Senescence	C0007581	172018	MH	RtM via: Cellular Senescence	AB	MM;RC	"414^10^0
 "
 22265401	Cellular Reprogramming	C3850096	29064	MH			"RC
-"
+"	
 22265401	Epigenesis, Genetic	C1257873	21003	MH	Forced Non-Leaf Node Lookup:epigenetic		MM;RC	"46^10^0;518^10^0;587^10^0
 "
 30888656	*Skin	C1123023	551241	MH	RtM via: Skin;RtM via: Skin, Human	TI;AB	MM;RC	"1217^4^0;891^4^0;643^4^0;360^4^0;59^4^0;21^4^0
@@ -1398,11 +1398,11 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 30888656	Extracellular Matrix	C0015350	45572	MH	RtM via: Extracellular Matrix	AB	MM;RC	"250^20^0
 "
 30888656	Fibroblasts	C0016030	34762	MH			"RC
-"
+"	
 30888656	Reactive Oxygen Species	C0162772	15034	MH	RtM via: Reactive Oxygen Species	AB	MM;RC	"752^23^0
 "
 30888656	Cells, Cultured	C0007635	14963	MH			"RC
-"
+"	
 15169926	Humans	C0086418	142861	CT	CT Text Lookup: individuals	AB	MM;RC	"1973^11^0
 "
 15169926	Aged	C0001792	1000	CT	Forced Age Group: older people; Forced Age Group: geriatric; Forced Age Group: in older		MM	"176^12^0;39^9^0;955^8^0
@@ -1424,7 +1424,7 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 15169926	Kidney	C0022646	26801	MH	RtM via: Kidney	AB	MM;RC	"896^5^0
 "
 15169926	Age Factors	C0001783	21975	MH			"RC
-"
+"	
 15169926	Bioavailability	C0005508	9530	ET	"Entry Term Replacement for ""Biological Availability"";RtM via: Biological Availability;RtM via: Bioavailability Study"	AB	MM;RC	"666^15^0
 "
 15169926	Liver	C0023884	5511	MH	RtM via: Hepatic	AB	MM;RC	"708^7^0
@@ -1448,7 +1448,7 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 28118636	Disease Models, Animal	C0012644	9440	MH	RtM via: Mouse Model	AB	MM;RC	"355^12^0
 "
 28118636	Signal Transduction	C0037083	5976	MH			"RC
-"
+"	
 28790143	Humans	C0086418	602764	CT	Forced Leaf Node Lookup:humans;CT Text Lookup: human	TI	MM;RC	"58^5^0
 "
 28790143	*Healthy Aging	C2963171	113521	MH	RtM via: Healthy Aging;Forced Leaf Node Lookup:healthy aging	TI;AB	MM	"756^13^0;77^13^0
@@ -1504,13 +1504,13 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 30124168	*Aging	C0001811	338415	MH	RtM via: Aging;Forced Non-Leaf Node Lookup:aging	TI;AB	MM;RC	"641^5^0;331^5^0;244^5^0;50^5^0;675^5^0;749^5^0;820^5^0
 "
 30124168	Selection, Genetic	C0036576	93337	MH			"RC
-"
+"	
 30124168	Genetics, Population	C0017404	70228	MH	RtM via: Genetics, Population	AB	MM;RC	"183^18^0
 "
 30124168	Biological Evolution	C0015219	67971	MH			"RC
-"
+"	
 30124168	Models, Biological	C0026339	10092	MH			"RC
-"
+"	
 26232135	*Anorexia	C0003123	692067	MH	RtM via: Anorexia;RtM via: Loss of appetite (finding);Forced Leaf Node Lookup:anorexias	TI;AB	MM;RC	"1060^8^0;976^8^0;892^8^0;733^8^0;318^8^0;279^8^0;39^8^0
 "
 26232135	Appetite	C0003618	140627	MH	RtM via: Desire for food	AB	MM;RC	"223^8^0
@@ -1520,13 +1520,13 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 26232135	Nutritional Status	C0392209	45997	MH	RtM via: Nutritional status	AB	MM;RC	"1383^18^0
 "
 26232135	Energy Intake	C0006777	34096	MH			"RC
-"
+"	
 26232135	Eating	C0013470	30884	MH			"RC
-"
+"	
 26232135	Body Weight	C0005910	24901	MH	RtM via: Body Weight	AB	MM;RC	"169^6^0
 "
 26232135	Weight Loss	C1262477	14917	MH			"RC
-"
+"	
 26232135	Protein Energy Malnutrition	C0033677	12766	ET	"Entry Term Replacement for ""Protein-Energy Malnutrition"";RtM via: Protein-Energy Malnutrition"	AB	MM;RC	"1097^27^0
 "
 26232135	Body Composition	C0005885	8738	MH	RtM via: Body Composition	AB	MM;RC	"851^16^0
@@ -1546,11 +1546,11 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 27771728	Longevity	C0023980	109294	MH	RtM via: Longevity;RtM via: Life Span	AB	MM;RC	"1964^9^0;1560^9^0;669^10^0
 "
 27771728	CLOCK Proteins	C2717934	99012	MH			"RC
-"
+"	
 27771728	Caloric Restriction	C1135809	63143	MH	RtM via: Caloric Restriction;RtM via: Low-Calorie Diet	AB	MM;RC	"681^19^0
 "
 27771728	Feeding Behavior	C0015745	16614	MH			"RC
-"
+"	
 27771728	Values, Reference	C0086715	8811	ET	"Entry Term Replacement for ""Reference Values"";RtM via: Normal Range"	AB	MM;RC	"1158^16^0
 "
 28820053	Humans	C0086418	159844	CT	CT Text Lookup: individuals	AB	MM;RC	"369^11^0
@@ -1560,15 +1560,15 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 28820053	*Neurobiology	C0027817	158844	MH	RtM via: Neurobiology	TI	MM;RC	"21^15^0
 "
 28820053	Resilience, Psychological	C0683253	100677	MH			"RC
-"
+"	
 28820053	Posttraumatic Stress Disorder	C0038436	63704	ET	"Entry Term Replacement for ""Stress Disorders, Post-Traumatic"";RtM via: Post-Traumatic Stress Disorder"	AB	MM;RC	"294^30^0
 "
 28820053	Stress, Psychological	C0038443	37863	MH			"RC
-"
+"	
 28820053	Psychopathology	C0033927	11996	MH	RtM via: Psychopathology	AB	MM;RC	"563^15^0
 "
 28820053	Brain	C0006104	6662	MH			"RC
-"
+"	
 25528930	Humans	C0086418	243010	CT	Forced Leaf Node Lookup:humans;CT Text Lookup: human;CT Text Lookup: humans	TI;AB	MM;RC	"111^5^0;143^6^0;333^5^0;992^5^0;1597^5^0
 "
 25528930	*Social Determinants of Health	C3658315	26944	MH	Forced Leaf Node Lookup:social determinants	TI	MM	"50^19^0
@@ -1576,13 +1576,13 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 25528930	*Biological Aging	C0085759	242010	ET	"Entry Term Replacement for ""Aging"";RtM via: Aging;RtM via: Biological Aging"	TI;AB	MM;RC	"1574^6^0;1460^6^0;975^6^0;732^5^0;339^5^0;134^5^0;117^5^0;435^16^0
 "
 25528930	Adaptation, Psychological	C0683269	73223	MH			"RC
-"
+"	
 25528930	Social Behavior	C0037397	26734	MH	RtM via: Socializing	AB	MM;RC	"886^15^0
 "
 25528930	Attitude	C0004271	22011	MH	RtM via: Attitude	AB	MM;RC	"1069^9^0;834^8^0
 "
 28685671	Animals	C0003062	223810	CT	Models, Animal;CT Treecode Lookup: E05.598 (Models, Animal)		"RC
-"
+"	
 28685671	*Drug Discovery	C0920472	114893	MH	RtM via: Drug Discovery;Forced Leaf Node Lookup:drug discovery	TI	MM;RC	"81^14^0
 "
 28685671	*Aging	C0001811	222810	MH	RtM via: Aging;Forced Non-Leaf Node Lookup:aging	TI	MM;RC	"45^5^0
@@ -1590,7 +1590,7 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 28685671	Lifespan	C0870809	207415	ET	"Entry Term Replacement for ""Longevity"";RtM via: Life Span;RtM via: Longevity"	AB	MM;RC	"546^9^0
 "
 28685671	Models, Animal	C0599779	14960	MH			"RC
-"
+"	
 28685671	*Models, Experimental	C0086272	7839	ET	"Entry Term Replacement for ""Models, Theoretical"";RtM via: Experimental Model;Forced Non-Leaf Node Lookup:experimental models"	TI	MM	"21^19^0
 "
 29301845	Animals	C0003062	324397	CT	CT Text Lookup: animal;CT Text Lookup: mammalian	AB	MM;RC	"1427^6^0;569^9^0
@@ -1598,18 +1598,18 @@ PMID	Terms	CUI	Score	Type	Misc	Location	Paths
 29301845	*Aging	C0001811	323397	MH	RtM via: Aging;Forced Non-Leaf Node Lookup:aging	TI;AB	MM;RC	"1262^5^0;785^5^0;708^5^0;636^5^0;553^5^0;182^5^0;47^5^0
 "
 29301845	Cellular Reprogramming	C3850096	287444	MH			"RC
-"
+"	
 29301845	Rejuvenation	C0035016	155927	MH	RtM via: Rejuvenation	AB	MM;RC	"1455^12^0
 "
 29301845	Induced Pluripotent Stem Cells	C2717959	140405	MH			"RC
-"
+"	
 29301845	Regenerative Medicine	C1257974	111502	MH	RtM via: Regenerative Medicine	AB	MM;RC	"747^21^0
 "
 29301845	Cellular Senescence	C0007581	84112	MH			"RC
-"
+"	
 29301845	Longevity	C0023980	64986	MH	RtM via: Longevity;RtM via: Life Span	AB	MM;RC	"1588^9^0;417^9^0
 "
 29301845	Cell Differentiation	C0007589	57033	MH	RtM via: Cell Differentiation process	AB	MM;RC	"909^14^0
 "
 29301845	Epigenesis, Genetic	C1257873	41068	MH			"RC
-"
+"	

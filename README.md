@@ -14,31 +14,31 @@
 ## File Structure
 <pre>
 ├── Aging  
-|    ├── final.sh  
+|    ├── script.sh  
 |    ├── abstract.txt   
 |    ├── index.py  
 |    ├── meshterms.txt  
 |    └── pmid-AgingMeshT-set.txt  
 ├── CommunicableDiseases  
-|    ├── final.sh  
+|    ├── script.sh  
 |    ├── abstract.txt  
 |    ├── index.py  
 |    ├── meshterms.txt  
 |    └── pmid-Communicab-set.txt  
 ├── ComputationalBiology  
-|    ├── final.sh  
+|    ├── script.sh  
 |    ├── abstract.txt  
 |    ├── index.py  
 |    ├── meshterms.txt  
 |    └── pmid-Computatio-set.txt  
 ├── Neoplasms  
-|    ├── final.sh  
+|    ├── script.sh  
 |    ├── abstract.txt  
 |    ├── index.py  
 |    ├── meshterms.txt  
 |    └── pmid-NeoplasmsM-set.txt  
 ├── Neurosciences  
-|    ├── final.sh  
+|    ├── script.sh  
 |    ├── abstract.txt  
 |    ├── index.py  
 |    ├── meshterms.txt  

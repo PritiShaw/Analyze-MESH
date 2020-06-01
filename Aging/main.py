@@ -14,6 +14,6 @@ with open('abstract.txt','w') as o:
             print('UI  - ', pmid, file=o)
             print('TI  - ', article_title, file=o)
             print('AB  - ', abstract_text, file=o)
-	    print("\n", file =o) 
+            print("\n", file=o)
     o.close()
 f.close()

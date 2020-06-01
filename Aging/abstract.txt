@@ -12,7 +12,6 @@ UI  -  31292558
 TI  -  From discoveries in ageing research to therapeutics for healthy ageing.
 AB  -  For several decades, understanding ageing and the processes that limit lifespan have challenged biologists. Thirty years ago, the biology of ageing gained unprecedented scientific credibility through the identification of gene variants that extend the lifespan of multicellular model organisms. Here we summarize the milestones that mark this scientific triumph, discuss different ageing pathways and processes, and suggest that ageing research is entering a new era that has unique medical, commercial and societal implications. We argue that this era marks an inflection point, not only in ageing research but also for all biological research that affects the human healthspan.
 
-
 UI  -  24840916
 TI  -  Defining successful aging: a tangible or elusive concept?
 AB  -  Everyone wants to age successfully; however, the definition and criteria of successful aging remain vague for laypersons, researchers, and policymakers in spite of decades of research on the topic. This paper highlights work of scholars who made significant theoretical contributions to the topic.
@@ -65,7 +64,7 @@ AB  -  Longevity and healthy aging are among the most complex phenotypes studied
 
 UI  -  30124168
 TI  -  Horizons in the evolution of aging.
-AB  -  Between the 1930s and 50s, evolutionary biologists developed a successful theory of why organisms age, firmly rooted in population genetic principles. By the 1980s the evolution of aging had a secure experimental basis. Since the force of selection declines with age, aging evolves due to mutation accumulation or a benefit to fitness early in life. Here we review major insights and challenges that have emerged over the last 35 years: selection does not always necessarily decline with age; higher extrinsic (i.e., environmentally caused) mortality does not always accelerate aging; conserved pathways control aging rate; senescence patterns are more diverse than previously thought; aging is not universal; trade-offs involving lifespan can be 'broken'; aging might be 'druggable'; and human life expectancy continues to rise but compressing late-life morbidity remains a pressing challenge.
+AB  -  Between the 1930s and 50s, evolutionary biologists developed a successful theory of why organisms age, firmly rooted in population genetic principles. By the 1980s the evolution of aging had a secure experimental basis. Since the force of selection declines with age, aging evolves due to mutation accumulation or a benefit to fitness early in life. Here we review major insights and challenges that have emerged over the last 35 years: selection does not always necessarily decline with age; higher extrinsic (i.e., environmentally caused) mortality does not always accelerate aging; conserved pathways control aging rate; senescence patterns are more diverse than previously thought; aging is not universal; trade-offs involving lifespan can be 'broken'; aging might be 'druggable'; and human life expectancy continues to rise but compressing late-life morbidity remains a pressing challenge.
 
 
 UI  -  26232135
