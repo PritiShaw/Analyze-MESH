@@ -46,16 +46,27 @@ with open('compare.tsv', mode='w') as f:
     writer = csv.writer(f, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
     print("PMID","EUTIL","WEBAPI", "TOPIC TERM",sep='\t',file=f)
     for key,val in Dictonary.items():
-        list_A= val['eutil']
-        list_B= val['webapi']
-        list_C= val['topic_term']
-        len_A=len(list_A)
-        len_B=len(list_B)
-        max_length= max(len_A,len_B)
-        for idx in range(max_length):
+        list_A=val['eutil']
+        list_B=val['webapi']
+        list_C=val['topic_term']
+        for i in list_B:
             row = [key,"","",""]
-            row[1] = list_A[idx] if idx<len_A else "NA"
-            row[2] = list_B[idx] if idx<len_B else "NA"
-            row[3] = list_C[0] if idx<1 else list_C[0]
-            print('\t'.join(row),file=f)
-#print("STEP3 Completed...")
+            if i in list_A or i[1:] in list_A:
+                continue
+            else:
+                row[1]="NA"
+                row[2]= i
+                row[3]= list_C[0]
+                print('\t'.join(row),file=f)
+        for i in list_A:
+            if i in list_B or '*'+i in list_B:
+                row[1]= i
+                row[2]= i
+                row[3]= list_C[0]
+                print('\t'.join(row),file=f)
+            else:
+                row[1]=i
+                row[2]= "NA"
+                row[3]= list_C[0]
+                print('\t'.join(row),file=f)
+#print("STEP3 completed...")

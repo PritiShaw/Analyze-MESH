@@ -1,340 +1,432 @@
 PMID	EUTIL	WEBAPI	TOPIC TERM
-27304507	Aging	Humans	Aging
-27304507	Animals	*Metformin	Aging
-27304507	Clinical Trials as Topic	*Aging	Aging
-27304507	Humans	Lifespan	Aging
-27304507	Longevity	Hypoglycemic Agents	Aging
-27304507	Metformin	Diet	Aging
+27304507	NA	Lifespan	Aging
+27304507	NA	Hypoglycemic Agents	Aging
+27304507	NA	Diet	Aging
+27304507	Aging	Aging	Aging
+27304507	Animals	NA	Aging
+27304507	Clinical Trials as Topic	NA	Aging
+27304507	Humans	Humans	Aging
+27304507	Longevity	NA	Aging
+27304507	Metformin	Metformin	Aging
 27304507	Models, Animal	NA	Aging
 27304507	Models, Biological	NA	Aging
-27247702	Aging	Humans	Aging
-27247702	Cellular Senescence	*Reactive Oxygen Species	Aging
-27247702	Humans	Epigenesis, Genetic	Aging
-27247702	Reactive Oxygen Species	*Cell Senescence	Aging
-27247702	NA	*Aging	Aging
+27247702	NA	Epigenesis, Genetic	Aging
+27247702	NA	*Cell Senescence	Aging
 27247702	NA	Oxidative Stress	Aging
 27247702	NA	Signal Transduction	Aging
-31292558	Aging	Humans	Aging
-31292558	Biomedical Research	*Healthy Aging	Aging
-31292558	Circadian Clocks	*Aging	Aging
-31292558	Clinical Trials as Topic	Lifespan	Aging
-31292558	Healthy Aging	Rejuvenation	Aging
-31292558	Humans	Geriatrics	Aging
-31292558	Inflammation	Biomedical Research	Aging
+27247702	Aging	Aging	Aging
+27247702	Cellular Senescence	NA	Aging
+27247702	Humans	Humans	Aging
+27247702	Reactive Oxygen Species	Reactive Oxygen Species	Aging
+31292558	NA	Lifespan	Aging
+31292558	NA	Geriatrics	Aging
+31292558	Aging	Aging	Aging
+31292558	Biomedical Research	Biomedical Research	Aging
+31292558	Circadian Clocks	NA	Aging
+31292558	Clinical Trials as Topic	NA	Aging
+31292558	Healthy Aging	Healthy Aging	Aging
+31292558	Humans	Humans	Aging
+31292558	Inflammation	NA	Aging
 31292558	Longevity	NA	Aging
 31292558	Mitochondria	NA	Aging
 31292558	Nutritional Status	NA	Aging
 31292558	Oxidative Stress	NA	Aging
-31292558	Rejuvenation	NA	Aging
+31292558	Rejuvenation	Rejuvenation	Aging
 31292558	Signal Transduction	NA	Aging
-24840916	Activities of Daily Living	Humans	Aging
-24840916	Aged, 80 and over	*Aging	Aging
-24840916	Aging	Health Status	Aging
-24840916	Female	Activities of Daily Living	Aging
-24840916	Geriatrics	Personal Satisfaction	Aging
-24840916	Health Status	Quality of Life	Aging
-24840916	Humans	Adaptation, Psychological	Aging
-24840916	Longevity	Social Support	Aging
+24840916	NA	Adaptation, Psychological	Aging
+24840916	NA	Social Support	Aging
+24840916	Activities of Daily Living	Activities of Daily Living	Aging
+24840916	Aged, 80 and over	NA	Aging
+24840916	Aging	Aging	Aging
+24840916	Female	NA	Aging
+24840916	Geriatrics	NA	Aging
+24840916	Health Status	Health Status	Aging
+24840916	Humans	Humans	Aging
+24840916	Longevity	NA	Aging
 24840916	Male	NA	Aging
-24840916	Personal Satisfaction	NA	Aging
-24840916	Quality of Life	NA	Aging
-25417146	Aging	Animals	Aging
-25417146	Animals	Humans	Aging
-25417146	Biomedical Research	Aged	Aging
-25417146	Chronic Disease	*Aging	Aging
-25417146	Epigenesis, Genetic	*Chronic Disease	Aging
-25417146	Gene-Environment Interaction	Geriatrics	Aging
-25417146	Humans	Biomedical Research	Aging
+24840916	Personal Satisfaction	Personal Satisfaction	Aging
+24840916	Quality of Life	Quality of Life	Aging
+25417146	NA	Aged	Aging
+25417146	NA	Geriatrics	Aging
 25417146	NA	Morbidity	Aging
 25417146	NA	Risk Factor	Aging
-21402176	Aging	Humans	Aging
-21402176	Animals	Female	Aging
-21402176	Chronic Disease	Aged	Aging
-21402176	Comorbidity	Aged, 80 and over	Aging
-21402176	Cross-Sectional Studies	*Multimorbidity	Aging
-21402176	Humans	Quality of Life	Aging
-21402176	Quality of Health Care	Cross-Sectional Studies	Aging
-21402176	Quality of Life	Chronic Diseases	Aging
-21402176	Risk Factors	Comorbidity	Aging
-21402176	NA	*Aging	Aging
+25417146	Aging	Aging	Aging
+25417146	Animals	Animals	Aging
+25417146	Biomedical Research	Biomedical Research	Aging
+25417146	Chronic Disease	Chronic Disease	Aging
+25417146	Epigenesis, Genetic	NA	Aging
+25417146	Gene-Environment Interaction	NA	Aging
+25417146	Humans	Humans	Aging
+21402176	NA	Female	Aging
+21402176	NA	Aged	Aging
+21402176	NA	Aged, 80 and over	Aging
+21402176	NA	*Multimorbidity	Aging
+21402176	NA	Chronic Diseases	Aging
 21402176	NA	Disabled Persons	Aging
 21402176	NA	Prevalence	Aging
 21402176	NA	Longitudinal Studies	Aging
-23454759	Aging	*Cellular Senescence	Aging
-23454759	Animals	*Phenotype	Aging
-23454759	Cellular Senescence	DNA Damage	Aging
-23454759	Clinical Trials as Topic	Inflammation	Aging
-23454759	DNA Damage	Signal Transduction	Aging
-23454759	DNA Repair	Chronic Disease	Aging
+21402176	Aging	Aging	Aging
+21402176	Animals	NA	Aging
+21402176	Chronic Disease	NA	Aging
+21402176	Comorbidity	Comorbidity	Aging
+21402176	Cross-Sectional Studies	Cross-Sectional Studies	Aging
+21402176	Humans	Humans	Aging
+21402176	Quality of Health Care	NA	Aging
+21402176	Quality of Life	Quality of Life	Aging
+21402176	Risk Factors	NA	Aging
+23454759	NA	Inflammation	Aging
+23454759	NA	Chronic Disease	Aging
+23454759	Aging	NA	Aging
+23454759	Animals	NA	Aging
+23454759	Cellular Senescence	Cellular Senescence	Aging
+23454759	Clinical Trials as Topic	NA	Aging
+23454759	DNA Damage	DNA Damage	Aging
+23454759	DNA Repair	NA	Aging
 23454759	Humans	NA	Aging
 23454759	Inflammation Mediators	NA	Aging
 23454759	Molecular Targeted Therapy	NA	Aging
-23454759	Phenotype	NA	Aging
-23454759	Signal Transduction	NA	Aging
-22265401	Aging	*Rejuvenation	Aging
-22265401	Animals	*Epigenetic	Aging
-22265401	Biological Clocks	Cellular Senescence	Aging
-22265401	Epigenomics	Cellular Reprogramming	Aging
-22265401	Gene Expression Regulation, Developmental	Epigenesis, Genetic	Aging
+23454759	Phenotype	Phenotype	Aging
+23454759	Signal Transduction	Signal Transduction	Aging
+22265401	NA	*Epigenetic	Aging
+22265401	NA	Cellular Senescence	Aging
+22265401	NA	Cellular Reprogramming	Aging
+22265401	NA	Epigenesis, Genetic	Aging
+22265401	Aging	NA	Aging
+22265401	Animals	NA	Aging
+22265401	Biological Clocks	NA	Aging
+22265401	Epigenomics	NA	Aging
+22265401	Gene Expression Regulation, Developmental	NA	Aging
 22265401	Humans	NA	Aging
-22265401	Rejuvenation	NA	Aging
-30888656	Aging	*Skin	Aging
-30888656	Extracellular Matrix	Skin Aging	Aging
-30888656	Humans	Ultraviolet Rays	Aging
-30888656	Skin	Dermis	Aging
-30888656	Skin Aging	Extracellular Matrix	Aging
-30888656	Skin Care	Fibroblasts	Aging
-30888656	Ultraviolet Rays	Reactive Oxygen Species	Aging
+22265401	Rejuvenation	Rejuvenation	Aging
+30888656	NA	Dermis	Aging
+30888656	NA	Fibroblasts	Aging
+30888656	NA	Reactive Oxygen Species	Aging
 30888656	NA	Cells, Cultured	Aging
-15169926	Aged	Humans	Aging
-15169926	Aged, 80 and over	Aged	Aging
-15169926	Aging	Aged, 80 and over	Aging
-15169926	Drug Therapy	*Pharmacology, Clinical	Aging
-15169926	Drug-Related Side Effects and Adverse Reactions	*Biological Aging	Aging
-15169926	Humans	Pharmaceutical Preparations	Aging
-15169926	Metabolic Clearance Rate	Metabolic Clearance Rate	Aging
-15169926	Pharmaceutical Preparations	Polypharmacy	Aging
-15169926	Pharmacokinetics	Reactions, Adverse Drug	Aging
-15169926	Pharmacology, Clinical	Kidney	Aging
+30888656	Aging	NA	Aging
+30888656	Extracellular Matrix	Extracellular Matrix	Aging
+30888656	Humans	NA	Aging
+30888656	Skin	Skin	Aging
+30888656	Skin Aging	Skin Aging	Aging
+30888656	Skin Care	NA	Aging
+30888656	Ultraviolet Rays	Ultraviolet Rays	Aging
+15169926	NA	*Biological Aging	Aging
+15169926	NA	Polypharmacy	Aging
+15169926	NA	Reactions, Adverse Drug	Aging
+15169926	NA	Kidney	Aging
 15169926	NA	Age Factors	Aging
 15169926	NA	Bioavailability	Aging
 15169926	NA	Liver	Aging
-28118636	Aging	Humans	Aging
-28118636	Animals	Mice	Aging
-28118636	Biological Evolution	Animals	Aging
-28118636	Caloric Restriction	*Aging	Aging
-28118636	Energy Metabolism	Longevity	Aging
-28118636	Fatty Acids	Caloric Restriction	Aging
-28118636	Humans	*Energy Metabolism	Aging
-28118636	Longevity	Transgenic Mouse	Aging
-28118636	Metabolic Networks and Pathways	Disease Models, Animal	Aging
-28118636	Mice	Signal Transduction	Aging
+15169926	Aged	Aged	Aging
+15169926	Aged, 80 and over	Aged, 80 and over	Aging
+15169926	Aging	NA	Aging
+15169926	Drug Therapy	NA	Aging
+15169926	Drug-Related Side Effects and Adverse Reactions	NA	Aging
+15169926	Humans	Humans	Aging
+15169926	Metabolic Clearance Rate	Metabolic Clearance Rate	Aging
+15169926	Pharmaceutical Preparations	Pharmaceutical Preparations	Aging
+15169926	Pharmacokinetics	NA	Aging
+15169926	Pharmacology, Clinical	Pharmacology, Clinical	Aging
+28118636	NA	Transgenic Mouse	Aging
+28118636	NA	Disease Models, Animal	Aging
+28118636	NA	Signal Transduction	Aging
+28118636	Aging	Aging	Aging
+28118636	Animals	Animals	Aging
+28118636	Biological Evolution	NA	Aging
+28118636	Caloric Restriction	Caloric Restriction	Aging
+28118636	Energy Metabolism	Energy Metabolism	Aging
+28118636	Fatty Acids	NA	Aging
+28118636	Humans	Humans	Aging
+28118636	Longevity	Longevity	Aging
+28118636	Metabolic Networks and Pathways	NA	Aging
+28118636	Mice	Mice	Aging
 28118636	Mice, Mutant Strains	NA	Aging
 28118636	Mice, Transgenic	NA	Aging
 28118636	Models, Animal	NA	Aging
-28790143	Aging	Humans	Aging
-28790143	Humans	*Healthy Aging	Aging
-28790143	Kidney	*Kidneys	Aging
+28790143	NA	*Healthy Aging	Aging
+28790143	NA	*Kidneys	Aging
 28790143	NA	Glomerular Filtration Rate	Aging
 28790143	NA	Nephron	Aging
 28790143	NA	Nephrosclerosis	Aging
 28790143	NA	Kidney Glomerulus	Aging
 28790143	NA	Albuminuria	Aging
-28790143	NA	Aging	Aging
 28790143	NA	Kidney Neoplasms	Aging
 28790143	NA	Arteriosclerosis	Aging
-23925498	Aging	Aged, 80 and over	Aging
-23925498	Epigenesis, Genetic	Humans	Aging
-23925498	Gene-Environment Interaction	Adult	Aging
-23925498	Genetic Linkage	*Longevity	Aging
-23925498	Genetic Variation	*Healthy Aging	Aging
-23925498	Genome-Wide Association Study	Genome-Wide Association Study	Aging
-23925498	Health	Aging	Aging
-23925498	Humans	SNPs	Aging
-23925498	Life Expectancy	Phenotypes	Aging
-23925498	Longevity	Epigenesis, Genetic	Aging
-23925498	NA	Genetic Linkage	Aging
+28790143	Aging	Aging	Aging
+28790143	Humans	Humans	Aging
+28790143	Kidney	NA	Aging
+23925498	NA	Aged, 80 and over	Aging
+23925498	NA	Adult	Aging
+23925498	NA	*Healthy Aging	Aging
+23925498	NA	SNPs	Aging
+23925498	NA	Phenotypes	Aging
 23925498	NA	Interactions, Gene-Environment	Aging
 23925498	NA	Alleles	Aging
-30124168	Aging	Humans	Aging
-30124168	Environment	Lifespan	Aging
-30124168	Humans	*Aging	Aging
-30124168	Longevity	Selection, Genetic	Aging
-30124168	Mortality	Genetics, Population	Aging
-30124168	Selection, Genetic	Biological Evolution	Aging
-30124168	Signal Transduction	Models, Biological	Aging
-26232135	Aging	*Anorexia	Aging
-26232135	Anorexia	Appetite	Aging
-26232135	Appetite	Sarcopenia	Aging
-26232135	Eating	Nutritional Status	Aging
-26232135	Gastrointestinal Absorption	Energy Intake	Aging
-26232135	Gastrointestinal Motility	Eating	Aging
-26232135	Humans	Body Weight	Aging
+23925498	Aging	Aging	Aging
+23925498	Epigenesis, Genetic	Epigenesis, Genetic	Aging
+23925498	Gene-Environment Interaction	NA	Aging
+23925498	Genetic Linkage	Genetic Linkage	Aging
+23925498	Genetic Variation	NA	Aging
+23925498	Genome-Wide Association Study	Genome-Wide Association Study	Aging
+23925498	Health	NA	Aging
+23925498	Humans	Humans	Aging
+23925498	Life Expectancy	NA	Aging
+23925498	Longevity	Longevity	Aging
+30124168	NA	Lifespan	Aging
+30124168	NA	Genetics, Population	Aging
+30124168	NA	Biological Evolution	Aging
+30124168	NA	Models, Biological	Aging
+30124168	Aging	Aging	Aging
+30124168	Environment	NA	Aging
+30124168	Humans	Humans	Aging
+30124168	Longevity	NA	Aging
+30124168	Mortality	NA	Aging
+30124168	Selection, Genetic	Selection, Genetic	Aging
+30124168	Signal Transduction	NA	Aging
+26232135	NA	Sarcopenia	Aging
+26232135	NA	Nutritional Status	Aging
+26232135	NA	Energy Intake	Aging
+26232135	NA	Body Weight	Aging
 26232135	NA	Weight Loss	Aging
 26232135	NA	Protein Energy Malnutrition	Aging
 26232135	NA	Body Composition	Aging
-27771728	Aging	Animals	Aging
-27771728	Animals	Quality of Life	Aging
-27771728	Caloric Restriction	Suprachiasmatic Nuclei	Aging
-27771728	Chronobiology Phenomena	Clock, Circadian	Aging
-27771728	Circadian Clocks	Circadian Rhythm	Aging
-27771728	Circadian Rhythm	*Aging	Aging
-27771728	Humans	Longevity	Aging
-27771728	Longevity	CLOCK Proteins	Aging
-27771728	Metabolic Networks and Pathways	Caloric Restriction	Aging
-27771728	Signal Transduction	Feeding Behavior	Aging
-27771728	Suprachiasmatic Nucleus	Values, Reference	Aging
-28820053	Aging	Humans	Aging
-28820053	Animals	Depressive Disorder, Major	Aging
-28820053	Humans	*Neurobiology	Aging
-28820053	Resilience, Psychological	Resilience, Psychological	Aging
-28820053	Stress, Psychological	Posttraumatic Stress Disorder	Aging
-28820053	NA	Stress, Psychological	Aging
+26232135	Aging	NA	Aging
+26232135	Anorexia	Anorexia	Aging
+26232135	Appetite	Appetite	Aging
+26232135	Eating	Eating	Aging
+26232135	Gastrointestinal Absorption	NA	Aging
+26232135	Gastrointestinal Motility	NA	Aging
+26232135	Humans	NA	Aging
+27771728	NA	Quality of Life	Aging
+27771728	NA	Suprachiasmatic Nuclei	Aging
+27771728	NA	Clock, Circadian	Aging
+27771728	NA	CLOCK Proteins	Aging
+27771728	NA	Feeding Behavior	Aging
+27771728	NA	Values, Reference	Aging
+27771728	Aging	Aging	Aging
+27771728	Animals	Animals	Aging
+27771728	Caloric Restriction	Caloric Restriction	Aging
+27771728	Chronobiology Phenomena	NA	Aging
+27771728	Circadian Clocks	NA	Aging
+27771728	Circadian Rhythm	Circadian Rhythm	Aging
+27771728	Humans	NA	Aging
+27771728	Longevity	Longevity	Aging
+27771728	Metabolic Networks and Pathways	NA	Aging
+27771728	Signal Transduction	NA	Aging
+27771728	Suprachiasmatic Nucleus	NA	Aging
+28820053	NA	Depressive Disorder, Major	Aging
+28820053	NA	*Neurobiology	Aging
+28820053	NA	Posttraumatic Stress Disorder	Aging
 28820053	NA	Psychopathology	Aging
 28820053	NA	Brain	Aging
-25528930	Adaptation, Psychological	Humans	Aging
-25528930	Aging	*Social Determinants of Health	Aging
-25528930	Humans	*Biological Aging	Aging
-25528930	Motor Activity	Adaptation, Psychological	Aging
-25528930	Sociological Factors	Social Behavior	Aging
+28820053	Aging	NA	Aging
+28820053	Animals	NA	Aging
+28820053	Humans	Humans	Aging
+28820053	Resilience, Psychological	Resilience, Psychological	Aging
+28820053	Stress, Psychological	Stress, Psychological	Aging
+25528930	NA	*Social Determinants of Health	Aging
+25528930	NA	*Biological Aging	Aging
+25528930	NA	Social Behavior	Aging
 25528930	NA	Attitude	Aging
-28685671	Aging	Animals	Aging
-28685671	Animals	*Drug Discovery	Aging
-28685671	Drug Discovery	*Aging	Aging
-28685671	Models, Animal	Lifespan	Aging
-28685671	NA	Models, Animal	Aging
+25528930	Adaptation, Psychological	Adaptation, Psychological	Aging
+25528930	Aging	NA	Aging
+25528930	Humans	Humans	Aging
+25528930	Motor Activity	NA	Aging
+25528930	Sociological Factors	NA	Aging
+28685671	NA	Lifespan	Aging
 28685671	NA	*Models, Experimental	Aging
-29301845	Aging	Animals	Aging
-29301845	Animals	*Aging	Aging
+28685671	Aging	Aging	Aging
+28685671	Animals	Animals	Aging
+28685671	Drug Discovery	Drug Discovery	Aging
+28685671	Models, Animal	Models, Animal	Aging
+29301845	NA	Induced Pluripotent Stem Cells	Aging
+29301845	NA	Longevity	Aging
+29301845	NA	Cell Differentiation	Aging
+29301845	Aging	Aging	Aging
+29301845	Animals	Animals	Aging
 29301845	Cellular Reprogramming	Cellular Reprogramming	Aging
-29301845	Cellular Senescence	Rejuvenation	Aging
-29301845	Epigenesis, Genetic	Induced Pluripotent Stem Cells	Aging
-29301845	Humans	Regenerative Medicine	Aging
-29301845	Regeneration	Cellular Senescence	Aging
-29301845	Regenerative Medicine	Longevity	Aging
-29301845	Rejuvenation	Cell Differentiation	Aging
-29301845	NA	Epigenesis, Genetic	Aging
-28667551	Animals	*Immune System	CommunicableDiseases
-28667551	Cell Communication	Communicable Diseases	CommunicableDiseases
-28667551	Cellular Microenvironment	Signal Transduction	CommunicableDiseases
-28667551	Communicable Diseases	Homeostasis	CommunicableDiseases
-28667551	Homeostasis	NA	CommunicableDiseases
+29301845	Cellular Senescence	Cellular Senescence	Aging
+29301845	Epigenesis, Genetic	Epigenesis, Genetic	Aging
+29301845	Humans	NA	Aging
+29301845	Regeneration	NA	Aging
+29301845	Regenerative Medicine	Regenerative Medicine	Aging
+29301845	Rejuvenation	Rejuvenation	Aging
+28667551	Animals	NA	CommunicableDiseases
+28667551	Cell Communication	NA	CommunicableDiseases
+28667551	Cellular Microenvironment	NA	CommunicableDiseases
+28667551	Communicable Diseases	Communicable Diseases	CommunicableDiseases
+28667551	Homeostasis	Homeostasis	CommunicableDiseases
 28667551	Humans	NA	CommunicableDiseases
-28667551	Immune System	NA	CommunicableDiseases
-28667551	Signal Transduction	NA	CommunicableDiseases
-31027668	Adult	Animals	CommunicableDiseases
-31027668	Animals	Humans	CommunicableDiseases
-31027668	Communicable Diseases	*Communicable Diseases, Emerging	CommunicableDiseases
-31027668	Communicable Diseases, Emerging	Influenza A Virus, H7N2 Subtype	CommunicableDiseases
-31027668	Female	Mosquito Vectors	CommunicableDiseases
-31027668	Humans	Zoonotic Diseases	CommunicableDiseases
-31027668	Male	Public Health	CommunicableDiseases
-31027668	Middle Aged	Morbidity	CommunicableDiseases
+28667551	Immune System	Immune System	CommunicableDiseases
+28667551	Signal Transduction	Signal Transduction	CommunicableDiseases
+31027668	NA	Influenza A Virus, H7N2 Subtype	CommunicableDiseases
+31027668	NA	Mosquito Vectors	CommunicableDiseases
+31027668	NA	Zoonotic Diseases	CommunicableDiseases
+31027668	NA	Public Health	CommunicableDiseases
+31027668	NA	Morbidity	CommunicableDiseases
+31027668	Adult	NA	CommunicableDiseases
+31027668	Animals	Animals	CommunicableDiseases
+31027668	Communicable Diseases	NA	CommunicableDiseases
+31027668	Communicable Diseases, Emerging	Communicable Diseases, Emerging	CommunicableDiseases
+31027668	Female	NA	CommunicableDiseases
+31027668	Humans	Humans	CommunicableDiseases
+31027668	Male	NA	CommunicableDiseases
+31027668	Middle Aged	NA	CommunicableDiseases
 31027668	Nurse's Role	NA	CommunicableDiseases
 31027668	Zoonoses	NA	CommunicableDiseases
-28051192	Agriculture	Humans	CommunicableDiseases
-28051192	Climate Change	Animals	CommunicableDiseases
-28051192	Communicable Diseases	*Global Warming	CommunicableDiseases
-28051192	Disasters	Ecosystem	CommunicableDiseases
-28051192	Environmental Health	Mosquito Vectors	CommunicableDiseases
-28051192	Global Warming	Climate Change	CommunicableDiseases
-28051192	Humans	Infectious Diseases	CommunicableDiseases
-28051192	Public Health	Greenhouse Effect	CommunicableDiseases
+28051192	NA	Animals	CommunicableDiseases
+28051192	NA	Ecosystem	CommunicableDiseases
+28051192	NA	Mosquito Vectors	CommunicableDiseases
+28051192	NA	Infectious Diseases	CommunicableDiseases
+28051192	NA	Greenhouse Effect	CommunicableDiseases
 28051192	NA	Disease Vectors	CommunicableDiseases
-28051192	NA	Public Health	CommunicableDiseases
 28051192	NA	Environmental Pollution	CommunicableDiseases
 28051192	NA	Outbreaks	CommunicableDiseases
 28051192	NA	Desertification	CommunicableDiseases
-28051192	NA	Agriculture	CommunicableDiseases
-27726779	Communicable Diseases	Humans	CommunicableDiseases
-27726779	Disease Susceptibility	*Immunocompromised Host	CommunicableDiseases
-27726779	Humans	Immunologic Deficiency Syndromes	CommunicableDiseases
-27726779	Immunocompromised Host	Immune System	CommunicableDiseases
-27726779	Infection Control	Autoimmune Diseases	CommunicableDiseases
+28051192	Agriculture	Agriculture	CommunicableDiseases
+28051192	Climate Change	Climate Change	CommunicableDiseases
+28051192	Communicable Diseases	NA	CommunicableDiseases
+28051192	Disasters	NA	CommunicableDiseases
+28051192	Environmental Health	NA	CommunicableDiseases
+28051192	Global Warming	Global Warming	CommunicableDiseases
+28051192	Humans	Humans	CommunicableDiseases
+28051192	Public Health	Public Health	CommunicableDiseases
+27726779	NA	Immunologic Deficiency Syndromes	CommunicableDiseases
+27726779	NA	Immune System	CommunicableDiseases
+27726779	NA	Autoimmune Diseases	CommunicableDiseases
 27726779	NA	Adaptive Immunity	CommunicableDiseases
 27726779	NA	Neoplasia	CommunicableDiseases
 27726779	NA	Infections	CommunicableDiseases
-29165905	Communicable Diseases	Humans	CommunicableDiseases
-29165905	DNA	*Nucleic Acid Amplification Techniques	CommunicableDiseases
-29165905	DNA Primers	DNA Primers	CommunicableDiseases
-29165905	Humans	Reverse Transcription	CommunicableDiseases
-29165905	Nucleic Acid Amplification Techniques	DNA	CommunicableDiseases
-29165905	Sensitivity and Specificity	Specificity	CommunicableDiseases
+27726779	Communicable Diseases	NA	CommunicableDiseases
+27726779	Disease Susceptibility	NA	CommunicableDiseases
+27726779	Humans	Humans	CommunicableDiseases
+27726779	Immunocompromised Host	Immunocompromised Host	CommunicableDiseases
+27726779	Infection Control	NA	CommunicableDiseases
+29165905	NA	Reverse Transcription	CommunicableDiseases
+29165905	NA	Specificity	CommunicableDiseases
 29165905	NA	Infectious Diseases	CommunicableDiseases
-27598145	Communicable Disease Control	Child	CommunicableDiseases
-27598145	Communicable Diseases	Adult	CommunicableDiseases
-27598145	Humans	Humans	CommunicableDiseases
+29165905	Communicable Diseases	NA	CommunicableDiseases
+29165905	DNA	DNA	CommunicableDiseases
+29165905	DNA Primers	DNA Primers	CommunicableDiseases
+29165905	Humans	Humans	CommunicableDiseases
+29165905	Nucleic Acid Amplification Techniques	Nucleic Acid Amplification Techniques	CommunicableDiseases
+29165905	Sensitivity and Specificity	NA	CommunicableDiseases
+27598145	NA	Child	CommunicableDiseases
+27598145	NA	Adult	CommunicableDiseases
 27598145	NA	*Infectious Diseases	CommunicableDiseases
-27598145	NA	Communicable Disease Control	CommunicableDiseases
 27598145	NA	Knowledge	CommunicableDiseases
-29040428	Animals	Animals	CommunicableDiseases
-29040428	Communicable Diseases	*Sequencing, Next-Generation	CommunicableDiseases
-29040428	Humans	*Metagenomes	CommunicableDiseases
-29040428	Metagenomics	Metagenomics	CommunicableDiseases
-29040428	Nucleic Acid Amplification Techniques	Viruses	CommunicableDiseases
+27598145	Communicable Disease Control	Communicable Disease Control	CommunicableDiseases
+27598145	Communicable Diseases	NA	CommunicableDiseases
+27598145	Humans	Humans	CommunicableDiseases
+29040428	NA	*Sequencing, Next-Generation	CommunicableDiseases
+29040428	NA	*Metagenomes	CommunicableDiseases
+29040428	NA	Viruses	CommunicableDiseases
 29040428	NA	Fungi	CommunicableDiseases
 29040428	NA	Bacteria	CommunicableDiseases
 29040428	NA	Sequence Analysis, DNA	CommunicableDiseases
-29040428	NA	Communicable Diseases	CommunicableDiseases
 29040428	NA	Molecular Diagnostic Techniques	CommunicableDiseases
 29040428	NA	Clinical Laboratory Services	CommunicableDiseases
 29040428	NA	Parasites	CommunicableDiseases
 29040428	NA	Diagnostic Tests, Routine	CommunicableDiseases
 29040428	NA	Laboratories	CommunicableDiseases
-30120891	Animals	United States	CommunicableDiseases
-30120891	Climate Change	Animals	CommunicableDiseases
-30120891	Communicable Diseases	Humans	CommunicableDiseases
-30120891	Disease Vectors	*Climate Change	CommunicableDiseases
-30120891	Humans	*Vector Borne Diseases	CommunicableDiseases
-30120891	Models, Biological	Infectious Diseases	CommunicableDiseases
-30120891	NA	Disease Vectors	CommunicableDiseases
+29040428	Animals	Animals	CommunicableDiseases
+29040428	Communicable Diseases	Communicable Diseases	CommunicableDiseases
+29040428	Humans	NA	CommunicableDiseases
+29040428	Metagenomics	Metagenomics	CommunicableDiseases
+29040428	Nucleic Acid Amplification Techniques	NA	CommunicableDiseases
+30120891	NA	United States	CommunicableDiseases
+30120891	NA	*Vector Borne Diseases	CommunicableDiseases
+30120891	NA	Infectious Diseases	CommunicableDiseases
 30120891	NA	Arctic Regions	CommunicableDiseases
 30120891	NA	Public Health	CommunicableDiseases
 30120891	NA	*Future	CommunicableDiseases
 30120891	NA	New Territories	CommunicableDiseases
-23746171	Animals	Transfer Factor	CommunicableDiseases
-23746171	Communicable Disease Control	T-Lymphocytes	CommunicableDiseases
-23746171	Communicable Diseases	Cell-Mediated Immunity	CommunicableDiseases
-23746171	Humans	Neoplasias	CommunicableDiseases
-23746171	Transfer Factor	Tuberculosis	CommunicableDiseases
+30120891	Animals	Animals	CommunicableDiseases
+30120891	Climate Change	Climate Change	CommunicableDiseases
+30120891	Communicable Diseases	NA	CommunicableDiseases
+30120891	Disease Vectors	Disease Vectors	CommunicableDiseases
+30120891	Humans	Humans	CommunicableDiseases
+30120891	Models, Biological	NA	CommunicableDiseases
+23746171	NA	T-Lymphocytes	CommunicableDiseases
+23746171	NA	Cell-Mediated Immunity	CommunicableDiseases
+23746171	NA	Neoplasias	CommunicableDiseases
+23746171	NA	Tuberculosis	CommunicableDiseases
 23746171	NA	Autoimmune Diseases	CommunicableDiseases
 23746171	NA	Immunologic Deficiency Syndromes	CommunicableDiseases
 23746171	NA	Adjuvants, Immunologic	CommunicableDiseases
-30341241	Communicable Diseases	*Polymerase Chain Reaction	CommunicableDiseases
-30341241	DNA	*Infectious Diseases	CommunicableDiseases
-30341241	Humans	Molecular Diagnostic Techniques	CommunicableDiseases
-30341241	Molecular Diagnostic Techniques	Deoxyribonucleic Acid	CommunicableDiseases
-30341241	Polymerase Chain Reaction	Viral Diseases	CommunicableDiseases
+23746171	Animals	NA	CommunicableDiseases
+23746171	Communicable Disease Control	NA	CommunicableDiseases
+23746171	Communicable Diseases	NA	CommunicableDiseases
+23746171	Humans	NA	CommunicableDiseases
+23746171	Transfer Factor	Transfer Factor	CommunicableDiseases
+30341241	NA	*Infectious Diseases	CommunicableDiseases
+30341241	NA	Deoxyribonucleic Acid	CommunicableDiseases
+30341241	NA	Viral Diseases	CommunicableDiseases
 30341241	NA	Bacterial Infections	CommunicableDiseases
-26479830	Adaptation, Physiological	Animals	CommunicableDiseases
-26479830	Animals	Humans	CommunicableDiseases
-26479830	Climate	*Climate Change	CommunicableDiseases
-26479830	Climate Change	*Infectious Diseases	CommunicableDiseases
-26479830	Communicable Diseases	*Acclimatization	CommunicableDiseases
-26479830	Disease Vectors	Disease Vectors	CommunicableDiseases
-26479830	Humans	Weather	CommunicableDiseases
-26479830	Weather	*Adaptation, Physiological	CommunicableDiseases
+30341241	Communicable Diseases	NA	CommunicableDiseases
+30341241	DNA	NA	CommunicableDiseases
+30341241	Humans	NA	CommunicableDiseases
+30341241	Molecular Diagnostic Techniques	Molecular Diagnostic Techniques	CommunicableDiseases
+30341241	Polymerase Chain Reaction	Polymerase Chain Reaction	CommunicableDiseases
+26479830	NA	*Infectious Diseases	CommunicableDiseases
+26479830	NA	*Acclimatization	CommunicableDiseases
 26479830	NA	Resources	CommunicableDiseases
 26479830	NA	Extreme Weather	CommunicableDiseases
-31691607	Bacteria	*Sequencing, Next-Generation	CommunicableDiseases
-31691607	Communicable Diseases	*Metagenomes	CommunicableDiseases
-31691607	Diagnostic Tests, Routine	Metagenomics	CommunicableDiseases
-31691607	High-Throughput Nucleotide Sequencing	*Clinical Laboratory Services	CommunicableDiseases
-31691607	Humans	Infectious Diseases	CommunicableDiseases
-31691607	Laboratories, Hospital	*Laboratories	CommunicableDiseases
-31691607	Viruses	Quality Control	CommunicableDiseases
+26479830	Adaptation, Physiological	Adaptation, Physiological	CommunicableDiseases
+26479830	Animals	Animals	CommunicableDiseases
+26479830	Climate	NA	CommunicableDiseases
+26479830	Climate Change	Climate Change	CommunicableDiseases
+26479830	Communicable Diseases	NA	CommunicableDiseases
+26479830	Disease Vectors	Disease Vectors	CommunicableDiseases
+26479830	Humans	Humans	CommunicableDiseases
+26479830	Weather	Weather	CommunicableDiseases
+31691607	NA	*Sequencing, Next-Generation	CommunicableDiseases
+31691607	NA	*Metagenomes	CommunicableDiseases
+31691607	NA	Metagenomics	CommunicableDiseases
+31691607	NA	*Clinical Laboratory Services	CommunicableDiseases
+31691607	NA	Infectious Diseases	CommunicableDiseases
+31691607	NA	*Laboratories	CommunicableDiseases
+31691607	NA	Quality Control	CommunicableDiseases
 31691607	NA	Workflow	CommunicableDiseases
 31691607	NA	Test, Routine Diagnostic	CommunicableDiseases
 31691607	NA	Antibiotic	CommunicableDiseases
-30911807	Anti-Bacterial Agents	Humans	CommunicableDiseases
-30911807	Communicable Diseases	*Transplant Recipients	CommunicableDiseases
-30911807	Humans	Opportunistic Infections	CommunicableDiseases
-30911807	Immunocompromised Host	*Infectious Diseases	CommunicableDiseases
-30911807	Organ Transplantation	Organ Transplantation	CommunicableDiseases
-30911807	Transplant Recipients	Immunocompromised Host	CommunicableDiseases
+31691607	Bacteria	NA	CommunicableDiseases
+31691607	Communicable Diseases	NA	CommunicableDiseases
+31691607	Diagnostic Tests, Routine	NA	CommunicableDiseases
+31691607	High-Throughput Nucleotide Sequencing	NA	CommunicableDiseases
+31691607	Humans	NA	CommunicableDiseases
+31691607	Laboratories, Hospital	NA	CommunicableDiseases
+31691607	Viruses	NA	CommunicableDiseases
+30911807	NA	Opportunistic Infections	CommunicableDiseases
+30911807	NA	*Infectious Diseases	CommunicableDiseases
 30911807	NA	Immunosuppressive Agents	CommunicableDiseases
 30911807	NA	Risk Factors	CommunicableDiseases
-29785478	Communicable Diseases	Nepal	CommunicableDiseases
-29785478	Endemic Diseases	Influenza A Virus, H1N1 Subtype	CommunicableDiseases
-29785478	Humans	Influenza A Virus, H5N1 Subtype	CommunicableDiseases
-29785478	Nepal	Communicable Diseases	CommunicableDiseases
-29785478	Public Health	Outbreaks	CommunicableDiseases
+30911807	Anti-Bacterial Agents	NA	CommunicableDiseases
+30911807	Communicable Diseases	NA	CommunicableDiseases
+30911807	Humans	Humans	CommunicableDiseases
+30911807	Immunocompromised Host	Immunocompromised Host	CommunicableDiseases
+30911807	Organ Transplantation	Organ Transplantation	CommunicableDiseases
+30911807	Transplant Recipients	Transplant Recipients	CommunicableDiseases
+29785478	NA	Influenza A Virus, H1N1 Subtype	CommunicableDiseases
+29785478	NA	Influenza A Virus, H5N1 Subtype	CommunicableDiseases
+29785478	NA	Outbreaks	CommunicableDiseases
 29785478	NA	Dengue Fever	CommunicableDiseases
-29785478	NA	Public Health	CommunicableDiseases
-29785478	NA	Endemic Diseases	CommunicableDiseases
 29785478	NA	Scrub Typhus	CommunicableDiseases
 29785478	NA	HIV Coinfection	CommunicableDiseases
+29785478	Communicable Diseases	Communicable Diseases	CommunicableDiseases
+29785478	Endemic Diseases	Endemic Diseases	CommunicableDiseases
+29785478	Humans	NA	CommunicableDiseases
+29785478	Nepal	Nepal	CommunicableDiseases
+29785478	Public Health	Public Health	CommunicableDiseases
+30173662	NA	*Infectious Diseases	CommunicableDiseases
+30173662	NA	Dengue	CommunicableDiseases
+30173662	NA	Malaria	CommunicableDiseases
 30173662	Animals	Animals	CommunicableDiseases
-30173662	Communicable Diseases	*Poverty	CommunicableDiseases
-30173662	Diagnostic Tests, Routine	*Diagnostic Tests, Routine	CommunicableDiseases
-30173662	Disease Vectors	*Infectious Diseases	CommunicableDiseases
-30173662	Humans	*Disease Vectors	CommunicableDiseases
-30173662	Poverty	Dengue	CommunicableDiseases
-30173662	Urban Health	Malaria	CommunicableDiseases
-30173662	NA	Urban Health	CommunicableDiseases
-30209913	Anti-Infective Agents	Humans	CommunicableDiseases
-30209913	Communicable Diseases	Communicable Diseases	CommunicableDiseases
-30209913	Humans	Anti-Infective Agents	CommunicableDiseases
+30173662	Communicable Diseases	NA	CommunicableDiseases
+30173662	Diagnostic Tests, Routine	Diagnostic Tests, Routine	CommunicableDiseases
+30173662	Disease Vectors	Disease Vectors	CommunicableDiseases
+30173662	Humans	NA	CommunicableDiseases
+30173662	Poverty	Poverty	CommunicableDiseases
+30173662	Urban Health	Urban Health	CommunicableDiseases
 30209913	NA	Nosocomial Infection	CommunicableDiseases
 30209913	NA	Fungal Infection	CommunicableDiseases
 30209913	NA	HIV Infections	CommunicableDiseases
@@ -346,276 +438,345 @@ PMID	EUTIL	WEBAPI	TOPIC TERM
 30209913	NA	Enterocolitis, Pseudomembranous	CommunicableDiseases
 30209913	NA	Syndrome	CommunicableDiseases
 30209913	NA	Transplant	CommunicableDiseases
-23669075	Animals	Escherichia coli	CommunicableDiseases
-23669075	Biomarkers	*Biomarkers	CommunicableDiseases
-23669075	Communicable Diseases	THBD protein, human	CommunicableDiseases
-23669075	Endothelium, Vascular	Thrombomodulin	CommunicableDiseases
-23669075	Humans	Vascular Cell Adhesion Molecule-1	CommunicableDiseases
+30209913	Anti-Infective Agents	Anti-Infective Agents	CommunicableDiseases
+30209913	Communicable Diseases	Communicable Diseases	CommunicableDiseases
+30209913	Humans	Humans	CommunicableDiseases
+23669075	NA	Escherichia coli	CommunicableDiseases
+23669075	NA	THBD protein, human	CommunicableDiseases
+23669075	NA	Thrombomodulin	CommunicableDiseases
+23669075	NA	Vascular Cell Adhesion Molecule-1	CommunicableDiseases
 23669075	NA	Sepsis	CommunicableDiseases
 23669075	NA	E-Selectin	CommunicableDiseases
 23669075	NA	von Willebrand Factor	CommunicableDiseases
 23669075	NA	Septic Shock	CommunicableDiseases
 23669075	NA	Endothelial Cell	CommunicableDiseases
 23669075	NA	Cell Adhesion Molecules	CommunicableDiseases
-23669075	NA	Endothelium, Vascular	CommunicableDiseases
 23669075	NA	*Vascular Diseases	CommunicableDiseases
-10642539	Agriculture	Animals	CommunicableDiseases
-10642539	Animals	Humans	CommunicableDiseases
-10642539	Animals, Domestic	*Animals, Wild	CommunicableDiseases
-10642539	Animals, Wild	*Communicable Diseases, Emerging	CommunicableDiseases
-10642539	Climate	Zoonoses	CommunicableDiseases
-10642539	Communicable Diseases	Animals, Domestic	CommunicableDiseases
-10642539	Conservation of Natural Resources	*Biodiversity	CommunicableDiseases
-10642539	Disease Reservoirs	Communicable Diseases	CommunicableDiseases
-10642539	Ecosystem	Disease Reservoirs	CommunicableDiseases
-10642539	Humans	Conservation of Natural Resources	CommunicableDiseases
-10642539	Zoonoses	NA	CommunicableDiseases
-29702253	Communicable Diseases	Animals	CommunicableDiseases
-29702253	Eritrea	Cricetinae	CommunicableDiseases
-29702253	Europe	Humans	CommunicableDiseases
-29702253	Humans	*Transients and Migrants	CommunicableDiseases
-29702253	Refugees	Syria	CommunicableDiseases
-29702253	Syria	Eritrea	CommunicableDiseases
-29702253	Transients and Migrants	*Infectious Disease	CommunicableDiseases
-29702253	NA	Refugees	CommunicableDiseases
-29702253	NA	Europe	CommunicableDiseases
+23669075	Animals	NA	CommunicableDiseases
+23669075	Biomarkers	Biomarkers	CommunicableDiseases
+23669075	Communicable Diseases	NA	CommunicableDiseases
+23669075	Endothelium, Vascular	Endothelium, Vascular	CommunicableDiseases
+23669075	Humans	NA	CommunicableDiseases
+10642539	NA	*Communicable Diseases, Emerging	CommunicableDiseases
+10642539	NA	*Biodiversity	CommunicableDiseases
+10642539	Agriculture	NA	CommunicableDiseases
+10642539	Animals	Animals	CommunicableDiseases
+10642539	Animals, Domestic	Animals, Domestic	CommunicableDiseases
+10642539	Animals, Wild	Animals, Wild	CommunicableDiseases
+10642539	Climate	NA	CommunicableDiseases
+10642539	Communicable Diseases	Communicable Diseases	CommunicableDiseases
+10642539	Conservation of Natural Resources	Conservation of Natural Resources	CommunicableDiseases
+10642539	Disease Reservoirs	Disease Reservoirs	CommunicableDiseases
+10642539	Ecosystem	NA	CommunicableDiseases
+10642539	Humans	Humans	CommunicableDiseases
+10642539	Zoonoses	Zoonoses	CommunicableDiseases
+29702253	NA	Animals	CommunicableDiseases
+29702253	NA	Cricetinae	CommunicableDiseases
+29702253	NA	*Infectious Disease	CommunicableDiseases
 29702253	NA	*Mesocricetus	CommunicableDiseases
-29217262	Communicable Diseases	Animals	CommunicableDiseases
-29217262	Germ Theory of Disease	Infectious Disease	CommunicableDiseases
-29217262	History, 19th Century	Philosophy, Medical	CommunicableDiseases
-29217262	Humans	Noncommunicable Diseases	CommunicableDiseases
-29217262	Models, Theoretical	Dissent and Disputes	CommunicableDiseases
-29217262	Philosophy, Medical	Animal Diseases	CommunicableDiseases
-22930834	Computational Biology	Software	ComputationalBiology
-22930834	History, 20th Century	Image Processing, Computer-Assisted	ComputationalBiology
-22930834	History, 21st Century	Brain	ComputationalBiology
-22930834	Image Processing, Computer-Assisted	NA	ComputationalBiology
+29702253	Communicable Diseases	NA	CommunicableDiseases
+29702253	Eritrea	Eritrea	CommunicableDiseases
+29702253	Europe	Europe	CommunicableDiseases
+29702253	Humans	Humans	CommunicableDiseases
+29702253	Refugees	Refugees	CommunicableDiseases
+29702253	Syria	Syria	CommunicableDiseases
+29702253	Transients and Migrants	Transients and Migrants	CommunicableDiseases
+29217262	NA	Animals	CommunicableDiseases
+29217262	NA	Infectious Disease	CommunicableDiseases
+29217262	NA	Noncommunicable Diseases	CommunicableDiseases
+29217262	NA	Dissent and Disputes	CommunicableDiseases
+29217262	NA	Animal Diseases	CommunicableDiseases
+29217262	Communicable Diseases	NA	CommunicableDiseases
+29217262	Germ Theory of Disease	NA	CommunicableDiseases
+29217262	History, 19th Century	NA	CommunicableDiseases
+29217262	Humans	NA	CommunicableDiseases
+29217262	Models, Theoretical	NA	CommunicableDiseases
+29217262	Philosophy, Medical	Philosophy, Medical	CommunicableDiseases
+22930834	NA	Brain	ComputationalBiology
+22930834	Computational Biology	NA	ComputationalBiology
+22930834	History, 20th Century	NA	ComputationalBiology
+22930834	History, 21st Century	NA	ComputationalBiology
+22930834	Image Processing, Computer-Assisted	Image Processing, Computer-Assisted	ComputationalBiology
 22930834	National Institutes of Health (U.S.)	NA	ComputationalBiology
-22930834	Software	NA	ComputationalBiology
+22930834	Software	Software	ComputationalBiology
 22930834	United States	NA	ComputationalBiology
-29727584	DNA Barcoding, Taxonomic	Metabolomics	ComputationalBiology
+29727584	NA	Systems Biology	ComputationalBiology
+29727584	NA	Gene Expression Profiling	ComputationalBiology
+29727584	DNA Barcoding, Taxonomic	NA	ComputationalBiology
 29727584	Genomics	Genomics	ComputationalBiology
-29727584	Metabolomics	Proteomics	ComputationalBiology
-29727584	Proteomics	Systems Biology	ComputationalBiology
+29727584	Metabolomics	Metabolomics	ComputationalBiology
+29727584	Proteomics	Proteomics	ComputationalBiology
 29727584	Single-Cell Analysis	Single-Cell Analysis	ComputationalBiology
-29727584	Transcriptome	Gene Expression Profiling	ComputationalBiology
-29727584	NA	Transcriptome	ComputationalBiology
-27686657	Chromatography, High Pressure Liquid	*Systems Biology	ComputationalBiology
-27686657	Gene Expression	Proteomics	ComputationalBiology
-27686657	Genomics	Metabolomics	ComputationalBiology
-27686657	Mass Spectrometry	Genomics	ComputationalBiology
-27686657	Metabolomics	Mass Spectrometry	ComputationalBiology
-27686657	Oligonucleotide Array Sequence Analysis	Bioinformatics	ComputationalBiology
-27686657	Proteomics	Gene Expression Profiling	ComputationalBiology
-27686657	Systems Biology	Databases, Factual	ComputationalBiology
-27465042	Computational Biology	*Computational Biology	ComputationalBiology
-27465042	Databases, Factual	Genomics	ComputationalBiology
-27465042	History, 20th Century	Genome	ComputationalBiology
-27465042	History, 21st Century	Databases, Factual	ComputationalBiology
-27465042	India	*Biological Phenomena	ComputationalBiology
+29727584	Transcriptome	Transcriptome	ComputationalBiology
+27686657	NA	Bioinformatics	ComputationalBiology
+27686657	NA	Gene Expression Profiling	ComputationalBiology
+27686657	NA	Databases, Factual	ComputationalBiology
+27686657	Chromatography, High Pressure Liquid	NA	ComputationalBiology
+27686657	Gene Expression	NA	ComputationalBiology
+27686657	Genomics	Genomics	ComputationalBiology
+27686657	Mass Spectrometry	Mass Spectrometry	ComputationalBiology
+27686657	Metabolomics	Metabolomics	ComputationalBiology
+27686657	Oligonucleotide Array Sequence Analysis	NA	ComputationalBiology
+27686657	Proteomics	Proteomics	ComputationalBiology
+27686657	Systems Biology	Systems Biology	ComputationalBiology
+27465042	NA	Genomics	ComputationalBiology
+27465042	NA	Genome	ComputationalBiology
+27465042	NA	*Biological Phenomena	ComputationalBiology
 27465042	NA	Internet	ComputationalBiology
 27465042	NA	Algorithm	ComputationalBiology
 27465042	NA	Information Science	ComputationalBiology
-27465042	NA	India	ComputationalBiology
-29098954	Biostatistics	Systems Biology	ComputationalBiology
-29098954	Circadian Rhythm	Genomics	ComputationalBiology
+27465042	Computational Biology	Computational Biology	ComputationalBiology
+27465042	Databases, Factual	Databases, Factual	ComputationalBiology
+27465042	History, 20th Century	NA	ComputationalBiology
+27465042	History, 21st Century	NA	ComputationalBiology
+27465042	India	India	ComputationalBiology
+29098954	NA	*Physiological Phenomena	ComputationalBiology
+29098954	Biostatistics	NA	ComputationalBiology
+29098954	Circadian Rhythm	Circadian Rhythm	ComputationalBiology
 29098954	Computational Biology	Computational Biology	ComputationalBiology
-29098954	Genome	Proteomics	ComputationalBiology
-29098954	Genomics	Circadian Rhythm	ComputationalBiology
-29098954	Humans	*Physiological Phenomena	ComputationalBiology
+29098954	Genome	NA	ComputationalBiology
+29098954	Genomics	Genomics	ComputationalBiology
+29098954	Humans	NA	ComputationalBiology
 29098954	Metabolomics	NA	ComputationalBiology
-29098954	Proteomics	NA	ComputationalBiology
+29098954	Proteomics	Proteomics	ComputationalBiology
 29098954	Software	NA	ComputationalBiology
 29098954	Statistics as Topic	NA	ComputationalBiology
-29098954	Systems Biology	NA	ComputationalBiology
-15461798	Computational Biology	*Computational Biology	ComputationalBiology
-15461798	Internet	Reproducibility of Results	ComputationalBiology
-15461798	Reproducibility of Results	*Software	ComputationalBiology
-15461798	Software	Databases, Genetic	ComputationalBiology
+29098954	Systems Biology	Systems Biology	ComputationalBiology
+15461798	NA	Databases, Genetic	ComputationalBiology
 15461798	NA	Information Storage and Retrieval	ComputationalBiology
 15461798	NA	Algorithms	ComputationalBiology
-30696086	Animals	*Big Data	ComputationalBiology
-30696086	Big Data	*Machine Learning	ComputationalBiology
-30696086	Computational Biology	Computational Biology	ComputationalBiology
-30696086	Humans	Algorithms	ComputationalBiology
-30696086	Machine Learning	Precision Medicine	ComputationalBiology
+15461798	Computational Biology	Computational Biology	ComputationalBiology
+15461798	Internet	NA	ComputationalBiology
+15461798	Reproducibility of Results	Reproducibility of Results	ComputationalBiology
+15461798	Software	Software	ComputationalBiology
+30696086	NA	Algorithms	ComputationalBiology
+30696086	NA	Precision Medicine	ComputationalBiology
 30696086	NA	Transcriptome	ComputationalBiology
-31561483	Biomarkers	Humans	ComputationalBiology
-31561483	Computational Biology	*Precision Medicine	ComputationalBiology
-31561483	Epigenomics	Neoplasms	ComputationalBiology
-31561483	Genomics	Metabolomics	ComputationalBiology
-31561483	Humans	Genomics	ComputationalBiology
-31561483	Metabolomics	Proteomics	ComputationalBiology
-31561483	Neoplasms	*Biomarkers	ComputationalBiology
-31561483	Precision Medicine	Computational Biology	ComputationalBiology
-31561483	Proteomics	Epigenomics	ComputationalBiology
-21900203	Cell Communication	*Systems Biology	ComputationalBiology
-21900203	Computational Biology	Computational Biology	ComputationalBiology
-21900203	Signal Transduction	Computer Simulation	ComputationalBiology
-21900203	Systems Biology	Signal Transduction	ComputationalBiology
+30696086	Animals	NA	ComputationalBiology
+30696086	Big Data	Big Data	ComputationalBiology
+30696086	Computational Biology	Computational Biology	ComputationalBiology
+30696086	Humans	NA	ComputationalBiology
+30696086	Machine Learning	Machine Learning	ComputationalBiology
+31561483	Biomarkers	Biomarkers	ComputationalBiology
+31561483	Computational Biology	Computational Biology	ComputationalBiology
+31561483	Epigenomics	Epigenomics	ComputationalBiology
+31561483	Genomics	Genomics	ComputationalBiology
+31561483	Humans	Humans	ComputationalBiology
+31561483	Metabolomics	Metabolomics	ComputationalBiology
+31561483	Neoplasms	Neoplasms	ComputationalBiology
+31561483	Precision Medicine	Precision Medicine	ComputationalBiology
+31561483	Proteomics	Proteomics	ComputationalBiology
+21900203	NA	Computer Simulation	ComputationalBiology
 21900203	NA	Models, Biological	ComputationalBiology
-30232369	Computational Biology	*DNA Transposable Elements	ComputationalBiology
-30232369	DNA Transposable Elements	Genomics	ComputationalBiology
-30232369	Evolution, Molecular	Software Tools	ComputationalBiology
-30232369	Genomics	Computational Biology	ComputationalBiology
-30232369	Software	Eukaryota	ComputationalBiology
-30232369	NA	Evolution, Molecular	ComputationalBiology
-26845152	Biotechnology	Humans	ComputationalBiology
-26845152	Computational Biology	*Computational Biology	ComputationalBiology
-26845152	History, 20th Century	South Africa	ComputationalBiology
-26845152	History, 21st Century	*Learning	ComputationalBiology
-26845152	Humans	University	ComputationalBiology
-26845152	South Africa	Researchers	ComputationalBiology
+21900203	Cell Communication	NA	ComputationalBiology
+21900203	Computational Biology	Computational Biology	ComputationalBiology
+21900203	Signal Transduction	Signal Transduction	ComputationalBiology
+21900203	Systems Biology	Systems Biology	ComputationalBiology
+30232369	NA	Software Tools	ComputationalBiology
+30232369	NA	Eukaryota	ComputationalBiology
+30232369	Computational Biology	Computational Biology	ComputationalBiology
+30232369	DNA Transposable Elements	DNA Transposable Elements	ComputationalBiology
+30232369	Evolution, Molecular	Evolution, Molecular	ComputationalBiology
+30232369	Genomics	Genomics	ComputationalBiology
+30232369	Software	NA	ComputationalBiology
+26845152	NA	*Learning	ComputationalBiology
+26845152	NA	University	ComputationalBiology
+26845152	NA	Researchers	ComputationalBiology
 26845152	NA	Drive	ComputationalBiology
 26845152	NA	Government	ComputationalBiology
 26845152	NA	Dissent and Disputes	ComputationalBiology
 26845152	NA	African Continental Ancestry Group	ComputationalBiology
 26845152	NA	Lymphatic System	ComputationalBiology
-25483351	Animals	Genomics	ComputationalBiology
-25483351	Computational Biology	*Genome	ComputationalBiology
-25483351	Genome, Microbial	Sequence Alignment	ComputationalBiology
-25483351	Genomics	Computational Biology	ComputationalBiology
-25483351	Humans	Software	ComputationalBiology
-25483351	Sequence Alignment	Algorithms	ComputationalBiology
+26845152	Biotechnology	NA	ComputationalBiology
+26845152	Computational Biology	Computational Biology	ComputationalBiology
+26845152	History, 20th Century	NA	ComputationalBiology
+26845152	History, 21st Century	NA	ComputationalBiology
+26845152	Humans	Humans	ComputationalBiology
+26845152	South Africa	South Africa	ComputationalBiology
+25483351	NA	*Genome	ComputationalBiology
+25483351	NA	Software	ComputationalBiology
+25483351	NA	Algorithms	ComputationalBiology
 25483351	NA	Sequencing, Next-Generation	ComputationalBiology
-14630646	Algorithms	Pregnancy	ComputationalBiology
-14630646	Animals	Female	ComputationalBiology
-14630646	Computational Biology	Humans	ComputationalBiology
-14630646	Databases, Genetic	*Computational Biology	ComputationalBiology
-14630646	Evolution, Molecular	Sequence Analysis	ComputationalBiology
-14630646	Gene Expression Profiling	Databases, Genetic	ComputationalBiology
-14630646	History, 20th Century	Gene Expression Profiling	ComputationalBiology
-14630646	History, 21st Century	*Birth	ComputationalBiology
-14630646	Humans	NA	ComputationalBiology
-14630646	Sequence Analysis	NA	ComputationalBiology
-29072373	Animals	Cricetinae	ComputationalBiology
-29072373	CHO Cells	Animals	ComputationalBiology
-29072373	Cell Engineering	Female	ComputationalBiology
-29072373	Cricetulus	*Chinese Hamster	ComputationalBiology
-29072373	Genomics	*CHO Cells	ComputationalBiology
-29072373	Glycomics	Proteomics	ComputationalBiology
-29072373	Humans	Genomics	ComputationalBiology
-29072373	Metabolomics	Systems Biology	ComputationalBiology
-29072373	Proteomics	Metabolomics	ComputationalBiology
-29072373	Systems Biology	Glycomics	ComputationalBiology
-29072373	NA	Cell Engineering	ComputationalBiology
+25483351	Animals	NA	ComputationalBiology
+25483351	Computational Biology	Computational Biology	ComputationalBiology
+25483351	Genome, Microbial	NA	ComputationalBiology
+25483351	Genomics	Genomics	ComputationalBiology
+25483351	Humans	NA	ComputationalBiology
+25483351	Sequence Alignment	Sequence Alignment	ComputationalBiology
+14630646	NA	Pregnancy	ComputationalBiology
+14630646	NA	Female	ComputationalBiology
+14630646	NA	*Birth	ComputationalBiology
+14630646	Algorithms	NA	ComputationalBiology
+14630646	Animals	NA	ComputationalBiology
+14630646	Computational Biology	Computational Biology	ComputationalBiology
+14630646	Databases, Genetic	Databases, Genetic	ComputationalBiology
+14630646	Evolution, Molecular	NA	ComputationalBiology
+14630646	Gene Expression Profiling	Gene Expression Profiling	ComputationalBiology
+14630646	History, 20th Century	NA	ComputationalBiology
+14630646	History, 21st Century	NA	ComputationalBiology
+14630646	Humans	Humans	ComputationalBiology
+14630646	Sequence Analysis	Sequence Analysis	ComputationalBiology
+29072373	NA	Cricetinae	ComputationalBiology
+29072373	NA	Female	ComputationalBiology
+29072373	NA	*Chinese Hamster	ComputationalBiology
 29072373	NA	*Ovary	ComputationalBiology
-27899622	Computational Biology	Databases, Protein	ComputationalBiology
-27899622	Databases, Protein	*Knowledgebase	ComputationalBiology
-27899622	Genomics	Proteome	ComputationalBiology
-27899622	Proteome	Sequence Analysis, Protein	ComputationalBiology
-27899622	Proteomics	Computational Biology	ComputationalBiology
-27899622	Web Browser	Software	ComputationalBiology
-27899622	NA	Proteomics	ComputationalBiology
+29072373	Animals	Animals	ComputationalBiology
+29072373	CHO Cells	CHO Cells	ComputationalBiology
+29072373	Cell Engineering	Cell Engineering	ComputationalBiology
+29072373	Cricetulus	NA	ComputationalBiology
+29072373	Genomics	Genomics	ComputationalBiology
+29072373	Glycomics	Glycomics	ComputationalBiology
+29072373	Humans	NA	ComputationalBiology
+29072373	Metabolomics	Metabolomics	ComputationalBiology
+29072373	Proteomics	Proteomics	ComputationalBiology
+29072373	Systems Biology	Systems Biology	ComputationalBiology
+27899622	NA	*Knowledgebase	ComputationalBiology
+27899622	NA	Sequence Analysis, Protein	ComputationalBiology
+27899622	NA	Software	ComputationalBiology
 27899622	NA	Amino Acid Sequence	ComputationalBiology
 27899622	NA	User-Computer Interface	ComputationalBiology
-27899622	NA	Genomics	ComputationalBiology
-15520816	Binding Sites	*Drug Discovery	ComputationalBiology
-15520816	Computational Biology	Binding Sites	ComputationalBiology
-15520816	Drug Design	Ligands	ComputationalBiology
-15520816	Ligands	Protein Binding	ComputationalBiology
-15520816	Models, Molecular	Models, Molecular	ComputationalBiology
-15520816	Protein Binding	Structure-Activity Relationship	ComputationalBiology
-15520816	Structure-Activity Relationship	Drug Design	ComputationalBiology
-15520816	NA	Computational Biology	ComputationalBiology
+27899622	Computational Biology	Computational Biology	ComputationalBiology
+27899622	Databases, Protein	Databases, Protein	ComputationalBiology
+27899622	Genomics	Genomics	ComputationalBiology
+27899622	Proteome	Proteome	ComputationalBiology
+27899622	Proteomics	Proteomics	ComputationalBiology
+27899622	Web Browser	NA	ComputationalBiology
+15520816	NA	*Drug Discovery	ComputationalBiology
 15520816	NA	Computer Simulation	ComputationalBiology
 15520816	NA	Algorithms	ComputationalBiology
 15520816	NA	*Biophysical Phenomena	ComputationalBiology
-22877768	Computational Biology	*Systems Biology	ComputationalBiology
-22877768	Databases, Factual	*Drug Discovery	ComputationalBiology
-22877768	Drug Discovery	Reproducibility of Results	ComputationalBiology
-22877768	Proteomics	Computational Biology	ComputationalBiology
-22877768	Software	Genomics	ComputationalBiology
-22877768	Systems Biology	Databases, Factual	ComputationalBiology
-22877768	NA	Software	ComputationalBiology
+15520816	Binding Sites	Binding Sites	ComputationalBiology
+15520816	Computational Biology	Computational Biology	ComputationalBiology
+15520816	Drug Design	Drug Design	ComputationalBiology
+15520816	Ligands	Ligands	ComputationalBiology
+15520816	Models, Molecular	Models, Molecular	ComputationalBiology
+15520816	Protein Binding	Protein Binding	ComputationalBiology
+15520816	Structure-Activity Relationship	Structure-Activity Relationship	ComputationalBiology
+22877768	NA	Reproducibility of Results	ComputationalBiology
+22877768	NA	Genomics	ComputationalBiology
 22877768	NA	*Systems Integrations	ComputationalBiology
-22877768	NA	Proteomics	ComputationalBiology
 22877768	NA	Medicinal Herbs	ComputationalBiology
-15318951	Cluster Analysis	*Sequence Alignment	ComputationalBiology
-15318951	Computational Biology	Sequence Analysis, Protein	ComputationalBiology
-15318951	Phylogeny	Amino Acid Sequence	ComputationalBiology
-15318951	Sequence Alignment	Software	ComputationalBiology
-15318951	Software	Computational Biology	ComputationalBiology
-15318951	Software Design	Algorithm	ComputationalBiology
+22877768	Computational Biology	Computational Biology	ComputationalBiology
+22877768	Databases, Factual	Databases, Factual	ComputationalBiology
+22877768	Drug Discovery	Drug Discovery	ComputationalBiology
+22877768	Proteomics	Proteomics	ComputationalBiology
+22877768	Software	Software	ComputationalBiology
+22877768	Systems Biology	Systems Biology	ComputationalBiology
+15318951	NA	Sequence Analysis, Protein	ComputationalBiology
+15318951	NA	Amino Acid Sequence	ComputationalBiology
+15318951	NA	Algorithm	ComputationalBiology
+15318951	Cluster Analysis	NA	ComputationalBiology
+15318951	Computational Biology	Computational Biology	ComputationalBiology
+15318951	Phylogeny	NA	ComputationalBiology
+15318951	Sequence Alignment	Sequence Alignment	ComputationalBiology
+15318951	Software	Software	ComputationalBiology
+15318951	Software Design	NA	ComputationalBiology
 15318951	Time Factors	NA	ComputationalBiology
-20816881	Computational Biology	*Proteomics	ComputationalBiology
-20816881	Databases, Protein	Tandem Mass Spectrometry	ComputationalBiology
-20816881	False Positive Reactions	*Proteins	ComputationalBiology
-20816881	Mass Spectrometry	*Peptides	ComputationalBiology
-20816881	Peptides	Databases, Protein	ComputationalBiology
-20816881	Proteins	Sequence Analysis, Protein	ComputationalBiology
-20816881	Proteomics	Computational Biology	ComputationalBiology
+20816881	NA	Tandem Mass Spectrometry	ComputationalBiology
+20816881	NA	Sequence Analysis, Protein	ComputationalBiology
 20816881	NA	Probabilities	ComputationalBiology
 20816881	NA	*Survey	ComputationalBiology
-27927225	Computational Biology	*RNA	ComputationalBiology
-27927225	Genomics	*Computational Biology	ComputationalBiology
-27927225	Humans	Genomics	ComputationalBiology
+20816881	Computational Biology	Computational Biology	ComputationalBiology
+20816881	Databases, Protein	Databases, Protein	ComputationalBiology
+20816881	False Positive Reactions	NA	ComputationalBiology
+20816881	Mass Spectrometry	NA	ComputationalBiology
+20816881	Peptides	Peptides	ComputationalBiology
+20816881	Proteins	Proteins	ComputationalBiology
+20816881	Proteomics	Proteomics	ComputationalBiology
+27927225	Computational Biology	Computational Biology	ComputationalBiology
+27927225	Genomics	Genomics	ComputationalBiology
+27927225	Humans	NA	ComputationalBiology
 27927225	Proteomics	Proteomics	ComputationalBiology
-27927225	RNA	NA	ComputationalBiology
-26289314	Glycoconjugates	Humans	Neoplasms
-26289314	Glycosylation	*Glycosylation	Neoplasms
-26289314	Humans	*Cancer	Neoplasms
-26289314	Neoplasms	Glycobiology	Neoplasms
-26289314	Polysaccharides	Glycans	Neoplasms
+27927225	RNA	RNA	ComputationalBiology
+26289314	NA	*Cancer	Neoplasms
+26289314	NA	Glycobiology	Neoplasms
+26289314	NA	Glycans	Neoplasms
 26289314	NA	Cell Adhesion	Neoplasms
 26289314	NA	Cell Signaling	Neoplasms
 26289314	NA	Disease Progression	Neoplasms
-28244479	Humans	*Cancers	Neoplasms
-28244479	Neoplasms	Survival Rate	Neoplasms
-28244479	Survival Rate	India	Neoplasms
+26289314	Glycoconjugates	NA	Neoplasms
+26289314	Glycosylation	Glycosylation	Neoplasms
+26289314	Humans	Humans	Neoplasms
+26289314	Neoplasms	NA	Neoplasms
+26289314	Polysaccharides	NA	Neoplasms
+28244479	NA	*Cancers	Neoplasms
+28244479	NA	India	Neoplasms
 28244479	NA	Incidence	Neoplasms
-21248838	Animals	Humans	Neoplasms
-21248838	Cell Lineage	*Cancers	Neoplasms
-21248838	Hematologic Neoplasms	Neoplastic Stem Cells	Neoplasms
-21248838	Humans	Cell Transformation, Neoplastic	Neoplasms
-21248838	Models, Biological	Cell Lineage	Neoplasms
-21248838	Neoplasms	Cell Differentiation	Neoplasms
-21248838	Neoplastic Stem Cells	NA	Neoplasms
+28244479	Humans	NA	Neoplasms
+28244479	Neoplasms	NA	Neoplasms
+28244479	Survival Rate	Survival Rate	Neoplasms
+21248838	NA	*Cancers	Neoplasms
+21248838	NA	Cell Transformation, Neoplastic	Neoplasms
+21248838	NA	Cell Differentiation	Neoplasms
+21248838	Animals	NA	Neoplasms
+21248838	Cell Lineage	Cell Lineage	Neoplasms
+21248838	Hematologic Neoplasms	NA	Neoplasms
+21248838	Humans	Humans	Neoplasms
+21248838	Models, Biological	NA	Neoplasms
+21248838	Neoplasms	NA	Neoplasms
+21248838	Neoplastic Stem Cells	Neoplastic Stem Cells	Neoplasms
 21248838	Phenotype	NA	Neoplasms
-28741511	Animals	*Endoplasmic Reticulum Stress	Neoplasms
-28741511	Cell Transformation, Neoplastic	*Cancer	Neoplasms
-28741511	Drug Resistance, Neoplasm	Unfolded Protein Response	Neoplasms
-28741511	Endoplasmic Reticulum Stress	Signal Transduction	Neoplasms
-28741511	Epigenesis, Genetic	Endoplasmic Reticulum	Neoplasms
-28741511	Genomic Instability	Neovascularization, Pathologic	Neoplasms
-28741511	Humans	Proteostasis	Neoplasms
-28741511	Neoplasm Invasiveness	Apoptosis	Neoplasms
-28741511	Neoplasms	Inflammation	Neoplasms
-28741511	Unfolded Protein Response	Tumor Microenvironment	Neoplasms
-29056514	Carcinogenesis	Humans	Neoplasms
-29056514	Exercise	*Exercise	Neoplasms
-29056514	Humans	Cancer	Neoplasms
-29056514	Immunity	Treatment Efficacy	Neoplasms
-29056514	Models, Biological	Incidence	Neoplasms
-29056514	Neoplasms	Risk Factors	Neoplasms
-31455183	Aging	Animals	Neoplasms
-31455183	Humans	*Aging	Neoplasms
-31455183	Models, Biological	Cellular Reprogramming	Neoplasms
-31455183	Neoplasms	Cellular Senescence	Neoplasms
-31455183	Regeneration	Regenerative Medicine	Neoplasms
+28741511	NA	*Cancer	Neoplasms
+28741511	NA	Signal Transduction	Neoplasms
+28741511	NA	Endoplasmic Reticulum	Neoplasms
+28741511	NA	Neovascularization, Pathologic	Neoplasms
+28741511	NA	Proteostasis	Neoplasms
+28741511	NA	Apoptosis	Neoplasms
+28741511	NA	Inflammation	Neoplasms
+28741511	NA	Tumor Microenvironment	Neoplasms
+28741511	Animals	NA	Neoplasms
+28741511	Cell Transformation, Neoplastic	NA	Neoplasms
+28741511	Drug Resistance, Neoplasm	NA	Neoplasms
+28741511	Endoplasmic Reticulum Stress	Endoplasmic Reticulum Stress	Neoplasms
+28741511	Epigenesis, Genetic	NA	Neoplasms
+28741511	Genomic Instability	NA	Neoplasms
+28741511	Humans	NA	Neoplasms
+28741511	Neoplasm Invasiveness	NA	Neoplasms
+28741511	Neoplasms	NA	Neoplasms
+28741511	Unfolded Protein Response	Unfolded Protein Response	Neoplasms
+29056514	NA	Cancer	Neoplasms
+29056514	NA	Treatment Efficacy	Neoplasms
+29056514	NA	Incidence	Neoplasms
+29056514	NA	Risk Factors	Neoplasms
+29056514	Carcinogenesis	NA	Neoplasms
+29056514	Exercise	Exercise	Neoplasms
+29056514	Humans	Humans	Neoplasms
+29056514	Immunity	NA	Neoplasms
+29056514	Models, Biological	NA	Neoplasms
+29056514	Neoplasms	NA	Neoplasms
+31455183	NA	Animals	Neoplasms
+31455183	NA	Cellular Reprogramming	Neoplasms
+31455183	NA	Cellular Senescence	Neoplasms
+31455183	NA	Regenerative Medicine	Neoplasms
 31455183	NA	Phenotype	Neoplasms
 31455183	NA	Cancer	Neoplasms
-12724736	Humans	Male	Neoplasms
-12724736	Neoplasms	*Photochemotherapy	Neoplasms
-12724736	Photochemotherapy	Photosensitizing Agents	Neoplasms
+31455183	Aging	Aging	Neoplasms
+31455183	Humans	NA	Neoplasms
+31455183	Models, Biological	NA	Neoplasms
+31455183	Neoplasms	NA	Neoplasms
+31455183	Regeneration	NA	Neoplasms
+12724736	NA	Male	Neoplasms
+12724736	NA	Photosensitizing Agents	Neoplasms
 12724736	NA	Medical Oncology	Neoplasms
 12724736	NA	Lung Neoplasms	Neoplasms
 12724736	NA	Prostate	Neoplasms
 12724736	NA	Skin	Neoplasms
 12724736	NA	Ambulatory Care Facilities	Neoplasms
 12724736	NA	Breast	Neoplasms
-17476343	Animals	Humans	Neoplasms
-17476343	Humans	Animals	Neoplasms
-17476343	Immunologic Surveillance	Mice	Neoplasms
-17476343	Neoplasms	*Immunologic Surveillance	Neoplasms
+12724736	Humans	NA	Neoplasms
+12724736	Neoplasms	NA	Neoplasms
+12724736	Photochemotherapy	Photochemotherapy	Neoplasms
+17476343	NA	Mice	Neoplasms
 17476343	NA	*Tumors	Neoplasms
 17476343	NA	Tumor Escape	Neoplasms
 17476343	NA	Immunotherapies	Neoplasms
 17476343	NA	Immune System	Neoplasms
 17476343	NA	Natural Immunity	Neoplasms
-21858793	Emergencies	Humans	Neoplasms
-21858793	Humans	*Emergencies	Neoplasms
-21858793	Neoplasms	Quality of Life	Neoplasms
+17476343	Animals	Animals	Neoplasms
+17476343	Humans	Humans	Neoplasms
+17476343	Immunologic Surveillance	Immunologic Surveillance	Neoplasms
+17476343	Neoplasms	NA	Neoplasms
+21858793	NA	Quality of Life	Neoplasms
 21858793	NA	Neoplasm Recurrence, Local	Neoplasms
 21858793	NA	*Medical Oncology	Neoplasms
 21858793	NA	Tumour Lysis Syndrome	Neoplasms
@@ -625,29 +786,37 @@ PMID	EUTIL	WEBAPI	TOPIC TERM
 21858793	NA	Compression, Spinal Cord	Neoplasms
 21858793	NA	Hyponatremia	Neoplasms
 21858793	NA	Hypoglycemia	Neoplasms
-28741506	Animals	Neoplasm Recurrence, Local	Neoplasms
-28741506	Carcinogenesis	Cellular Senescence	Neoplasms
+21858793	Emergencies	Emergencies	Neoplasms
+21858793	Humans	Humans	Neoplasms
+21858793	Neoplasms	NA	Neoplasms
+28741506	NA	Cytokines	Neoplasms
+28741506	NA	Tumorigenesis	Neoplasms
+28741506	NA	*Genes, Tumor Suppressor	Neoplasms
+28741506	NA	*Promoter Regions, Genetic	Neoplasms
+28741506	Animals	NA	Neoplasms
+28741506	Carcinogenesis	NA	Neoplasms
 28741506	Cell Transformation, Neoplastic	Cell Transformation, Neoplastic	Neoplasms
-28741506	Cellular Senescence	Cytokines	Neoplasms
-28741506	Humans	Tumorigenesis	Neoplasms
-28741506	Neoplasm Recurrence, Local	*Genes, Tumor Suppressor	Neoplasms
-28741506	Neoplasms	*Promoter Regions, Genetic	Neoplasms
+28741506	Cellular Senescence	Cellular Senescence	Neoplasms
+28741506	Humans	NA	Neoplasms
+28741506	Neoplasm Recurrence, Local	Neoplasm Recurrence, Local	Neoplasms
+28741506	Neoplasms	NA	Neoplasms
 28741506	Phenotype	Phenotype	Neoplasms
-31014516	Animals	*Matrix Metalloproteinases	Neoplasms
-31014516	Humans	*Cancer	Neoplasms
-31014516	Matrix Metalloproteinases	Antineoplastic Agents	Neoplasms
-31014516	Neoplasm Metastasis	Cytokines	Neoplasms
+31014516	NA	*Cancer	Neoplasms
+31014516	NA	Antineoplastic Agents	Neoplasms
+31014516	NA	Cytokines	Neoplasms
+31014516	Animals	NA	Neoplasms
+31014516	Humans	NA	Neoplasms
+31014516	Matrix Metalloproteinases	Matrix Metalloproteinases	Neoplasms
+31014516	Neoplasm Metastasis	NA	Neoplasms
 31014516	Neoplasms	NA	Neoplasms
-27890287	Animals	Animals	Neoplasms
-27890287	Neoplasms	Rabbits	Neoplasms
-27890287	Rabbits	*Medical Oncology	Neoplasms
-27890287	NA	Neoplasms	Neoplasms
+27890287	NA	*Medical Oncology	Neoplasms
 27890287	NA	Integumentary Systems	Neoplasms
 27890287	NA	Problem Solving	Neoplasms
-28779867	Child	Humans	Neoplasms
-28779867	Humans	Child	Neoplasms
-28779867	Neoplasms	*Malignancy	Neoplasms
-28779867	Nervous System Diseases	Seizures	Neoplasms
+27890287	Animals	Animals	Neoplasms
+27890287	Neoplasms	Neoplasms	Neoplasms
+27890287	Rabbits	Rabbits	Neoplasms
+28779867	NA	*Malignancy	Neoplasms
+28779867	NA	Seizures	Neoplasms
 28779867	NA	Movements, Abnormal	Neoplasms
 28779867	NA	Neurotoxicity Syndromes	Neoplasms
 28779867	NA	Psychosis	Neoplasms
@@ -655,192 +824,258 @@ PMID	EUTIL	WEBAPI	TOPIC TERM
 28779867	NA	Hematopoietic Stem Cell Transplantation	Neoplasms
 28779867	NA	Stem Cell Transplantation	Neoplasms
 28779867	NA	Disease Progression	Neoplasms
-27364482	Animals	*Oncogenes	Neoplasms
-27364482	Apoptosis	*Apoptosis	Neoplasms
-27364482	Carcinogenesis	*Oncogenesis	Neoplasms
-27364482	Humans	Cancer	Neoplasms
+28779867	Child	Child	Neoplasms
+28779867	Humans	Humans	Neoplasms
+28779867	Neoplasms	NA	Neoplasms
+28779867	Nervous System Diseases	NA	Neoplasms
+27364482	NA	*Oncogenesis	Neoplasms
+27364482	NA	Cancer	Neoplasms
+27364482	Animals	NA	Neoplasms
+27364482	Apoptosis	Apoptosis	Neoplasms
+27364482	Carcinogenesis	NA	Neoplasms
+27364482	Humans	NA	Neoplasms
 27364482	Neoplasms	NA	Neoplasms
-27364482	Oncogenes	NA	Neoplasms
+27364482	Oncogenes	Oncogenes	Neoplasms
 27364482	Prognosis	NA	Neoplasms
-28782469	Antineoplastic Agents	Humans	Neoplasms
-28782469	Cell Cycle Checkpoints	Immunotherapy	Neoplasms
-28782469	Humans	Cancer	Neoplasms
-28782469	Immunotherapy	Antineoplastic Agents	Neoplasms
-28782469	Neoplasms	Cell Cycle Checkpoints	Neoplasms
+28782469	NA	Cancer	Neoplasms
 28782469	NA	*Immunologic Factors	Neoplasms
 28782469	NA	Efficacy, Clinical	Neoplasms
-27890288	Animals	Animals	Neoplasms
-27890288	Ferrets	*Ferrets	Neoplasms
-27890288	Neoplasms	Insulinoma	Neoplasms
+28782469	Antineoplastic Agents	Antineoplastic Agents	Neoplasms
+28782469	Cell Cycle Checkpoints	Cell Cycle Checkpoints	Neoplasms
+28782469	Humans	Humans	Neoplasms
+28782469	Immunotherapy	Immunotherapy	Neoplasms
+28782469	Neoplasms	NA	Neoplasms
+27890288	NA	Insulinoma	Neoplasms
 27890288	NA	*Medical Oncology	Neoplasms
 27890288	NA	Adrenalectomy	Neoplasms
 27890288	NA	Pancreatic Neoplasms	Neoplasms
-31362690	History, 20th Century	Humans	Neoplasms
-31362690	History, 21st Century	Cancer	Neoplasms
-31362690	Humans	Oncogene	Neoplasms
-31362690	Neoplasms	Biomedical Research	Neoplasms
-25993239	Clonal Evolution	*Clonal Evolution	Neoplasms
-25993239	Genetic Heterogeneity	Neoplastic Stem Cells	Neoplasms
-25993239	Humans	Biomarkers, Tumor	Neoplasms
-25993239	Neoplasms	Precancerous Conditions	Neoplasms
-25993239	Neoplastic Stem Cells	Mutation	Neoplasms
-25993239	Precancerous Conditions	Clones	Neoplasms
-31099667	Disease Management	*Metabolic Pathways	Neoplasms
-31099667	Energy Metabolism	Cancer	Neoplasms
-31099667	Humans	Tumor Microenvironment	Neoplasms
-31099667	Metabolic Networks and Pathways	Molecular Targeted Therapy	Neoplasms
-31099667	Molecular Targeted Therapy	Glycolysis	Neoplasms
-31099667	Neoplasms	Energy Metabolism	Neoplasms
+27890288	Animals	Animals	Neoplasms
+27890288	Ferrets	Ferrets	Neoplasms
+27890288	Neoplasms	NA	Neoplasms
+31362690	NA	Cancer	Neoplasms
+31362690	NA	Oncogene	Neoplasms
+31362690	NA	Biomedical Research	Neoplasms
+31362690	History, 20th Century	NA	Neoplasms
+31362690	History, 21st Century	NA	Neoplasms
+31362690	Humans	Humans	Neoplasms
+31362690	Neoplasms	NA	Neoplasms
+25993239	NA	Biomarkers, Tumor	Neoplasms
+25993239	NA	Mutation	Neoplasms
+25993239	NA	Clones	Neoplasms
+25993239	Clonal Evolution	Clonal Evolution	Neoplasms
+25993239	Genetic Heterogeneity	NA	Neoplasms
+25993239	Humans	NA	Neoplasms
+25993239	Neoplasms	NA	Neoplasms
+25993239	Neoplastic Stem Cells	Neoplastic Stem Cells	Neoplasms
+25993239	Precancerous Conditions	Precancerous Conditions	Neoplasms
+31099667	NA	*Metabolic Pathways	Neoplasms
+31099667	NA	Cancer	Neoplasms
+31099667	NA	Tumor Microenvironment	Neoplasms
+31099667	NA	Glycolysis	Neoplasms
 31099667	NA	Cell Proliferation	Neoplasms
 31099667	NA	Signal Transduction	Neoplasms
-30241109	Academies and Institutes	Humans	Neoplasms
-30241109	Delivery of Health Care	Cancer	Neoplasms
-30241109	Europe	*Academy	Neoplasms
-30241109	Humans	Translational Research	Neoplasms
-30241109	Neoplasms	Europe	Neoplasms
-30241109	Translational Medical Research	Biomedical Research	Neoplasms
+31099667	Disease Management	NA	Neoplasms
+31099667	Energy Metabolism	Energy Metabolism	Neoplasms
+31099667	Humans	NA	Neoplasms
+31099667	Metabolic Networks and Pathways	NA	Neoplasms
+31099667	Molecular Targeted Therapy	Molecular Targeted Therapy	Neoplasms
+31099667	Neoplasms	NA	Neoplasms
+30241109	NA	Cancer	Neoplasms
+30241109	NA	*Academy	Neoplasms
+30241109	NA	Translational Research	Neoplasms
+30241109	NA	Biomedical Research	Neoplasms
 30241109	NA	Healthcare	Neoplasms
 30241109	NA	Quality of Health Care	Neoplasms
 30241109	NA	*Medicine	Neoplasms
 30241109	NA	Researchers	Neoplasms
 30241109	NA	Outcomes Research	Neoplasms
 30241109	NA	Data Accuracy	Neoplasms
-28303019	Animals	*Optogenetics	Neurosciences
-28303019	Electrophysiology	*Neuroscience	Neurosciences
-28303019	Neuroanatomy	Opsin	Neurosciences
-28303019	Neuroimaging	Brain	Neurosciences
-28303019	Neurosciences	Rod Opsins	Neurosciences
-28303019	Optogenetics	NA	Neurosciences
-29096079	Animals	*Neurons	Neurosciences
-29096079	Cell Biology	*Signal Transduction	Neurosciences
-29096079	Cytoskeleton	*Neuroscience	Neurosciences
-29096079	Humans	Organelle	Neurosciences
-29096079	Neurons	Protein Transport	Neurosciences
-29096079	Neurosciences	*Biological Processes	Neurosciences
-29096079	Signal Transduction	NA	Neurosciences
-29432512	Emotions	Psychoanalysis	Neurosciences
-29432512	History, 19th Century	Psychoanalytic Theory	Neurosciences
-29432512	History, 20th Century	*Emotions	Neurosciences
-29432512	History, 21st Century	Psychoanalytic Therapy	Neurosciences
-29432512	Humans	Neuroscience	Neurosciences
-29432512	Interdisciplinary Communication	Neurobiology	Neurosciences
-29432512	Neurosciences	Memory	Neurosciences
-29432512	Psychoanalysis	Empathy	Neurosciences
-29432512	Psychoanalytic Theory	Motivations	Neurosciences
-29432512	Psychoanalytic Therapy	NA	Neurosciences
+30241109	Academies and Institutes	NA	Neoplasms
+30241109	Delivery of Health Care	NA	Neoplasms
+30241109	Europe	Europe	Neoplasms
+30241109	Humans	Humans	Neoplasms
+30241109	Neoplasms	NA	Neoplasms
+30241109	Translational Medical Research	NA	Neoplasms
+28303019	NA	*Neuroscience	Neurosciences
+28303019	NA	Opsin	Neurosciences
+28303019	NA	Brain	Neurosciences
+28303019	NA	Rod Opsins	Neurosciences
+28303019	Animals	NA	Neurosciences
+28303019	Electrophysiology	NA	Neurosciences
+28303019	Neuroanatomy	NA	Neurosciences
+28303019	Neuroimaging	NA	Neurosciences
+28303019	Neurosciences	NA	Neurosciences
+28303019	Optogenetics	Optogenetics	Neurosciences
+29096079	NA	*Neuroscience	Neurosciences
+29096079	NA	Organelle	Neurosciences
+29096079	NA	Protein Transport	Neurosciences
+29096079	NA	*Biological Processes	Neurosciences
+29096079	Animals	NA	Neurosciences
+29096079	Cell Biology	NA	Neurosciences
+29096079	Cytoskeleton	NA	Neurosciences
+29096079	Humans	NA	Neurosciences
+29096079	Neurons	Neurons	Neurosciences
+29096079	Neurosciences	NA	Neurosciences
+29096079	Signal Transduction	Signal Transduction	Neurosciences
+29432512	NA	Neuroscience	Neurosciences
+29432512	NA	Neurobiology	Neurosciences
+29432512	NA	Memory	Neurosciences
+29432512	NA	Empathy	Neurosciences
+29432512	NA	Motivations	Neurosciences
+29432512	Emotions	Emotions	Neurosciences
+29432512	History, 19th Century	NA	Neurosciences
+29432512	History, 20th Century	NA	Neurosciences
+29432512	History, 21st Century	NA	Neurosciences
+29432512	Humans	NA	Neurosciences
+29432512	Interdisciplinary Communication	NA	Neurosciences
+29432512	Neurosciences	NA	Neurosciences
+29432512	Psychoanalysis	Psychoanalysis	Neurosciences
+29432512	Psychoanalytic Theory	Psychoanalytic Theory	Neurosciences
+29432512	Psychoanalytic Therapy	Psychoanalytic Therapy	Neurosciences
 29432512	Psychology	NA	Neurosciences
-29460160	History, 20th Century	Humans	Neurosciences
-29460160	Human Experimentation	Human Experimentation	Neurosciences
-29460160	Humans	Nazi	Neurosciences
-29460160	Neurosciences	Informed Consent	Neurosciences
+29460160	NA	Nazi	Neurosciences
+29460160	NA	Informed Consent	Neurosciences
 29460160	NA	Ethics, Medical	Neurosciences
 29460160	NA	*Neuroscience	Neurosciences
 29460160	NA	Morals	Neurosciences
-29924477	Animals	Humans	Neurosciences
-29924477	Brain	Animals	Neurosciences
-29924477	Brain Mapping	*Neuroscience	Neurosciences
-29924477	Electroencephalography	Brain Mapping	Neurosciences
-29924477	History, 20th Century	Brain	Neurosciences
-29924477	History, 21st Century	Functions, Cognitive	Neurosciences
-29924477	Humans	Cerebral Cortex	Neurosciences
-29924477	Magnetic Resonance Imaging	Electrical Stimulation	Neurosciences
+29460160	History, 20th Century	NA	Neurosciences
+29460160	Human Experimentation	Human Experimentation	Neurosciences
+29460160	Humans	Humans	Neurosciences
+29460160	Neurosciences	NA	Neurosciences
+29924477	NA	*Neuroscience	Neurosciences
+29924477	NA	Functions, Cognitive	Neurosciences
+29924477	NA	Cerebral Cortex	Neurosciences
+29924477	NA	Electrical Stimulation	Neurosciences
+29924477	Animals	Animals	Neurosciences
+29924477	Brain	Brain	Neurosciences
+29924477	Brain Mapping	Brain Mapping	Neurosciences
+29924477	Electroencephalography	NA	Neurosciences
+29924477	History, 20th Century	NA	Neurosciences
+29924477	History, 21st Century	NA	Neurosciences
+29924477	Humans	Humans	Neurosciences
+29924477	Magnetic Resonance Imaging	NA	Neurosciences
 29924477	Neurosciences	NA	Neurosciences
-29766913	Humans	Humans	Neurosciences
-29766913	Neurosciences	*Telemedicine	Neurosciences
-29766913	Telemedicine	*Neurosciences	Neurosciences
 29766913	NA	Videoconferencing	Neurosciences
 29766913	NA	Delivery, Healthcare	Neurosciences
 29766913	NA	India	Neurosciences
-29110344	Animals	*Brain	Neurosciences
-29110344	Brain	*Energy Metabolism	Neurosciences
-29110344	Energy Metabolism	Neuroscience	Neurosciences
-29110344	Humans	*Neurochemistry	Neurosciences
-29110344	Neurosciences	Neurons	Neurosciences
+29766913	Humans	Humans	Neurosciences
+29766913	Neurosciences	Neurosciences	Neurosciences
+29766913	Telemedicine	Telemedicine	Neurosciences
+29110344	NA	Neuroscience	Neurosciences
+29110344	NA	*Neurochemistry	Neurosciences
+29110344	NA	Neurons	Neurosciences
 29110344	NA	Cells, Glial	Neurosciences
 29110344	NA	Neurology	Neurosciences
 29110344	NA	Molecular Biology	Neurosciences
-29096071	Animals	*Neuroscience	Neurosciences
+29110344	Animals	NA	Neurosciences
+29110344	Brain	Brain	Neurosciences
+29110344	Energy Metabolism	Energy Metabolism	Neurosciences
+29110344	Humans	NA	Neurosciences
+29110344	Neurosciences	NA	Neurosciences
+29096071	NA	*Neuroscience	Neurosciences
+29096071	Animals	NA	Neurosciences
 29096071	Brain	Brain	Neurosciences
-29096071	Humans	Neuronal Plasticity	Neurosciences
+29096071	Humans	NA	Neurosciences
 29096071	Neurobiology	NA	Neurosciences
-29096071	Neuronal Plasticity	NA	Neurosciences
+29096071	Neuronal Plasticity	Neuronal Plasticity	Neurosciences
 29096071	Neurosciences	NA	Neurosciences
-29121942	Biomedical Research	Humans	Neurosciences
-29121942	Brain Diseases	*Brain-Computer Interfaces	Neurosciences
-29121942	Brain-Computer Interfaces	Communication Aids for Disabled	Neurosciences
-29121942	Communication Aids for Disabled	Electroencephalography	Neurosciences
-29121942	Electroencephalography	User-Computer Interface	Neurosciences
-29121942	Ethics, Research	Brain	Neurosciences
-29121942	Humans	Amyotrophic Lateral Sclerosis	Neurosciences
+29121942	NA	Brain	Neurosciences
+29121942	NA	Amyotrophic Lateral Sclerosis	Neurosciences
+29121942	Biomedical Research	NA	Neurosciences
+29121942	Brain Diseases	NA	Neurosciences
+29121942	Brain-Computer Interfaces	Brain-Computer Interfaces	Neurosciences
+29121942	Communication Aids for Disabled	Communication Aids for Disabled	Neurosciences
+29121942	Electroencephalography	Electroencephalography	Neurosciences
+29121942	Ethics, Research	NA	Neurosciences
+29121942	Humans	Humans	Neurosciences
 29121942	Neurosciences	NA	Neurosciences
 29121942	Personhood	NA	Neurosciences
-29121942	User-Computer Interface	NA	Neurosciences
-27634721	Brain	Reproducibility of Results	Neurosciences
-27634721	Criminal Behavior	Neurosciences	Neurosciences
-27634721	Humans	Neuroimaging	Neurosciences
-27634721	Intention	Morals	Neurosciences
-27634721	Morals	Brain	Neurosciences
-27634721	Neuroimaging	Criminal Law	Neurosciences
-27634721	Neurosciences	Crime	Neurosciences
-27634721	Reproducibility of Results	Intentions	Neurosciences
-27634721	Social Responsibility	*Social Behavior	Neurosciences
-27634721	Trust	Social Responsibility	Neurosciences
+29121942	User-Computer Interface	User-Computer Interface	Neurosciences
+27634721	NA	Criminal Law	Neurosciences
+27634721	NA	Crime	Neurosciences
+27634721	NA	Intentions	Neurosciences
+27634721	NA	*Social Behavior	Neurosciences
+27634721	Brain	Brain	Neurosciences
+27634721	Criminal Behavior	NA	Neurosciences
+27634721	Humans	NA	Neurosciences
+27634721	Intention	NA	Neurosciences
+27634721	Morals	Morals	Neurosciences
+27634721	Neuroimaging	Neuroimaging	Neurosciences
+27634721	Neurosciences	Neurosciences	Neurosciences
+27634721	Reproducibility of Results	Reproducibility of Results	Neurosciences
+27634721	Social Responsibility	Social Responsibility	Neurosciences
+27634721	Trust	NA	Neurosciences
+30980031	NA	Action Potentials	Neurosciences
 30980031	Animals	Animals	Neurosciences
-30980031	Brain	Mice	Neurosciences
-30980031	Cells, Cultured	Humans	Neurosciences
-30980031	Equipment Design	*Silicon	Neurosciences
-30980031	Humans	Action Potentials	Neurosciences
-30980031	Mice	Neurosciences	Neurosciences
-30980031	Nanotechnology	Neurons	Neurosciences
-30980031	Neurons	Nanotechnology	Neurosciences
-30980031	Neurosciences	Brain	Neurosciences
+30980031	Brain	Brain	Neurosciences
+30980031	Cells, Cultured	NA	Neurosciences
+30980031	Equipment Design	NA	Neurosciences
+30980031	Humans	Humans	Neurosciences
+30980031	Mice	Mice	Neurosciences
+30980031	Nanotechnology	Nanotechnology	Neurosciences
+30980031	Neurons	Neurons	Neurosciences
+30980031	Neurosciences	Neurosciences	Neurosciences
 30980031	Photic Stimulation	NA	Neurosciences
 30980031	Rats	NA	Neurosciences
-30980031	Silicon	NA	Neurosciences
-30731065	Bioethics	*Neuroscience	Neurosciences
-30731065	Humans	*Brain	Neurosciences
-30731065	National Institutes of Health (U.S.)	*Drive	Neurosciences
-30731065	Neurosciences	Electric Power Supplies	Neurosciences
+30980031	Silicon	Silicon	Neurosciences
+30731065	NA	*Neuroscience	Neurosciences
+30731065	NA	*Brain	Neurosciences
+30731065	NA	*Drive	Neurosciences
+30731065	NA	Electric Power Supplies	Neurosciences
+30731065	Bioethics	NA	Neurosciences
+30731065	Humans	NA	Neurosciences
+30731065	National Institutes of Health (U.S.)	NA	Neurosciences
+30731065	Neurosciences	NA	Neurosciences
 30731065	Practice Guidelines as Topic	NA	Neurosciences
 30731065	United States	NA	Neurosciences
-31260438	Brain	Humans	Neurosciences
-31260438	Diagnostic Imaging	*Neuroscience	Neurosciences
-31260438	Humans	*Brain	Neurosciences
-31260438	Image Processing, Computer-Assisted	Brain Mapping	Neurosciences
-31260438	Medical Informatics	Image Processing, Computer-Assisted	Neurosciences
-31260438	Neurosciences	Medical Informatics	Neurosciences
-31260438	Reproducibility of Results	*Technology	Neurosciences
-31260438	Technology	NA	Neurosciences
-27637950	Brain	Humans	Neurosciences
-27637950	Gene-Environment Interaction	*Neuroscience	Neurosciences
-27637950	Humans	Brain	Neurosciences
+31260438	NA	*Neuroscience	Neurosciences
+31260438	NA	Brain Mapping	Neurosciences
+31260438	Brain	Brain	Neurosciences
+31260438	Diagnostic Imaging	NA	Neurosciences
+31260438	Humans	Humans	Neurosciences
+31260438	Image Processing, Computer-Assisted	Image Processing, Computer-Assisted	Neurosciences
+31260438	Medical Informatics	Medical Informatics	Neurosciences
+31260438	Neurosciences	NA	Neurosciences
+31260438	Reproducibility of Results	NA	Neurosciences
+31260438	Technology	Technology	Neurosciences
+27637950	NA	*Neuroscience	Neurosciences
+27637950	Brain	Brain	Neurosciences
+27637950	Gene-Environment Interaction	NA	Neurosciences
+27637950	Humans	Humans	Neurosciences
 27637950	Neurosciences	NA	Neurosciences
 27637950	Population Dynamics	NA	Neurosciences
-28250055	Animals	HCRT protein, human	Neurosciences
-28250055	Brain	*Orexins	Neurosciences
-28250055	History, 20th Century	Neuropeptides	Neurosciences
-28250055	History, 21st Century	*Neurons	Neurosciences
-28250055	Humans	Wakefulness	Neurosciences
-28250055	Neurons	Intracellular Signaling Peptides and Proteins	Neurosciences
-28250055	Neurosciences	Hypothalamus	Neurosciences
-28250055	Orexins	NA	Neurosciences
+28250055	NA	HCRT protein, human	Neurosciences
+28250055	NA	Neuropeptides	Neurosciences
+28250055	NA	Wakefulness	Neurosciences
+28250055	NA	Intracellular Signaling Peptides and Proteins	Neurosciences
+28250055	NA	Hypothalamus	Neurosciences
+28250055	Animals	NA	Neurosciences
+28250055	Brain	NA	Neurosciences
+28250055	History, 20th Century	NA	Neurosciences
+28250055	History, 21st Century	NA	Neurosciences
+28250055	Humans	NA	Neurosciences
+28250055	Neurons	Neurons	Neurosciences
+28250055	Neurosciences	NA	Neurosciences
+28250055	Orexins	Orexins	Neurosciences
 28250055	Periodicals as Topic	NA	Neurosciences
-29547172	Academies and Institutes	Humans	Neurosciences
-29547172	History, 19th Century	United States	Neurosciences
-29547172	History, 20th Century	India	Neurosciences
-29547172	History, 21st Century	*Neurology	Neurosciences
-29547172	Humans	Neurosciences	Neurosciences
-29547172	India	Nervous System Diseases	Neurosciences
-29547172	Nervous System Diseases	Academies and Institutes	Neurosciences
-29547172	Neurology	Societies, Medical	Neurosciences
-29547172	Neurosciences	National Institute of Mental Health	Neurosciences
-29547172	Photography	Faculty	Neurosciences
+29547172	NA	United States	Neurosciences
+29547172	NA	Societies, Medical	Neurosciences
+29547172	NA	National Institute of Mental Health	Neurosciences
+29547172	NA	Faculty	Neurosciences
 29547172	NA	Government	Neurosciences
-30720413	Bioethical Issues	Humans	Neurosciences
-30720413	Bioethics	Neuroscience	Neurosciences
-30720413	Humans	Bioethical Issues	Neurosciences
-30720413	Jurisprudence	Technology	Neurosciences
-30720413	Neurosciences	Brain	Neurosciences
+29547172	Academies and Institutes	Academies and Institutes	Neurosciences
+29547172	History, 19th Century	NA	Neurosciences
+29547172	History, 20th Century	NA	Neurosciences
+29547172	History, 21st Century	NA	Neurosciences
+29547172	Humans	Humans	Neurosciences
+29547172	India	India	Neurosciences
+29547172	Nervous System Diseases	Nervous System Diseases	Neurosciences
+29547172	Neurology	Neurology	Neurosciences
+29547172	Neurosciences	Neurosciences	Neurosciences
+29547172	Photography	NA	Neurosciences
+30720413	NA	Neuroscience	Neurosciences
+30720413	NA	Technology	Neurosciences
+30720413	NA	Brain	Neurosciences
 30720413	NA	Confusion	Neurosciences
 30720413	NA	Recognition, Psychology	Neurosciences
 30720413	NA	Sister	Neurosciences
@@ -848,31 +1083,44 @@ PMID	EUTIL	WEBAPI	TOPIC TERM
 30720413	NA	Charges	Neurosciences
 30720413	NA	Reconstructive Surgical Procedures	Neurosciences
 30720413	NA	Rubiaceae	Neurosciences
+30720413	Bioethical Issues	Bioethical Issues	Neurosciences
+30720413	Bioethics	NA	Neurosciences
+30720413	Humans	Humans	Neurosciences
+30720413	Jurisprudence	NA	Neurosciences
+30720413	Neurosciences	NA	Neurosciences
+28552516	NA	*Neuroscience	Neurosciences
+28552516	NA	*Bioassays	Neurosciences
 28552516	Animals	Animals	Neurosciences
-28552516	Behavior, Animal	*Neuroscience	Neurosciences
+28552516	Behavior, Animal	Behavior, Animal	Neurosciences
 28552516	Behavioral Research	Behavioral Research	Neurosciences
-28552516	Biological Assay	Behavior, Animal	Neurosciences
-28552516	Neurosciences	*Bioassays	Neurosciences
+28552516	Biological Assay	NA	Neurosciences
+28552516	Neurosciences	NA	Neurosciences
 28552516	Reproducibility of Results	NA	Neurosciences
-29316506	Animals	Humans	Neurosciences
-29316506	Humans	Animals	Neurosciences
-29316506	Microscopy	Mice	Neurosciences
-29316506	Neurons	*Neuroscience	Neurosciences
-29316506	Neurosciences	Microscopy, Fluorescence	Neurosciences
-29316506	Synapses	Microscopy, Confocal	Neurosciences
-29316506	NA	Synapses	Neurosciences
-29316506	NA	Neurons	Neurosciences
+29316506	NA	Mice	Neurosciences
+29316506	NA	*Neuroscience	Neurosciences
+29316506	NA	Microscopy, Fluorescence	Neurosciences
+29316506	NA	Microscopy, Confocal	Neurosciences
 29316506	NA	Specimen Handling	Neurosciences
 29316506	NA	Brain	Neurosciences
 29316506	NA	Polymer	Neurosciences
-29733893	Animal Testing Alternatives	Humans	Neurosciences
-29733893	Animal Welfare	Animals	Neurosciences
-29733893	Animals	*Neuroscience	Neurosciences
-29733893	Bibliometrics	Animal Experimentation	Neurosciences
-29733893	Biomedical Research	Animal Welfare	Neurosciences
-29733893	Humans	Animal Testing Alternatives	Neurosciences
-29733893	Models, Animal	Research Methodology	Neurosciences
-29733893	Neurosciences	Primates	Neurosciences
-29733893	Primates	Biomedical Research	Neurosciences
-29733893	Research Design	Researchers	Neurosciences
+29316506	Animals	Animals	Neurosciences
+29316506	Humans	Humans	Neurosciences
+29316506	Microscopy	NA	Neurosciences
+29316506	Neurons	Neurons	Neurosciences
+29316506	Neurosciences	NA	Neurosciences
+29316506	Synapses	Synapses	Neurosciences
+29733893	NA	*Neuroscience	Neurosciences
+29733893	NA	Animal Experimentation	Neurosciences
+29733893	NA	Research Methodology	Neurosciences
+29733893	NA	Researchers	Neurosciences
+29733893	Animal Testing Alternatives	Animal Testing Alternatives	Neurosciences
+29733893	Animal Welfare	Animal Welfare	Neurosciences
+29733893	Animals	Animals	Neurosciences
+29733893	Bibliometrics	NA	Neurosciences
+29733893	Biomedical Research	Biomedical Research	Neurosciences
+29733893	Humans	Humans	Neurosciences
+29733893	Models, Animal	NA	Neurosciences
+29733893	Neurosciences	NA	Neurosciences
+29733893	Primates	Primates	Neurosciences
+29733893	Research Design	NA	Neurosciences
 29733893	United Kingdom	NA	Neurosciences
