@@ -1,49 +1,15 @@
-# Table of contents
-- `main.py`: Python code for extracting abstract, title from the XML files.
-- `run.sh`:  Bash script to run the whole program. It takes three arguments that are mentioned in the _Instructions_.
-- `AllData.csv`: CSV file contains mesh details of all 100 articles.
-- `AllMeshTerms.txt`: File contains the mesh terms of 100 articles which was obtained after merging all `meshterms.txt`(5 * 20=100).
-- `compareMesh.tsv`: Shows the comparison between Mesh terms produced by using WebAPI and Eutil.
-- `AllPMID.txt`: File contains _PMID_ of 100 articles.
-- `CompareMeshCSV.py`: Pyhton code for comparing between Mesh terms produced by using WebAPI and Eutil and dispaying it in a TSV file.
-- `merge.py`: Merges the pmid and mesh details of all the 5 diseases to the *AllPMID.txt* and *AllMeshTerms.txt* respectively.
-- `AllData.py`: Pyhthon code for displaing mesh details of 100 articles in TSV file _(*AllData.tsv*)_.
+MTI Batch Processing
+---
+Python code to process Journal abstracts and get MeSH terms using MTI WebAPI.   
 
 
-## Directory Structure
-<pre>
-├── Aging     
-|    ├── main.py   
-|    └── pmid-AgingMeshT-set.txt  
-├── CommunicableDiseases   
-|    ├── main.py  
-|    └── pmid-Communicab-set.txt  
-├── ComputationalBiology   
-|    ├── main.py  
-|    └── pmid-Computatio-set.txt  
-├── Neoplasms  
-|    ├── main.py  
-|    └── pmid-NeoplasmsM-set.txt  
-├── Neurosciences  
-|    ├── main.py  
-|    └── pmid-neurosciene-set.txt  
-├── AllData.csv   
-├── AllData.py  
-├── AllPMID.txt
-├── AllMeshTerms.txt 
-├── compare.tsv  
-├── compareMeshCSV.py
-├── merge.py
-├── run.sh  
-└── script.sh 
-</pre>
+## Supporting libraries
+The JAR files present in **lib** directory are taken from [ziy/skr-webapi](https://github.com/ziy/skr-webapi/)
 
-## Instructions
-- Download the repository [https://github.com/PritiShaw/Analyze-MESH.git](https://github.com/PritiShaw/Analyze-MESH.git) and extract it.
-- Download the WebAPI from [https://ii.nlm.nih.gov/Web_API/index.shtml](https://ii.nlm.nih.gov/Web_API/index.shtml) and extract it.
-- open the terminal and `cd Analyze-MESH`
-- `chmod +x script.sh`
-- `chmod +x run.sh`
-- `./run.sh PATH_TO_Analyze-MESH_REPO PATH_TO_WEPAPI_FOLDER Your_Email`
+## Pyjinius
+- Version: 1.1.4
+- JAR files included by pyjinius are present in lib folder.
 
-- You will be prompted for username password, register at [https://uts.nlm.nih.gov/license.html](https://uts.nlm.nih.gov/license.html) to get them.
+## Functions
+1. `getAbstract`: Take list of pmid as a input and generate text file of abstracts.
+2. `handleMTIRequest`: Take abstract text file as input and print the MESH terms.  
