@@ -1,0 +1,812 @@
+27304507|Humans|C0086418|1686948|CT|CT Text Lookup: human;CT Text Lookup: humans|AB|MM;RC|316^6^0
+27304507|*Metformin|C0025598|1685948|MH|RtM via: Metformin;checkForceMH Boosted;Forced Non-Leaf Node Lookup:metformin|TI;AB|MM;RC|223^9^0;21^9^0;373^9^0
+27304507|*Aging|C0001811|525108|MH|RtM via: Aging;Forced Non-Leaf Node Lookup:age-related diseases|TI;AB|MM;RC|362^5^0;66^5^0;51^5^0;292^20^0
+27304507|Lifespan|C0870809|458117|ET|Entry Term Replacement for "Longevity";RtM via: Life Span;RtM via: Longevity|AB|MM;RC|160^8^0
+27304507|Hypoglycemic Agents|C0020616|99093|MH|||RC
+27304507|Diet|C0012155|4889|MH|RtM via: Diet|AB|MM;RC|105^7^0
+27247702|Humans|C0086418|1254271|CT|CT Text Lookup: human|AB|MM;RC|147^5^0
+27247702|*Reactive Oxygen Species|C0162772|828951|MH|RtM via: Reactive Oxygen Species;Forced Leaf Node Lookup:reactive oxygen species;Forced Leaf Node Lookup:ros;checkForceMH Boosted|TI;AB|MM;RC|1242^3^0;1086^3^0;628^3^0;487^3^0;392^23^0;21^3^0;417^3^0
+27247702|Epigenesis, Genetic|C1257873|105169|MH|Forced Lookup:epigenetic regulation|AB|MM;RC|1261^21^0
+27247702|*Cell Senescence|C0007581|1253271|ET|Entry Term Replacement for "Cellular Senescence";RtM via: Cellular Senescence;RtM via: Induction of Cell Senescence;Forced Non-Leaf Node Lookup:cell senescence|TI;AB|MM;RC|1286^15^0;888^15^0;707^15^0;669^15^0;577^15^0;26^15^0;1101^24^0;1110^15^0
+27247702|*Aging|C0001811|391572|MH|RtM via: Aging;Forced Non-Leaf Node Lookup:age-related diseases|TI;AB|MM;RC|1306^5^0;785^5^0;633^5^0;323^5^0;77^5^0;87^20^0;121^5^0;1165^5^0;1409^5^0
+27247702|Oxidative Stress|C0242606|42270|MH|||RC
+27247702|Signal Transduction|C0037083|27202|MH|||RC
+31292558|Humans|C0086418|579116|CT|CT Text Lookup: human|AB|MM;RC|781^5^0
+31292558|*Healthy Aging|C2963171|578116|MH|RtM via: Healthy Aging;Forced Leaf Node Lookup:healthy ageing|TI|MM;RC|77^14^0
+31292558|*Aging|C0001811|487266|MH|RtM via: Aging|TI;AB|MM;RC|711^6^0;500^6^0;260^6^0;136^6^0;41^6^0
+31292558|Lifespan|C0870809|405220|ET|Entry Term Replacement for "Longevity";RtM via: Life Span;RtM via: Longevity|AB|MM;RC|371^8^0;172^8^0
+31292558|Rejuvenation|C0035016|70439|MH|||RC
+31292558|Geriatrics|C0017469|66368|MH|||RC
+31292558|Biomedical Research|C0005540|4864|MH|||RC
+24840916|Humans|C0086418|291646|CT|Activities of Daily Living;CT Treecode Lookup: E02.760 (Activities of Daily Living);Activities of Daily Living;CT Treecode Lookup: N02.421.784 (Activities of Daily Living)||RC
+24840916|*Aging|C0001811|290646|MH|RtM via: Aging;Forced Non-Leaf Node Lookup:aging|TI;AB|MM;RC|174^5^0;41^5^0
+24840916|Health Status|C0018759|100325|MH|||RC
+24840916|Activities of Daily Living|C0001288|71751|MH|||RC
+24840916|Personal Satisfaction|C0031206|69883|MH|||RC
+24840916|Quality of Life|C0034380|56004|MH|||RC
+24840916|Adaptation, Psychological|C0683269|25571|MH|||RC
+24840916|Social Support|C0037438|22726|MH|||RC
+25417146|Animals|C0003062|219109|CT|CT Text Lookup: mammalian|AB|MM;RC|76^9^0
+25417146|Humans|C0086418|219109|CT|Forced Lookup:elderly population;CT Text Lookup: human|AB|MM;RC|175^18^0;405^5^0
+25417146|Aged|C0001792|1000|CT|Forced Age Group: elderly population; Forced Age Group: elderly||MM|175^18^0;175^7^0
+25417146|*Aging|C0001811|218109|MH|RtM via: Aging;Forced Non-Leaf Node Lookup:aging|TI;AB|MM;RC|230^5^0;86^5^0;42^5^0
+25417146|*Chronic Disease|C0008679|136845|MH|RtM via: Chronic disease;Forced Non-Leaf Node Lookup:chronic diseases|TI;AB|MM;RC|282^16^0;51^15^0
+25417146|Geriatrics|C0017469|75686|MH|||RC
+25417146|Biomedical Research|C0005540|10588|MH|||RC
+25417146|Morbidity|C0026538|6923|MH|RtM via: Morbidity - disease rate|AB|MM;RC|312^9^0
+25417146|Risk Factor|C0035648|156|ET|Entry Term Replacement for "Risk Factors";RtM via: risk factors|AB|MM|252^11^0
+21402176|Humans|C0086418|930151|CT|CT Text Lookup: patient;CT Text Lookup: patients|AB|MM;RC|1344^8^0
+21402176|Female|C0086287|930151|CT|CT Text Lookup: female|AB|MM;RC|646^6^0
+21402176|Aged|C0001792|1000|CT|Forced Age Group: older persons; Forced Age Group: older age; Forced Age Group: in older; Forced Age Group: elderly||MM|570^13^0;635^9^0;567^8^0;297^7^0
+21402176|Aged, 80 and over|C0001795|1000|CT|Forced Age Group: older persons||MM|570^13^0
+21402176|*Multimorbidity|C1535889|929151|MH|RtM via: Multimorbidity;Forced Leaf Node Lookup:multimorbidity|TI;AB|MM;RC|1332^11^0;1010^14^0;939^14^0;799^14^0;718^14^0;552^14^0;228^14^0;32^14^0;359^14^0
+21402176|Quality of Life|C0034380|156758|MH|RtM via: Poor quality of life;Forced Lookup:quality of life|AB|MM;RC|853^20^0;858^15^0
+21402176|Cross-Sectional Studies|C0010362|150833|MH|RtM via: Cross-Sectional Studies;Forced Lookup:cross-sectional|AB|MM;RC|610^23^0
+21402176|Chronic Diseases|C0008679|172973|ET|Entry Term Replacement for "Chronic Disease";RtM via: Chronic disease|AB|MM;RC|1147^16^0
+21402176|Comorbidity|C0009488|170766|MH|||RC
+21402176|*Aging|C0001811|154119|MH|RtM via: Aging;Forced Non-Leaf Node Lookup:aging|TI|MM;RC|21^5^0
+21402176|Disabled Persons|C0018576|37591|MH|RtM via: Disability|AB|MM;RC|818^10^0
+21402176|Prevalence|C0033105|26504|MH|RtM via: Statistical Prevalence|AB|MM;RC|538^10^0
+21402176|Longitudinal Studies|C0023981|23569|MH|RtM via: Longitudinal Studies|AB|MM;RC|747^20^0
+23454759|*Cellular Senescence|C0007581|985809|MH|RtM via: Cellular Senescence;RtM via: Senescence-Associated Secretory Phenotype;Forced Non-Leaf Node Lookup:senescence-associated secretory phenotype|TI;AB|MM;RC|741^15^0;461^19^0;21^19^0;531^41^0
+23454759|*Phenotype|C0031437|151413|MH|RtM via: Phenotype;Forced Non-Leaf Node Lookup:phenotypes|TI|MM;RC|69^9^0
+23454759|DNA Damage|C0012860|38345|MH|||RC
+23454759|Inflammation|C0021368|34162|MH|RtM via: Chronic inflammation|AB|MM;RC|498^20^0
+23454759|Signal Transduction|C0037083|30783|MH|||RC
+23454759|Chronic Disease|C0008679|6652|MH|RtM via: Chronic disease|AB|MM;RC|667^15^0;157^16^0
+22265401|*Rejuvenation|C0035016|301182|MH|RtM via: Rejuvenation;Forced Leaf Node Lookup:rejuvenation|TI;AB|MM;RC|487^12^0;28^12^0
+22265401|*Epigenetic|C1655731|190569|ET|Entry Term Replacement for "Epigenomics";RtM via: study of epigenetics|TI;AB|MM;RC|589^10^0;520^10^0;46^10^0
+22265401|Cellular Senescence|C0007581|172018|MH|RtM via: Cellular Senescence|AB|MM;RC|416^10^0
+22265401|Cellular Reprogramming|C3850096|29064|MH|||RC
+22265401|Epigenesis, Genetic|C1257873|21003|MH|Forced Non-Leaf Node Lookup:epigenetic||MM;RC|46^10^0;520^10^0;589^10^0
+30888656|*Skin|C1123023|551241|MH|RtM via: Skin;RtM via: Skin, Human|TI;AB|MM;RC|1219^4^0;893^4^0;645^4^0;362^4^0;61^4^0;21^4^0
+30888656|Skin Aging|C0037271|393746|MH|RtM via: Skin Aging|AB|MM;RC|808^3^1;820^4^1
+30888656|Ultraviolet Rays|C0041625|183810|MH|RtM via: Ultraviolet Rays|AB|MM;RC|435^23^0
+30888656|Dermis|C0011646|119466|MH|RtM via: Dermis|AB|MM;RC|288^6^0
+30888656|Extracellular Matrix|C0015350|45572|MH|RtM via: Extracellular Matrix|AB|MM;RC|252^20^0
+30888656|Fibroblasts|C0016030|34762|MH|||RC
+30888656|Reactive Oxygen Species|C0162772|15034|MH|RtM via: Reactive Oxygen Species|AB|MM;RC|754^23^0
+30888656|Cells, Cultured|C0007635|14963|MH|||RC
+15169926|Humans|C0086418|142861|CT|CT Text Lookup: individuals|AB|MM;RC|1975^11^0
+15169926|Aged|C0001792|1000|CT|Forced Age Group: older people; Forced Age Group: geriatric; Forced Age Group: in older||MM|178^12^0;39^9^0;957^8^0
+15169926|Aged, 80 and over|C0001795|1000|CT|Forced Age Group: older people||MM|178^12^0
+15169926|*Pharmacology, Clinical|C0031332|117705|MH|RtM via: Clinical pharmacology discipline;Forced Leaf Node Lookup:clinical pharmacology|TI|MM;RC|49^21^0
+15169926|*Biological Aging|C0085759|141861|ET|Entry Term Replacement for "Aging";RtM via: Biological Aging;RtM via: Aging|TI;AB|MM;RC|21^13^0;904^5^0;761^5^0;324^5^0;91^5^0
+15169926|Pharmaceutical Preparations|C0013227|81484|MH|RtM via: Pharmaceutical Preparations|AB|MM;RC|825^4^0;378^4^0
+15169926|Metabolic Clearance Rate|C0025515|63556|MH|RtM via: hepatic drug clearance|AB|MM;RC|866^22^0
+15169926|Polypharmacy|C2922974|57722|MH|RtM via: Polypharmacy|AB|MM;RC|1621^12^0
+15169926|Reactions, Adverse Drug|C0041755|54106|ET|Entry Term Replacement for "Drug-Related Side Effects and Adverse Reactions";RtM via: Adverse reaction to drug|AB|MM;RC|1594^22^0;1162^22^0
+15169926|Kidney|C0022646|26801|MH|RtM via: Kidney|AB|MM;RC|898^5^0
+15169926|Age Factors|C0001783|21975|MH|||RC
+15169926|Bioavailability|C0005508|9530|ET|Entry Term Replacement for "Biological Availability";RtM via: Biological Availability;RtM via: Bioavailability Study|AB|MM;RC|668^15^0
+15169926|Liver|C0023884|5511|MH|RtM via: Hepatic|AB|MM;RC|710^7^0
+28118636|Humans|C0086418|579145|CT|CT Text Lookup: human;CT Text Lookup: humans|AB|MM;RC|258^6^0
+28118636|Mice|C0026809|579145|CT|RtM via: Mus;Transgenic Mouse;CT Treecode Lookup: B01.050.150.900.649.313.992.635.505.500 (Transgenic Mouse);CT Text Lookup: mouse;CT Text Lookup: transgenic mouse;RtM via: Mus;Transgenic Mouse;CT Treecode Lookup: B01.050.150.900.649.313.992.635.505.500 (TransgeniRtM via: Mus;Transgenic Mouse;CT Treecode Lookup: B01.050.050 (Transgenic Mouse);Transgenic Mouse;CTCT Text Lookup: human;CT Text Lookup: humans|TI;AB|MM;RC|91^5^0;57^5^0;645^16^0
+28118636|Animals|C0003062|579145|CT|RtM via: Mus;Transgenic Mouse;CT Treecode Lookup: B01.050.050 (Transgenic Mouse);Transgenic Mouse;CT Treecode Lookup: B01.050.150.900.649.313.992 (Transgenic Mouse);Transgenic Mouse;CT Treecode Lookup: B01.050.150.900.649.313.992.635.505.500 (Transgenic Mouse);Models, Animal;CT Treecode Lookup: E05.598 (Models, Animal);Disease Models, Animal;CT Treecode Lookup: C22 (Disease Models, Animal);Disease Models, Animal;CT Treecode Lookup: E05.598 (Disease Models, Animal);CT Text Lookup: mammalian;CT Text Lookup: mouse;CT Text Lookup: transgenic mouse;RtM via: Mus;Transgenic Mouse;CT Treecode Lookup: B01.050.050 (Transgenic Mouse);Transgenic Mouse;CTCT Text Lookup: human;CT Text Lookup: humans|TI;AB|MM;RC|91^5^0;57^5^0;120^9^0;645^16^0
+28118636|*Aging|C0001811|578145|MH|RtM via: Aging;Forced Non-Leaf Node Lookup:ageing|TI;AB|MM;RC|587^6^0;158^6^0;43^6^0;408^6^0;743^6^0
+28118636|Longevity|C0023980|511244|MH|RtM via: Longevity;RtM via: Life Span|AB|MM;RC|681^8^0;833^9^0;202^8^0
+28118636|Caloric Restriction|C1135809|229359|MH|RtM via: Caloric Restriction;RtM via: Low-Calorie Diet|AB|MM;RC|786^19^0
+28118636|*Energy Metabolism|C0014272|100332|MH|RtM via: Energy Metabolism;Forced Non-Leaf Node Lookup:energy metabolisms|TI|MM;RC|21^17^0
+28118636|Transgenic Mouse|C0025936|51813|ET|Entry Term Replacement for "Mice, Transgenic";RtM via: Mice, Transgenic|AB|MM;RC|645^16^0
+28118636|Disease Models, Animal|C0012644|9440|MH|RtM via: Mouse Model|AB|MM;RC|357^12^0
+28118636|Signal Transduction|C0037083|5976|MH|||RC
+28790143|Humans|C0086418|602743|CT|Forced Leaf Node Lookup:humans;CT Text Lookup: human|TI|MM;RC|58^5^0
+28790143|*Healthy Aging|C2963171|113437|MH|RtM via: Healthy Aging;Forced Leaf Node Lookup:healthy aging|TI;AB|MM|758^13^0;77^13^0
+28790143|*Kidneys|C0022646|601743|ET|Entry Term Replacement for "Kidney";RtM via: Kidney;RtM via: Both kidneys|TI;AB|MM;RC|178^6^0;64^7^0
+28790143|Glomerular Filtration Rate|C0017654|231384|MH|RtM via: Estimated Glomerular Filtration Rate|AB|MM;RC|1036^4^0
+28790143|Nephron|C0027713|162540|ET|Entry Term Replacement for "Nephrons";RtM via: Nephrons|AB|MM;RC|909^7^0;713^7^0;611^7^0
+28790143|Nephrosclerosis|C0027719|105675|MH|RtM via: Nephrosclerosis|AB|MM;RC|448^15^0
+28790143|Kidney Glomerulus|C0022663|24341|MH|RtM via: Kidney Glomerulus|AB|MM;RC|780^10^0
+28790143|Albuminuria|C0001925|15961|MH|RtM via: Albuminuria|AB|MM;RC|940^11^0
+28790143|Aging|C0001811|13801|MH|RtM via: Aging|AB|MM;RC|100^5^0
+28790143|Kidney Neoplasms|C0022665|9107|MH|RtM via: Simple renal cyst|AB|MM;RC|356^18^0
+28790143|Arteriosclerosis|C0003850|7635|MH|RtM via: Arteriosclerosis;RtM via: Global glomerulosclerosis;RtM via: Glomerulosclerosis (disorder)|AB|MM;RC|832^16^0;465^16^0;502^25^0;809^18^0
+23925498|Aged, 80 and over|C0001795|1481315|CT|CT Text Lookup: centenarian;CT Text Lookup: centenarians; Forced Age Group: centenarians|AB|MM;RC|652^12^0;652^12^0
+23925498|Humans|C0086418|1481315|CT|Forced Lookup:general population;CT Text Lookup: centenarian;CT Text Lookup: individuals|AB|MM;RC|1826^18^0;652^12^0;258^11^0
+23925498|Adult|C0001675|1000|CT|Forced Age Group: adulthood||MM|189^9^0
+23925498|*Longevity|C0023980|1480315|MH|RtM via: Longevity;RtM via: Life Span;Forced Leaf Node Lookup:lifespans;Forced Leaf Node Lookup:longevity|TI;AB|MM;RC|1912^9^0;1810^8^0;1546^9^0;1469^9^0;562^9^0;392^9^0;70^9^0;51^9^0;440^9^0
+23925498|*Healthy Aging|C2963171|216890|MH|RtM via: Healthy Aging;Forced Leaf Node Lookup:healthy aging|TI;AB|MM|1894^13^0;1451^13^0;84^13^0;33^13^0
+23925498|Genome-Wide Association Study|C2350277|201559|MH|RtM via: Genome-Wide Association Study;Forced Lookup:genome-wide association|AB|MM;RC|1095^4^0;612^29^0
+23925498|Aging|C0001811|136962|MH|RtM via: Aging|AB|MM;RC|1536^5^0;953^5^0
+23925498|SNPs|C0752046|36085|ET|Entry Term Replacement for "Polymorphism, Single Nucleotide";RtM via: Single Nucleotide Polymorphism|AB|MM;RC|980^4^0;785^4^0
+23925498|Phenotypes|C0031437|30415|ET|Entry Term Replacement for "Phenotype";RtM via: Phenotype|AB|MM;RC|1880^10^0;125^10^0
+23925498|Epigenesis, Genetic|C1257873|22389|MH|RtM via: Epigenetic Process|AB|MM;RC|1480^11^0
+23925498|Genetic Linkage|C0023745|14666|MH|RtM via: genetic linkage|AB|MM;RC|325^7^0
+23925498|Interactions, Gene-Environment|C0596609|12646|ET|Entry Term Replacement for "Gene-Environment Interaction";RtM via: Gene-Environment Interaction|AB|MM;RC|1036^29^0
+23925498|Alleles|C0002085|12401|MH|RtM via: Alleles|AB|MM;RC|2073^7^0;1410^7^0;1396^7^0;1157^7^0
+30124168|Humans|C0086418|364628|CT|CT Text Lookup: human|AB|MM;RC|872^5^0
+30124168|Lifespan|C0870809|363628|ET|Entry Term Replacement for "Longevity";RtM via: Life Span;RtM via: Longevity|AB|MM;RC|814^8^0
+30124168|*Aging|C0001811|338415|MH|RtM via: Aging;Forced Non-Leaf Node Lookup:aging|TI;AB|MM;RC|661^5^0;333^5^0;246^5^0;50^5^0;695^5^0;769^5^0;840^5^0
+30124168|Selection, Genetic|C0036576|93337|MH|||RC
+30124168|Genetics, Population|C0017404|70228|MH|RtM via: Genetics, Population|AB|MM;RC|185^18^0
+30124168|Biological Evolution|C0015219|67971|MH|||RC
+30124168|Models, Biological|C0026339|10092|MH|||RC
+26232135|*Anorexia|C0003123|692067|MH|RtM via: Anorexia;RtM via: Loss of appetite (finding);Forced Leaf Node Lookup:anorexias|TI;AB|MM;RC|1062^8^0;978^8^0;894^8^0;735^8^0;320^8^0;281^8^0;39^8^0
+26232135|Appetite|C0003618|140627|MH|RtM via: Desire for food|AB|MM;RC|225^8^0
+26232135|Sarcopenia|C0872084|61317|MH|RtM via: Sarcopenia|AB|MM;RC|1128^10^0
+26232135|Nutritional Status|C0392209|45997|MH|RtM via: Nutritional status|AB|MM;RC|1385^18^0
+26232135|Energy Intake|C0006777|34096|MH|||RC
+26232135|Eating|C0013470|30884|MH|||RC
+26232135|Body Weight|C0005910|24901|MH|RtM via: Body Weight|AB|MM;RC|171^6^0
+26232135|Weight Loss|C1262477|14917|MH|||RC
+26232135|Protein Energy Malnutrition|C0033677|12766|ET|Entry Term Replacement for "Protein-Energy Malnutrition";RtM via: Protein-Energy Malnutrition|AB|MM;RC|1099^27^0
+26232135|Body Composition|C0005885|8738|MH|RtM via: Body Composition|AB|MM;RC|853^16^0
+27771728|Animals|C0003062|535947|CT|CT Text Lookup: animal|AB|MM;RC|788^6^0
+27771728|Quality of Life|C0034380|68270|MH|Forced Lookup:quality of life|AB|MM|2017^15^0
+27771728|Suprachiasmatic Nuclei|C0038866|534947|ET|Entry Term Replacement for "Suprachiasmatic Nucleus";RtM via: Structure of suprachiasmatic nucleus|AB|MM;RC|399^22^0
+27771728|Clock, Circadian|C2936272|266587|ET|Entry Term Replacement for "Circadian Clocks";RtM via: Circadian Clocks|AB|MM;RC|964^15^0
+27771728|Circadian Rhythm|C0008810|216647|MH|RtM via: Circadian Rhythms|AB|MM;RC|1084^16^0
+27771728|*Aging|C0001811|167571|MH|RtM via: Aging|TI;AB|MM;RC|948^5^0;68^5^0;38^5^0
+27771728|Longevity|C0023980|107122|MH|RtM via: Longevity;RtM via: Life Span|AB|MM;RC|1966^9^0;1562^9^0;671^10^0
+27771728|CLOCK Proteins|C2717934|98935|MH|||RC
+27771728|Caloric Restriction|C1135809|62231|MH|RtM via: Caloric Restriction;RtM via: Low-Calorie Diet|AB|MM;RC|683^19^0
+27771728|Feeding Behavior|C0015745|16578|MH|||RC
+27771728|Values, Reference|C0086715|8625|ET|Entry Term Replacement for "Reference Values";RtM via: Normal Range|AB|MM;RC|1160^16^0
+28820053|Humans|C0086418|159844|CT|CT Text Lookup: individuals|AB|MM;RC|371^11^0
+28820053|Depressive Disorder, Major|C1269683|41482|MH|RtM via: Major Depressive Disorder;RtM via: Unipolar Depression;Forced Lookup:major depressive|AB|MM;RC|263^25^0
+28820053|*Neurobiology|C0027817|158844|MH|RtM via: Neurobiology|TI|MM;RC|21^15^0
+28820053|Resilience, Psychological|C0683253|100677|MH|||RC
+28820053|Posttraumatic Stress Disorder|C0038436|63704|ET|Entry Term Replacement for "Stress Disorders, Post-Traumatic";RtM via: Post-Traumatic Stress Disorder|AB|MM;RC|296^30^0
+28820053|Stress, Psychological|C0038443|37863|MH|||RC
+28820053|Psychopathology|C0033927|11996|MH|RtM via: Psychopathology|AB|MM;RC|565^15^0
+28820053|Brain|C0006104|6662|MH|||RC
+25528930|Humans|C0086418|243010|CT|Forced Leaf Node Lookup:humans;CT Text Lookup: human;CT Text Lookup: humans|TI;AB|MM;RC|111^5^0;145^6^0;335^5^0;994^5^0;1599^5^0
+25528930|*Social Determinants of Health|C3658315|26944|MH|Forced Leaf Node Lookup:social determinants|TI|MM|50^19^0
+25528930|*Biological Aging|C0085759|242010|ET|Entry Term Replacement for "Aging";RtM via: Aging;RtM via: Biological Aging|TI;AB|MM;RC|1576^6^0;1462^6^0;977^6^0;734^5^0;341^5^0;136^5^0;117^5^0;437^16^0
+25528930|Adaptation, Psychological|C0683269|73223|MH|||RC
+25528930|Social Behavior|C0037397|26734|MH|RtM via: Socializing|AB|MM;RC|888^15^0
+25528930|Attitude|C0004271|22011|MH|RtM via: Attitude|AB|MM;RC|1071^9^0;836^8^0
+28685671|Animals|C0003062|223810|CT|Models, Animal;CT Treecode Lookup: E05.598 (Models, Animal)||RC
+28685671|*Drug Discovery|C0920472|114893|MH|RtM via: Drug Discovery;Forced Leaf Node Lookup:drug discovery|TI|MM;RC|81^14^0
+28685671|*Aging|C0001811|222810|MH|RtM via: Aging;Forced Non-Leaf Node Lookup:aging|TI|MM;RC|45^5^0
+28685671|Lifespan|C0870809|207415|ET|Entry Term Replacement for "Longevity";RtM via: Life Span;RtM via: Longevity|AB|MM;RC|548^9^0
+28685671|Models, Animal|C0599779|14960|MH|||RC
+28685671|*Models, Experimental|C0086272|7839|ET|Entry Term Replacement for "Models, Theoretical";RtM via: Experimental Model;Forced Non-Leaf Node Lookup:experimental models|TI|MM|21^19^0
+29301845|Animals|C0003062|324397|CT|CT Text Lookup: animal;CT Text Lookup: mammalian|AB|MM;RC|1429^6^0;571^9^0
+29301845|*Aging|C0001811|323397|MH|RtM via: Aging;Forced Non-Leaf Node Lookup:aging|TI;AB|MM;RC|1264^5^0;787^5^0;710^5^0;638^5^0;555^5^0;184^5^0;47^5^0
+29301845|Cellular Reprogramming|C3850096|287445|MH|||RC
+29301845|Rejuvenation|C0035016|155927|MH|RtM via: Rejuvenation|AB|MM;RC|1457^12^0
+29301845|Induced Pluripotent Stem Cells|C2717959|140405|MH|||RC
+29301845|Regenerative Medicine|C1257974|111502|MH|RtM via: Regenerative Medicine|AB|MM;RC|749^21^0
+29301845|Cellular Senescence|C0007581|84114|MH|||RC
+29301845|Longevity|C0023980|64986|MH|RtM via: Longevity;RtM via: Life Span|AB|MM;RC|1590^9^0;419^9^0
+29301845|Cell Differentiation|C0007589|57034|MH|RtM via: Cell Differentiation process|AB|MM;RC|911^14^0
+29301845|Epigenesis, Genetic|C1257873|41070|MH|||RC
+
+28667551|*Immune System|C0020962|472485|MH|RtM via: Immune system;Forced Non-Leaf Node Lookup:immune systems|TI;AB|MM;RC|1051^13^0;925^13^0;533^13^0;424^15^0;309^13^0;99^13^0;37^13^0;690^13^0
+28667551|Communicable Diseases|C0009450|31739|MH|||RC
+28667551|Signal Transduction|C0037083|7168|MH|||RC
+28667551|Homeostasis|C0019868|4848|MH|RtM via: tissue homeostasis|AB|MM;RC|479^18^0
+31027668|Animals|C0003062|1516217|CT|Zoonotic Diseases;CT Treecode Lookup: C22 (Zoonotic Diseases);Mosquito Vectors;CT Treecode Lookup: N06.850.310.350 (Mosquito Vectors);CT Text Lookup: animal;CT Text Lookup: animals;CT Text Lookup: avian influenza;CT Text Lookup: mosquito;CT Text Lookup: mosquito-borne|AB|MM;RC|193^7^0;526^15^0;362^8^0
+31027668|Humans|C0086418|1516217|CT|CT Text Lookup: human;CT Text Lookup: humans;CT Text Lookup: nurses|AB|MM;RC|204^6^0;649^6^0
+31027668|*Communicable Diseases, Emerging|C0872315|1515217|MH|RtM via: Communicable Diseases, Emerging;RtM via: Communicable Diseases, Reemerging;Forced Leaf Node Lookup:reemerging infectious diseases;Forced Leaf Node Lookup:emerging infectious diseases|TI;AB|MM;RC|714^3^0;59^28^0;21^28^0;98^30^0
+31027668|Influenza A Virus, H7N2 Subtype|C2936282|87527|MH|Forced Lookup:h7n2|AB|MM|542^4^0
+31027668|Mosquito Vectors|C4277713|1000|MH|Forced Culicidae and Vector: Anopheles||MM
+31027668|Zoonotic Diseases|C0043528|449541|ET|Entry Term Replacement for "Zoonoses";RtM via: Zoonoses|AB|MM;RC|154^17^0
+31027668|Public Health|C0034019|33589|MH|||RC
+31027668|Morbidity|C0026538|5518|MH|RtM via: Morbidity - disease rate|AB|MM;RC|336^9^0
+28051192|Humans|C0086418|266424|CT|CT Text Lookup: human;CT Text Lookup: patient;CT Text Lookup: patients|AB|MM;RC|95^5^0;784^8^0
+28051192|Animals|C0003062|266424|CT|Disease Vectors;CT Treecode Lookup: N06.850.310.350 (Disease Vectors);Mosquito Vectors;CT Treecode Lookup: N06.850.310.350 (Mosquito Vectors);CT Text Lookup: animal;CT Text Lookup: cryptosporidiosis;CT Text Lookup: mosquitoes|AB|MM;RC|1258^6^0;1579^17^0;2083^10^0
+28051192|*Global Warming|C0206217|265424|MH|RtM via: Global Warming;Forced Leaf Node Lookup:global warming|TI;AB|MM;RC|1611^14^0;21^14^0
+28051192|Ecosystem|C0162358|26798|MH|RtM via: Ecosystem;RtM via: Habitat;Forced Lookup:ecosystems|AB|MM|426^10^0;1207^8^0
+28051192|Mosquito Vectors|C4277713|1000|MH|Forced Culicidae and Vector: Mosquitoes||MM
+28051192|Climate Change|C2718051|83966|MH|RtM via: Climate Change|AB|MM;RC|2739^14^0;1762^14^0;1343^14^0;991^14^0
+28051192|Infectious Diseases|C0009450|66294|ET|Entry Term Replacement for "Communicable Diseases";RtM via: Communicable Diseases|AB|MM;RC|1404^19^0
+28051192|Greenhouse Effect|C0206218|38775|MH|||RC
+28051192|Disease Vectors|C0012656|30579|MH|RtM via: Disease Vectors|AB|MM;RC|2026^6^0
+28051192|Public Health|C0034019|17149|MH|||RC
+28051192|Environmental Pollution|C0014419|13719|MH|RtM via: Pollution|AB|MM;RC|1128^9^0
+28051192|Outbreaks|C0012652|12318|ET|Entry Term Replacement for "Disease Outbreaks";RtM via: Disease Outbreaks|AB|MM;RC|1452^9^0
+28051192|Desertification|C0242227|11052|ET|Entry Term Replacement for "Conservation of Natural Resources";RtM via: Desertification|AB|MM;RC|372^15^0
+28051192|Agriculture|C0001829|5962|MH|RtM via: Agriculture|AB|MM;RC|1017^12^0;353^12^0
+27726779|Humans|C0086418|242260|CT|CT Text Lookup: patient;CT Text Lookup: patients|AB|MM;RC|270^7^0;1165^8^0
+27726779|*Immunocompromised Host|C0085393|241260|MH|RtM via: Immunocompromised Host;Forced Non-Leaf Node Lookup:immunocompromised patients|TI;AB|MM;RC|1147^26^0;252^25^0;51^22^0
+27726779|Immunologic Deficiency Syndromes|C0021051|17208|MH|RtM via: Immunologic Deficiency Syndromes;RtM via: Secondary immune deficiency disorder;RtM via: Immunodeficiency:Type:Pt:^Patient:Nom|AB|MM;RC|979^16^0;595^28^0
+27726779|Immune System|C0020962|8168|MH|RtM via: Immune system|AB|MM;RC|119^13^0
+27726779|Autoimmune Diseases|C0004364|6844|MH|RtM via: Autoimmune Diseases|AB|MM;RC|762^19^0
+27726779|Adaptive Immunity|C0678209|5934|MH|RtM via: Adaptive Immunity|AB|MM;RC|367^17^0
+27726779|Neoplasia|C0027651|5212|ET|Entry Term Replacement for "Neoplasms";RtM via: Neoplasms|AB|MM;RC|751^9^0
+27726779|Infections|C3714514|999|MH|Forced Non-Leaf Node Lookup:infections||MM;RC|33^10^0;205^10^0;499^10^0;900^10^0;1065^10^0;1127^10^0
+29165905|Humans|C0086418|358999|CT|CT Text Lookup: human;CT Text Lookup: humans|AB|MM;RC|755^6^0
+29165905|*Nucleic Acid Amplification Techniques|C0887813|357999|MH|RtM via: Loop-mediated Isothermal Amplification|TI;AB|MM;RC|1214^4^0;963^4^0;820^4^0;503^4^0;172^4^0;132^38^0;61^4^0;21^38^0
+29165905|DNA Primers|C0206416|75796|MH|||RC
+29165905|Reverse Transcription|C0035380|28039|MH|RtM via: Reverse Transcription|AB|MM;RC|635^21^0
+29165905|DNA|C0012854|19674|MH|RtM via: DNA|AB|MM;RC|188^3^0
+29165905|Specificity|C0037791|8713|ET|Entry Term Replacement for "Sensitivity and Specificity";RtM via: Specificity|AB|MM;RC|202^11^0
+29165905|Infectious Diseases|C0009450|3995|ET|Entry Term Replacement for "Communicable Diseases";RtM via: Communicable Diseases|AB|MM;RC|1523^18^0;706^19^0
+27598145|Child|C0008059|1048324|CT|CT Text Lookup: children|AB|MM;RC|140^8^0
+27598145|Adult|C0001675|1048324|CT|CT Text Lookup: adult|AB|MM;RC|153^6^0
+27598145|Humans|C0086418|1048324|CT|CT Text Lookup: children|AB|MM;RC|140^8^0
+27598145|*Infectious Diseases|C0009450|1047324|ET|Entry Term Replacement for "Communicable Diseases";RtM via: Communicable Diseases|TI;AB|MM;RC|95^19^0;21^19^0
+27598145|Communicable Disease Control|C0009449|182428|MH|||RC
+27598145|Knowledge|C0376554|16|MH|RtM via: Knowledge|AB|MM|218^9^0
+29040428|Animals|C0003062|504775|CT|Parasites;CT Treecode Lookup: B01.050.500.714 (Parasites)||MM;RC
+29040428|*Sequencing, Next-Generation|C2936621|503775|ET|Entry Term Replacement for "High-Throughput Nucleotide Sequencing";RtM via: High-Throughput Nucleotide Sequencing;RtM via: Massively-Parallel Sequencing;Forced Non-Leaf Node Lookup:next-generation sequencing|TI;AB|MM;RC|867^4^0;571^4^0;177^26^0;75^26^0
+29040428|*Metagenomes|C2717745|260658|ET|Entry Term Replacement for "Metagenome";RtM via: Metagenome|TI;AB|MM;RC|867^4^0;571^4^0;165^11^0;63^11^0
+29040428|Metagenomics|C2717799|105617|MH|||RC
+29040428|Viruses|C0042776|55746|MH|RtM via: Virus|AB|MM;RC|425^7^0
+29040428|Fungi|C0016832|47974|MH|RtM via: Fungi|AB|MM;RC|403^5^0
+29040428|Bacteria|C0004611|47418|MH|RtM via: Bacteria|AB|MM;RC|393^8^0
+29040428|Sequence Analysis, DNA|C0162802|42647|MH|||RC
+29040428|Communicable Diseases|C0009450|24779|MH|||RC
+29040428|Molecular Diagnostic Techniques|C0949688|15650|MH|||RC
+29040428|Clinical Laboratory Services|C3658216|9530|MH|RtM via: Clinical Laboratory Services|AB|MM;RC|824^8^1;846^12^1
+29040428|Parasites|C0030498|4710|MH|RtM via: Parasites|AB|MM;RC|410^9^0
+29040428|Diagnostic Tests, Routine|C0011930|4111|MH|RtM via: Fungi Measurement|AB|MM;RC|403^5^0
+29040428|Laboratories|C0022877|3464|MH|RtM via: Laboratory|AB|MM;RC|846^12^0
+30120891|United States|C0041703|352036|CT|USA Lookup:Public Health Service||MM
+30120891|Animals|C0003062|352036|CT|Disease Vectors;CT Treecode Lookup: N06.850.310.350 (Disease Vectors);CT Text Lookup: animal;CT Text Lookup: animals|AB|MM;RC|982^7^0
+30120891|Humans|C0086418|352036|CT|CT Text Lookup: human|AB|MM;RC|147^5^0
+30120891|*Climate Change|C2718051|351036|MH|RtM via: Climate Change;Forced Lookup:climate change|TI;AB|MM;RC|869^14^0;98^14^0;49^14^0
+30120891|*Vector Borne Diseases|C1640363|42960|MH|RtM via: Vector Borne Diseases;Forced New Lookup:vector-borne disease|TI|MM|67^21^0
+30120891|Infectious Diseases|C0009450|149478|ET|Entry Term Replacement for "Communicable Diseases";RtM via: Communicable Diseases|AB|MM;RC|384^19^0
+30120891|Disease Vectors|C0012656|141600|MH|RtM via: Disease Vectors|AB|MM;RC|1356^6^0;609^6^0
+30120891|Arctic Regions|C0003740|46132|MH|RtM via: Arctic Regions|AB|MM;RC|670^6^0
+30120891|Public Health|C0034019|21905|MH|||RC
+30120891|*Future|C0016884|18441|ET|Entry Term Replacement for "Forecasting";RtM via: Future|TI;AB|MM;RC|807^6^0;42^6^0
+30120891|New Territories|C0524613|0|ET|Entry Term Replacement for "Hong Kong";RtM via: New Territories|AB|MM|538^15^0
+23746171|Transfer Factor|C0040673|45920|MH|RtM via: Transfer Factor|AB|MM;RC|1152^15^0;899^2^0;679^2^0;547^15^0
+23746171|T-Lymphocytes|C0039194|20509|MH|RtM via: T-Lymphocyte|AB|MM;RC|266^13^0
+23746171|Cell-Mediated Immunity|C0020966|19692|ET|Entry Term Replacement for "Immunity, Cellular";RtM via: Cellular Immunity|AB|MM;RC|728^3^0;234^22^0
+23746171|Neoplasias|C0027651|11662|ET|Entry Term Replacement for "Neoplasms";RtM via: Neoplasms|AB|MM;RC|437^10^0
+23746171|Tuberculosis|C0041296|9732|MH|RtM via: Tuberculosis|AB|MM;RC|863^12^0
+23746171|Autoimmune Diseases|C0004364|7334|MH|RtM via: Autoimmune Diseases|AB|MM;RC|463^19^0
+23746171|Immunologic Deficiency Syndromes|C0021051|6891|MH|RtM via: Immunologic Deficiency Syndromes|AB|MM;RC|417^18^0
+23746171|Adjuvants, Immunologic|C0001551|3858|MH|RtM via: Immunologic Adjuvants|AB|MM;RC|780^8^0;317^8^0
+30341241|*Polymerase Chain Reaction|C0032520|227643|MH|RtM via: Digital Array;RtM via: Polymerase Chain Reaction;Forced Non-Leaf Node Lookup:polymerase chain reactions|TI;AB|MM;RC|980^5^0;815^33^0;615^33^0;417^33^0;44^11^0;382^25^0;112^25^0;425^25^0;509^25^0;623^25^0;823^25^0;1122^25^0;52^3^0;139^3^0
+30341241|*Infectious Diseases|C0009450|118776|ET|Entry Term Replacement for "Communicable Diseases";RtM via: Communicable Diseases|TI;AB|MM;RC|874^19^0;738^19^0;83^19^0
+30341241|Molecular Diagnostic Techniques|C0949688|46733|MH|||RC
+30341241|Deoxyribonucleic Acid|C0012854|13810|ET|Entry Term Replacement for "DNA";RtM via: DNA|AB|MM;RC|602^3^0;202^21^0
+30341241|Viral Diseases|C0042769|13716|ET|Entry Term Replacement for "Virus Diseases";RtM via: Virus Diseases|AB|MM;RC|905^14^0
+30341241|Bacterial Infections|C0004623|10197|MH|RtM via: Bacterial Infections|AB|MM;RC|921^18^0
+26479830|Animals|C0003062|417640|CT|Disease Vectors;CT Treecode Lookup: N06.850.310.350 (Disease Vectors)||RC
+26479830|Humans|C0086418|417640|CT|Forced Leaf Node Lookup:humans;CT Text Lookup: human;CT Text Lookup: humans|TI;AB|MM;RC|49^5^0;99^5^0;777^6^0;272^5^0;405^5^0;480^5^0;895^5^0
+26479830|*Climate Change|C2718051|240246|MH|RtM via: Climate Change;Forced Lookup:climate change|TI;AB|MM;RC|1358^14^0;1057^14^0;834^14^0;387^14^0;125^14^0;31^14^0;1499^14^0;1700^14^0
+26479830|*Infectious Diseases|C0009450|416640|ET|Entry Term Replacement for "Communicable Diseases";RtM via: Communicable Diseases|TI;AB|MM;RC|1377^19^0;703^19^0;411^19^0;55^19^0
+26479830|*Acclimatization|C0000934|59907|MH|RtM via: Acclimatization|TI;AB|MM;RC|1255^10^0;105^10^0
+26479830|Disease Vectors|C0012656|33531|MH|||RC
+26479830|Weather|C0043085|30005|MH|RtM via: Weather|AB|MM;RC|170^7^0
+26479830|*Adaptation, Physiological|C0001400|12948|MH|RtM via: Adaptation|TI;AB|MM;RC|1255^10^0;105^10^0
+26479830|Resources|C0035201|65|ET|Entry Term Replacement for "Health Resources";RtM via: Resources|AB|MM|1179^9^0
+26479830|Extreme Weather|C5197889|62|MH|RtM via: Extreme Weather|AB|MM|205^15^0
+31691607|*Sequencing, Next-Generation|C2936621|377937|ET|Entry Term Replacement for "High-Throughput Nucleotide Sequencing";RtM via: High-Throughput Nucleotide Sequencing;RtM via: Massively-Parallel Sequencing;Forced Non-Leaf Node Lookup:next-generation sequencing|TI;AB|MM;RC|1519^4^0;1459^4^0;1223^4^0;1019^4^0;654^4^0;598^4^0;475^4^0;110^26^0;21^4^0
+31691607|*Metagenomes|C2717745|244629|ET|Entry Term Replacement for "Metagenome";RtM via: Metagenome|TI;AB|MM;RC|1519^4^0;1459^4^0;1223^4^0;1019^4^0;654^4^0;598^4^0;475^4^0;98^11^0;21^4^0
+31691607|Metagenomics|C2717799|113268|MH|||RC
+31691607|*Clinical Laboratory Services|C3658216|93864|MH|RtM via: Clinical Laboratory Services|TI;AB|MM;RC|1557^8^1;1579^12^1;1260^21^0;177^21^0;29^8^1;51^12^1
+31691607|Infectious Diseases|C0009450|54153|ET|Entry Term Replacement for "Communicable Diseases";RtM via: Communicable Diseases;RtM via: Clinical infection|AB|MM;RC|1059^18^0;633^19^0
+31691607|*Laboratories|C0022877|12753|MH|RtM via: Laboratory|TI;AB|MM|1579^12^0;51^12^0
+31691607|Quality Control|C0034378|10849|MH|RtM via: quality control|AB|MM;RC|1143^15^0
+31691607|Workflow|C1710679|6706|MH|RtM via: Workflow|AB|MM;RC|1376^9^0;1122^8^0
+31691607|Test, Routine Diagnostic|C0011930|5938|ET|Entry Term Replacement for "Diagnostic Tests, Routine";RtM via: Diagnostic Tests, Routine|AB|MM;RC|487^23^0
+31691607|Antibiotic|C0003232|4035|ET|Entry Term Replacement for "Anti-Bacterial Agents";RtM via: Antibiotics|AB|MM;RC|849^10^0
+30911807|Humans|C0086418|1000|CT|Forced Humans: Transplant Recipients||MM
+30911807|*Transplant Recipients|C0376387|100022|MH|Forced Leaf Node Lookup:transplant recipients|TI|MM;RC|95^21^0
+30911807|Opportunistic Infections|C0029118|130474|MH|RtM via: Opportunistic Infections|AB|MM;RC|341^24^0
+30911807|*Infectious Diseases|C0009450|96483|ET|Entry Term Replacement for "Communicable Diseases";RtM via: Communicable Diseases|TI|MM|60^19^0
+30911807|Organ Transplantation|C0029216|90565|MH|||RC
+30911807|Immunocompromised Host|C0085393|65385|MH|||RC
+30911807|Immunosuppressive Agents|C0021081|16405|MH|||RC
+30911807|Risk Factors|C0035648|3913|MH|||RC
+29785478|Nepal|C0027689|37715|MH|RtM via: Nepal;Forced Leaf Node Lookup:nepal|TI;AB|MM;RC|1163^5^0;136^5^0;62^5^0
+29785478|Influenza A Virus, H1N1 Subtype|C1615607|28724|MH|Forced Lookup:h1n1|AB|MM|655^4^0
+29785478|Influenza A Virus, H5N1 Subtype|C1613950|28724|MH|Forced Lookup:h5n1|AB|MM|646^4^0
+29785478|Communicable Diseases|C0009450|193786|MH|||RC
+29785478|Outbreaks|C0012652|67223|ET|Entry Term Replacement for "Disease Outbreaks";RtM via: Disease Outbreaks|AB|MM;RC|751^9^0
+29785478|Dengue Fever|C0011311|40095|ET|Entry Term Replacement for "Dengue";RtM via: Dengue Fever|AB|MM;RC|607^12^0
+29785478|Public Health|C0034019|25375|MH|RtM via: public health medicine (field)|AB|MM;RC|905^13^0;692^13^0
+29785478|Endemic Diseases|C0277550|23094|MH|RtM via: Endemic Diseases|AB|MM;RC|764^16^0
+29785478|Scrub Typhus|C0036472|15822|MH|RtM via: Scrub Typhus|AB|MM;RC|621^12^0
+29785478|HIV Coinfection|C4505456|9720|ET|Entry Term Replacement for "HIV Infections";RtM via: HIV Coinfection|AB|MM;RC|795^3^1;802^11^1
+30173662|Animals|C0003062|393172|CT|Disease Vectors;CT Treecode Lookup: N06.850.310.350 (Disease Vectors)||MM;RC
+30173662|*Poverty|C0032854|56110|MH|RtM via: Poverty;Forced Leaf Node Lookup:poverty|TI;AB|MM;RC|647^7^0;271^7^0;157^7^0
+30173662|*Diagnostic Tests, Routine|C0011930|50899|MH|RtM via: Diagnostic tests;Forced Leaf Node Lookup:diagnostic tests|TI|MM;RC|90^16^0
+30173662|*Infectious Diseases|C0009450|392172|ET|Entry Term Replacement for "Communicable Diseases";RtM via: Communicable Diseases|TI|MM;RC|134^19^0
+30173662|*Disease Vectors|C0012656|293004|MH|RtM via: Disease Vectors|TI;AB|MM;RC|236^6^0;111^6^0
+30173662|Dengue|C0011311|20350|MH|||RC
+30173662|Malaria|C0024530|19721|MH|||RC
+30173662|Urban Health|C0041933|7532|MH|||RC
+30209913|Humans|C0086418|41695|CT|CT Text Lookup: patient;CT Text Lookup: patients|AB|MM;RC|625^8^0
+30209913|Communicable Diseases|C0009450|40695|MH|||RC
+30209913|Anti-Infective Agents|C0003204|36678|MH|RtM via: Microbicides|AB|MM;RC|89^14^0
+30209913|Nosocomial Infection|C0205721|11212|ET|Entry Term Replacement for "Cross Infection";RtM via: Cross Infection;RtM via: Infections, Hospital|AB|MM;RC|547^20^0
+30209913|Fungal Infection|C0026946|8925|ET|Entry Term Replacement for "Mycoses";RtM via: Mycoses|AB|MM;RC|684^16^0
+30209913|HIV Infections|C0019693|4594|MH|||RC
+30209913|Immunocompromised Host|C0085393|2774|MH|RtM via: Immunocompromised Host|AB|MM;RC|881^25^0
+30209913|Sepsis|C0243026|1274|MH|RtM via: Sepsis;RtM via: Septicemia|AB|MM|813^6^0
+30209913|Infection Control|C0085557|722|MH|RtM via: Infectious disease prevention / control|AB|MM|977^17^0
+30209913|Peer Review|C0030768|304|MH|||RC
+30209913|Biofilms|C0081786|57|MH|RtM via: Microbial Biofilms|AB|MM|725^8^0
+30209913|Enterocolitis, Pseudomembranous|C0014358|41|MH|RtM via: Clostridium difficile colitis|AB|MM|593^31^0
+30209913|Syndrome|C0039082|31|MH|RtM via: clinical syndromes|AB|MM|789^18^0
+30209913|Transplant|C0332835|16|ET|Entry Term Replacement for "Transplants";RtM via: Transplanted tissue|AB|MM|942^10^0
+23669075|Escherichia coli|C0014834|24408|MH|Forced Lookup:e. coli|AB|MM|1095^7^0
+23669075|*Biomarkers|C0005516|94359|MH|RtM via: Biological Markers;Forced Non-Leaf Node Lookup:biomarkers|TI;AB|MM;RC|1015^10^0;414^10^0;525^7^0;21^10^0;588^10^0
+23669075|THBD protein, human|C2744539|90231|NM|RtM via: THBD protein, human|AB|MM|844^14^0
+23669075|Thrombomodulin|C0145779|90230|HM|RtM via: Thrombomodulin;RtM via: THBD protein, human|AB|MM;RC|844^14^0
+23669075|Vascular Cell Adhesion Molecule-1|C0078056|50404|MH|||RC
+23669075|Sepsis|C0243026|49116|MH|RtM via: Sepsis;RtM via: Septicemia|AB|MM;RC|1087^6^0;635^28^0;239^6^0
+23669075|E-Selectin|C0115305|43713|MH|||RC
+23669075|von Willebrand Factor|C0042971|39223|MH|RtM via: von Willebrand factor;RtM via: von Willebrand factor, human|AB|MM;RC|807^21^0
+23669075|Septic Shock|C0036983|37697|ET|Entry Term Replacement for "Shock, Septic";RtM via: Septic Shock|AB|MM;RC|250^12^0
+23669075|Endothelial Cell|C0225336|36061|ET|Entry Term Replacement for "Endothelial Cells";RtM via: Endothelial Cells|AB|MM;RC|716^16^0
+23669075|Cell Adhesion Molecules|C0007578|31774|MH|RtM via: Cell Adhesion Molecules|AB|MM;RC|869^4^1;882^18^1
+23669075|Endothelium, Vascular|C0014261|29399|MH|||RC
+23669075|*Vascular Diseases|C0042373|9594|MH|RtM via: Endothelial dysfunction|TI;AB|MM|389^23^0;102^23^0;35^11^1;58^11^1
+10642539|Animals|C0003062|1182278|CT|Animals, Wild;CT Treecode Lookup: B01.050.050 (Animals, Wild);Zoonoses;CT Treecode Lookup: C22 (Zoonoses);Animals, Domestic;CT Treecode Lookup: B01.050.050 (Animals, Domestic);CT Text Lookup: animal;CT Text Lookup: animals|AB|MM;RC|169^7^0
+10642539|Humans|C0086418|1182278|CT|Forced Leaf Node Lookup:humans;CT Text Lookup: human|TI;AB|MM;RC|91^5^0;401^5^0;487^5^0;672^5^0
+10642539|*Animals, Wild|C0003070|1181278|MH|RtM via: Animals, Wild;Forced Leaf Node Lookup:wild animals|TI;AB|MM;RC|593^8^0;164^12^0;329^8^0;53^8^0
+10642539|*Communicable Diseases, Emerging|C0872315|1113715|MH|RtM via: Communicable Diseases, Emerging;Forced Leaf Node Lookup:emerging infectious diseases|TI;AB|MM;RC|703^4^0;270^4^0;113^28^0;21^28^0
+10642539|Zoonoses|C0043528|244309|MH|||RC
+10642539|Animals, Domestic|C0003063|165146|MH|RtM via: Animals, Domestic|AB|MM;RC|652^15^0;309^16^0;496^15^0
+10642539|*Biodiversity|C0282469|154509|MH|RtM via: Biodiversity;Forced Non-Leaf Node Lookup:biodiversity|TI;AB|MM;RC|764^12^0;74^12^0
+10642539|Communicable Diseases|C0009450|117338|MH|||RC
+10642539|Disease Reservoirs|C0012653|82745|MH|||RC
+10642539|Conservation of Natural Resources|C0009799|40497|MH|||RC
+29702253|Animals|C0003062|369950|CT|Mesocricetus;CT Treecode Lookup: B01.050.150.900.649.313.992 (Mesocricetus);Mesocricetus;CT Treecode Lookup: B01.050.150.900.649.313.992.635.075.250 (Mesocricetus)||MM;RC
+29702253|Cricetinae|C0018557|369950|CT|Mesocricetus;CT Treecode Lookup: B01.050.150.900.649.313.992.635.075.250 (Mesocricetus)||MM
+29702253|Humans|C0086418|1000|CT|Forced Humans: Transients and Migrants||MM
+29702253|*Transients and Migrants|C0040705|368950|MH|RtM via: Migrants;Forced Leaf Node Lookup:migrants|TI;AB|MM;RC|353^7^0;170^8^0;72^8^0
+29702253|Syria|C0039138|129881|MH|RtM via: Syria;Forced Leaf Node Lookup:syrians|AB;TI;TI;AB|MM;RC|242^5^0;52^6^0
+29702253|Eritrea|C0014716|42194|MH|RtM via: Eritrea;Forced Leaf Node Lookup:eritrea|TI;AB|MM;RC|251^7^0;63^8^0
+29702253|*Infectious Disease|C0009450|279174|ET|Entry Term Replacement for "Communicable Diseases";RtM via: Communicable Diseases|TI;AB|MM;RC|388^19^0;21^18^0
+29702253|Refugees|C0034961|48060|MH|||RC
+29702253|Europe|C0015176|40761|MH|RtM via: Europe;Forced Non-Leaf Node Lookup:europe|TI;AB|MM;RC|308^6^0;192^6^0;95^6^0
+29702253|*Mesocricetus|C0025484|2505|MH|RtM via: Mesocricetus auratus|TI|MM|52^6^0
+29217262|Animals|C0003062|87995|CT|Animal Diseases;CT Treecode Lookup: C22 (Animal Diseases)|AB|MM
+29217262|Infectious Disease|C0009450|86995|ET|Entry Term Replacement for "Communicable Diseases";RtM via: Communicable Diseases|AB|MM;RC|834^19^0;670^19^0;337^18^0;127^19^0
+29217262|Philosophy, Medical|C0031536|22022|MH|||RC
+29217262|Noncommunicable Diseases|C4505065|779|MH|RtM via: Noncommunicable Diseases|AB|MM|898^24^0;210^24^0
+29217262|Dissent and Disputes|C1136019|217|MH|RtM via: Disputes|AB|MM|483^5^0;296^6^0
+29217262|Animal Diseases|C0003047|122|MH|RtM via: Disease model|AB|MM|635^13^0;407^13^0
+
+22930834|Software|C0037585|165460|MH|RtM via: Computer software|AB|MM;RC|333^8^0;121^8^0
+22930834|Image Processing, Computer-Assisted|C0020911|112405|MH|||RC
+22930834|Brain|C0006104|15456|MH|||RC
+29727584|Metabolomics|C1328813|85683|MH|||RC
+29727584|Genomics|C0887950|78118|MH|||RC
+29727584|Proteomics|C0872252|70876|MH|||RC
+29727584|Systems Biology|C1450477|34302|MH|||RC
+29727584|Single-Cell Analysis|C0597452|23934|MH|||RC
+29727584|Gene Expression Profiling|C0752248|16498|MH|||RC
+29727584|Transcriptome|C3178810|16471|MH|||RC
+27686657|*Systems Biology|C1450477|896780|MH|RtM via: Systems Biology;Forced Leaf Node Lookup:systems biology|TI;AB|MM;RC|1007^15^0;486^15^0;241^15^0;33^15^0
+27686657|Proteomics|C0872252|272460|MH|RtM via: Proteomics;Forced Lookup:proteomic|AB|MM;RC|723^9^0
+27686657|Metabolomics|C1328813|304617|MH|RtM via: Metabolomics|AB|MM;RC|737^12^0
+27686657|Genomics|C0887950|118864|MH|||RC
+27686657|Mass Spectrometry|C0037813|90484|MH|RtM via: Mass Spectrometry|AB|MM;RC|632^17^0
+27686657|Bioinformatics|C1140694|28210|ET|Entry Term Replacement for "Computational Biology";RtM via: Bio-Informatics|AB|MM;RC|813^14^0
+27686657|Gene Expression Profiling|C0752248|17577|MH|||RC
+27686657|Databases, Factual|C0079199|3946|MH|RtM via: Databases|AB|MM;RC|932^8^0
+27465042|*Computational Biology|C0376528|278144|MH|RtM via: Computational Biology;RtM via: Bio-Informatics;Forced Leaf Node Lookup:computational biology;Forced Leaf Node Lookup:bioinformatics|TI;AB|MM;RC|641^21^0;29^21^0;685^14^0;333^14^0;204^14^0;310^14^0
+27465042|Genomics|C0887950|62243|MH|RtM via: Genomics|AB|MM;RC|552^7^0
+27465042|Genome|C0017428|11014|MH|RtM via: Genome|AB|MM;RC|552^7^0
+27465042|Databases, Factual|C0079199|10610|MH|RtM via: Databases|AB|MM;RC|511^8^0
+27465042|*Biological Phenomena|C0005520|3603|MH|RtM via: Tissue Growth|TI;AB|MM|115^7^0;51^6^0
+27465042|Internet|C0282111|262|MH|RtM via: Internet|AB|MM|754^8^0;154^8^0
+27465042|Algorithm|C0002045|139|ET|Entry Term Replacement for "Algorithms";RtM via: algorithm|AB|MM|574^9^0
+27465042|Information Science|C0021423|59|MH|RtM via: Information Sciences|AB|MM|167^22^0
+27465042|India|C0021201|30|MH|RtM via: India|TI;AB|MM|370^5^0;229^5^0;82^7^0;21^7^0
+29098954|Systems Biology|C1450477|77458|MH|||RC
+29098954|Genomics|C0887950|76475|MH|||RC
+29098954|Computational Biology|C0376528|53330|MH|||RC
+29098954|Proteomics|C0872252|34325|MH|||RC
+29098954|Circadian Rhythm|C0008810|16755|MH|||RC
+29098954|*Physiological Phenomena|C2350828|5640|MH|RtM via: Biological Rhythm|TI;AB|MM|1194^18^0;1031^18^0;172^18^0;61^18^0
+15461798|*Computational Biology|C0376528|1654042|MH|RtM via: Computational Biology;RtM via: Bio-Informatics;Forced Leaf Node Lookup:computational biology;Forced Leaf Node Lookup:bioinformatics|TI;AB|MM;RC|215^21^0;65^21^0;627^14^0;241^14^0;91^14^0
+15461798|Reproducibility of Results|C0035149|124418|MH|Forced Lookup:reproducibility|AB|MM|481^15^0
+15461798|*Software|C0037585|1157343|MH|RtM via: Software Development;RtM via: Computer software;Forced Non-Leaf Node Lookup:software|TI;AB|MM;RC|40^20^0;360^8^0;202^8^0
+15461798|Databases, Genetic|C0872179|92495|MH|||RC
+15461798|Information Storage and Retrieval|C0021427|47109|MH|||RC
+15461798|Algorithms|C0002045|39792|MH|||RC
+30696086|*Big Data|C4704779|47205|MH|RtM via: Big Data;Forced Leaf Node Lookup:big data|TI|MM;RC|77^8^0
+30696086|*Machine Learning|C0376284|330225|MH|RtM via: Machine Learning;Forced Non-Leaf Node Lookup:machine learning|TI;AB|MM;RC|897^2^0;397^16^0;21^16^0
+30696086|Computational Biology|C0376528|59885|MH|||RC
+30696086|Algorithms|C0002045|29903|MH|RtM via: State Machine|AB|MM;RC|880^5^1;897^2^1
+30696086|Precision Medicine|C2718059|23369|MH|RtM via: Precision Medicine|AB|MM;RC|539^18^0
+30696086|Transcriptome|C3178810|12526|MH|RtM via: Transcriptome|AB|MM;RC|256^13^0
+31561483|Humans|C0086418|550798|CT|CT Text Lookup: human|AB|MM;RC|280^5^0
+31561483|*Precision Medicine|C2718059|549798|MH|RtM via: Precision Medicine;Forced Lookup:precision oncology;Forced Leaf Node Lookup:precision medicine|TI;AB|MM;RC|1169^18^0;994^18^0;538^18^0;70^18^0;588^18^0
+31561483|Neoplasms|C0027651|68922|MH|RtM via: Malignant Neoplasms;RtM via: Primary malignant neoplasm;RtM via: Neoplasms;Forced Lookup:precision oncology|AB|MM;RC|715^6^0;306^6^0;598^8^0;588^18^0
+31561483|Metabolomics|C1328813|236178|MH|RtM via: Metabolomics|AB|MM;RC|446^12^0
+31561483|Genomics|C0887950|228794|MH|RtM via: Genomics|AB|MM;RC|608^8^0;394^8^0
+31561483|Proteomics|C0872252|192643|MH|RtM via: Proteomics|AB|MM;RC|434^10^0
+31561483|*Biomarkers|C0005516|157077|MH|RtM via: Biological Markers;Forced Non-Leaf Node Lookup:biomarkers|TI|MM;RC|46^9^0
+31561483|Computational Biology|C0376528|73371|MH|RtM via: Transcriptomics|AB|MM;RC|404^15^0
+31561483|Epigenomics|C2936263|65024|MH|RtM via: Epigenomics|AB|MM;RC|421^11^0
+21900203|*Systems Biology|C1450477|1353790|MH|RtM via: Systems Biology;Forced Leaf Node Lookup:systems biology|TI;AB|MM;RC|439^15^0;132^15^0;62^15^0;554^15^0
+21900203|Computational Biology|C0376528|160981|MH|RtM via: Computational Biology|AB|MM;RC|528^21^0;106^21^0
+21900203|Computer Simulation|C0009609|27370|MH|||RC
+21900203|Signal Transduction|C0037083|16633|MH|RtM via: Signal Transduction|AB|MM;RC|335^14^0;586^19^0;253^9^0;371^9^0
+21900203|Models, Biological|C0026339|16513|MH|||RC
+30232369|*DNA Transposable Elements|C0012868|809564|MH|RtM via: DNA Transposable Elements;Forced Leaf Node Lookup:transposable elements;checkForceMH Boosted|TI;AB|MM;RC|153^21^0;51^21^0
+30232369|Genomics|C0887950|168298|MH|RtM via: Genomics|AB|MM;RC|822^7^0;465^7^0
+30232369|Software Tools|C0037589|76469|ET|Entry Term Replacement for "Software";RtM via: Software Tools|AB|MM;RC|620^14^0
+30232369|Computational Biology|C0376528|61145|MH|||RC
+30232369|Eukaryota|C0684063|39890|MH|||RC
+30232369|Evolution, Molecular|C0282688|21227|MH|||RC
+26845152|Humans|C0086418|136800|CT|African Continental Ancestry Group;CT Treecode Lookup: M01.686 (African Continental Ancestry Group)||MM;RC
+26845152|*Computational Biology|C0376528|135800|MH|RtM via: Computational Biology;RtM via: Bio-Informatics;Forced Leaf Node Lookup:computational biology;Forced Leaf Node Lookup:bioinformatics|TI;AB|MM;RC|586^21^0;40^21^0;858^14^0;446^14^0;126^14^0;974^14^0
+26845152|South Africa|C0037712|14146|MH|RtM via: South Africa;Forced Leaf Node Lookup:south africa|TI;AB|MM;RC|922^12^0;65^12^0
+26845152|*Learning|C0023185|7125|MH|RtM via: Learning|TI;AB|MM|1128^6^0;110^6^0
+26845152|University|C0041740|6253|ET|Entry Term Replacement for "Universities";RtM via: Universities|AB|MM;RC|626^12^0
+26845152|Researchers|C0035173|87|ET|Entry Term Replacement for "Research Personnel";RtM via: Research Personnel|AB|MM|287^11^0
+26845152|Drive|C0013126|24|MH|RtM via: Initiative|AB|MM|425^11^0
+26845152|Government|C0018104|24|MH|RtM via: Government|AB|MM|371^10^0
+26845152|Dissent and Disputes|C1136019|20|MH|RtM via: Disputes|AB|MM|942^8^0
+26845152|African Continental Ancestry Group|C1257891|3|MH|RtM via: South African|AB|MM|273^13^0
+26845152|Lymphatic System|C0024235|0|MH|RtM via: Injection of therapeutic agent|AB|MM|498^10^0
+25483351|Genomics|C0887950|265199|MH|RtM via: Genomics|AB|MM;RC|327^7^0
+25483351|*Genome|C0017428|225792|MH|RtM via: Genome|TI;AB|MM;RC|538^6^0;272^6^0;414^7^0;327^7^0;170^6^0;223^7^0;121^6^0;38^6^0
+25483351|Sequence Alignment|C0080143|150318|MH|||RC
+25483351|Computational Biology|C0376528|132030|MH|||RC
+25483351|Software|C0037585|74305|MH|||RC
+25483351|Algorithms|C0002045|26594|MH|||RC
+25483351|Sequencing, Next-Generation|C2936621|26074|ET|Entry Term Replacement for "High-Throughput Nucleotide Sequencing";RtM via: High-Throughput Nucleotide Sequencing;RtM via: Massively-Parallel Sequencing|AB|MM;RC|63^26^0
+14630646|Pregnancy|C0032961|471593|CT|Birth;CT Treecode Lookup: G08.686.784.769.490 (Birth)|TI|MM
+14630646|Female|C0086287|471593|CT|Birth;CT Treecode Lookup: G08.686.784.769.490 (Birth)|TI|MM
+14630646|Humans|C0086418|1000|CT|Forced Treecode Turn Back On: G08.686.784.769 (Pregnancy)||MM
+14630646|*Computational Biology|C0376528|470593|MH|RtM via: Bio-Informatics;Forced Leaf Node Lookup:bioinformatics|TI;AB|MM;RC|108^14^0;27^14^0
+14630646|Sequence Analysis|C0162801|78531|MH|||RC
+14630646|Databases, Genetic|C0872179|49073|MH|||RC
+14630646|Gene Expression Profiling|C0752248|23121|MH|||RC
+14630646|*Birth|C0005615|2634|ET|Entry Term Replacement for "Parturition";RtM via: Birth;RtM via: Childbirth|TI|MM|47^5^0
+29072373|Cricetinae|C0018557|1182226|CT|Chinese Hamster;CT Treecode Lookup: B01.050.150.900.649.313.992.635.075.250 (Chinese Hamster);CHO Cells;CT Treecode Lookup: A11.251.210.200 (CHO Cells);CHO Cells;CT Treecode Lookup: A11.436.155 (CHO Cells);CT Text Lookup: hamster|TI|MM;RC|98^7^0
+29072373|Animals|C0003062|1182226|CT|Chinese Hamster;CT Treecode Lookup: B01.050.150.900.649.313.992 (Chinese Hamster);Chinese Hamster;CT Treecode Lookup: B01.050.150.900.649.313.992.635.075.250 (Chinese Hamster);CHO Cells;CT Treecode Lookup: A11.251.210.200 (CHO Cells);CHO Cells;CT Treecode Lookup: A11.436.155 (CHO Cells);CT Text Lookup: cho cells;CT Text Lookup: hamster|AB;TI|MM;RC|141^9^0;98^7^0
+29072373|Female|C0086287|1182226|CT|Ovary;CT Treecode Lookup: A05.360.319 (Ovary)||MM
+29072373|*Chinese Hamster|C0018555|1181226|ET|Entry Term Replacement for "Cricetulus";RtM via: Chinese Hamster;RtM via: Chinese Hamster Ovary Cell;Forced Lookup:chinese hamster ovary;Forced Lookup:cho cells;checkForceMH Boosted|TI;AB|MM;RC|90^15^0;1527^8^0;251^8^0;141^9^0
+29072373|*CHO Cells|C0085080|217319|MH|RtM via: Chinese Hamster Ovary Cell;Forced Lookup:chinese hamster ovary|AB;TI|MM;RC|1527^8^0;251^8^0;90^21^0
+29072373|Proteomics|C0872252|43701|MH|RtM via: Proteomics|AB|MM;RC|877^10^0
+29072373|Genomics|C0887950|38763|MH|RtM via: Genomics|AB|MM;RC|850^8^0
+29072373|Systems Biology|C1450477|35124|MH|RtM via: Systems Biology|AB|MM;RC|1486^15^0
+29072373|Metabolomics|C1328813|29792|MH|RtM via: Metabolomics|AB|MM;RC|889^12^0
+29072373|Glycomics|C1512223|20468|MH|RtM via: Glycomics|AB|MM;RC|926^9^0
+29072373|Cell Engineering|C0872130|14949|MH|RtM via: Cell Engineering|AB|MM;RC|498^4^1;508^11^1
+29072373|*Ovary|C0029939|4770|MH|RtM via: Ovary;RtM via: Both ovaries|TI|MM|106^5^0
+27899622|Databases, Protein|C0872249|299308|MH|||RC
+27899622|*Knowledgebase|C0022752|296322|ET|Entry Term Replacement for "Knowledge Bases";RtM via: Knowledge Bases;RtM via: UniProtKB;Forced Non-Leaf Node Lookup:knowledgebases|TI;AB|MM;RC|52^13^0;79^21^0;87^13^0
+27899622|Proteome|C0751973|128329|MH|RtM via: Proteome|AB|MM;RC|925^8^0;879^9^0;685^9^0;555^9^0
+27899622|Sequence Analysis, Protein|C0751970|109305|MH|||RC
+27899622|Computational Biology|C0376528|57126|MH|||RC
+27899622|Software|C0037585|51806|MH|RtM via: HTML Browser|AB|MM;RC|1160^8^0
+27899622|Proteomics|C0872252|47966|MH|||RC
+27899622|Amino Acid Sequence|C0002518|47521|MH|RtM via: Amino Acid Sequence|AB|MM;RC|124^17^0
+27899622|User-Computer Interface|C0042117|11378|MH|||RC
+27899622|Genomics|C0887950|748|MH|RtM via: Genomics|AB|MM|1071^7^0
+15520816|*Drug Discovery|C0920472|95717|MH|RtM via: Drug Discovery;Forced Leaf Node Lookup:drug discovery|TI|MM|66^14^0
+15520816|Binding Sites|C0005456|125299|MH|RtM via: Binding Sites|AB|MM;RC|262^13^0
+15520816|Ligands|C0023688|89559|MH|||RC
+15520816|Protein Binding|C0033618|88767|MH|||RC
+15520816|Models, Molecular|C0026344|60711|MH|||RC
+15520816|Structure-Activity Relationship|C0038477|60132|MH|||RC
+15520816|Drug Design|C0013171|50912|MH|||RC
+15520816|Computational Biology|C0376528|48458|MH|||RC
+15520816|Computer Simulation|C0009609|22993|MH|||RC
+15520816|Algorithms|C0002045|13091|MH|||RC
+15520816|*Biophysical Phenomena|C2350452|6813|MH|RtM via: Docking -molecular interaction;RtM via: docking protein activity|TI;AB|MM|21^7^0;728^15^0
+22877768|*Systems Biology|C1450477|952644|MH|RtM via: Systems Biology;Forced Leaf Node Lookup:systems biology|TI;AB|MM;RC|493^15^0;65^15^0
+22877768|*Drug Discovery|C0920472|240171|MH|RtM via: Drug Discovery;Forced Leaf Node Lookup:drug discovery|TI;AB|MM;RC|1719^14^0;394^14^0;35^14^0
+22877768|Reproducibility of Results|C0035149|58596|MH|Forced Lookup:reliability|AB|MM|1230^11^0
+22877768|Computational Biology|C0376528|92615|MH|||RC
+22877768|Genomics|C0887950|42533|MH|||RC
+22877768|Databases, Factual|C0079199|37564|MH|RtM via: Databases|AB|MM;RC|1491^9^0;1422^8^0;1103^9^0;882^9^0;771^9^0
+22877768|Software|C0037585|35602|MH|||RC
+22877768|*Systems Integrations|C0242722|22068|ET|Entry Term Replacement for "Systems Integration";RtM via: Systems Integration|TI|MM|53^19^0
+22877768|Proteomics|C0872252|19413|MH|||RC
+22877768|Medicinal Herbs|C0025125|6007|ET|Entry Term Replacement for "Plants, Medicinal";RtM via: Medicinal Herbs|AB|MM;RC|1561^15^0;1316^15^0;1116^15^0;971^15^0;315^15^0
+15318951|*Sequence Alignment|C0080143|2502829|MH|RtM via: Sequence Alignment;Forced Leaf Node Lookup:sequence alignments|TI|MM;RC|40^18^0
+15318951|Sequence Analysis, Protein|C0751970|187524|MH|||RC
+15318951|Amino Acid Sequence|C0002518|120350|MH|RtM via: Amino Acid Sequence|AB|MM;RC|207^17^0
+15318951|Software|C0037585|96895|MH|||RC
+15318951|Computational Biology|C0376528|78003|MH|||RC
+15318951|Algorithm|C0002045|63272|ET|Entry Term Replacement for "Algorithms";RtM via: algorithm|AB|MM;RC|421^9^0;256^9^0
+20816881|*Proteomics|C0872252|1128776|MH|RtM via: Proteomics;Forced Lookup:proteomic|TI;AB|MM;RC|325^9^0;142^10^0
+20816881|Tandem Mass Spectrometry|C0599748|247185|MH|RtM via: Tandem Mass Spectrometry;Forced Lookup:ms/ms|AB|MM;RC|266^24^0;292^5^0;409^5^0
+20816881|*Proteins|C0033684|936771|MH|RtM via: Proteins|TI;AB|MM;RC|1400^8^0;108^7^0
+20816881|*Peptides|C0030956|697779|MH|RtM via: Peptides;Forced Non-Leaf Node Lookup:peptides|TI;AB|MM;RC|1316^7^0;1435^8^0;953^7^0;667^7^0;388^7^0;217^7^0;96^7^0
+20816881|Databases, Protein|C0872249|369026|MH|||RC
+20816881|Sequence Analysis, Protein|C0751970|170143|MH|||RC
+20816881|Computational Biology|C0376528|86927|MH|||RC
+20816881|Probabilities|C0033204|7858|ET|Entry Term Replacement for "Probability";RtM via: Probability|AB|MM;RC|863^13^0
+20816881|*Survey|C0038951|804|ET|Entry Term Replacement for "Surveys and Questionnaires";RtM via: Surveys;Forced Non-Leaf Node Lookup:surveys|TI;AB|MM|699^8^0;23^6^0
+27927225|*RNA|C0035668|55651|MH|RtM via: RNA;checkForceMH Boosted;Forced Non-Leaf Node Lookup:rna|TI;AB|MM|140^3^0;60^3^0
+27927225|*Computational Biology|C0376528|524028|MH|RtM via: Computational Biology|TI;AB|MM;RC|126^13^1;144^7^1;46^13^1;64^7^1
+27927225|Genomics|C0887950|83423|MH|||RC
+27927225|Proteomics|C0872252|68077|MH|||RC
+
+26289314|Humans|C0086418|621918|CT|CT Text Lookup: human|AB|MM;RC|413^5^0
+26289314|*Glycosylation|C0017982|620918|MH|RtM via: Protein Glycosylation;RtM via: glycosylation;Forced Leaf Node Lookup:glycosylations|TI;AB|MM;RC|781^13^0;21^13^0
+26289314|*Cancer|C0006826|93156|ET|Entry Term Replacement for "Neoplasms";RtM via: Malignant Neoplasms;RtM via: Primary malignant neoplasm;Cancer/Neoplasm in Title, none specified|TI;AB|MM;RC|1029^6^0;720^6^0;515^6^0;137^6^0;38^6^0
+26289314|Glycobiology|C1512223|62226|ET|Entry Term Replacement for "Glycomics";RtM via: Glycomics|AB|MM;RC|262^12^0
+26289314|Glycans|C0032594|36124|ET|Entry Term Replacement for "Polysaccharides";RtM via: Polysaccharides|AB|MM;RC|983^7^0;709^7^0;429^7^0
+26289314|Cell Adhesion|C0007577|7710|MH|||RC
+26289314|Cell Signaling|C0037083|4947|ET|Entry Term Replacement for "Signal Transduction";RtM via: Signal Transduction|AB|MM;RC|531^15^0
+26289314|Disease Progression|C0242656|4593|MH|RtM via: Disease Progression|AB|MM;RC|1052^11^0;824^11^0
+28244479|*Cancers|C0006826|407688|ET|Entry Term Replacement for "Neoplasms";RtM via: Malignant Neoplasms;RtM via: Primary malignant neoplasm|TI;AB|MM;RC|704^6^0;624^9^0;500^7^0;427^6^0;353^6^0;298^6^0;67^6^0;21^6^0
+28244479|Survival Rate|C0038954|81221|MH|||RC
+28244479|India|C0021201|43730|MH|RtM via: India|AB|MM;RC|306^5^0
+28244479|Incidence|C0021149|41733|MH|||RC
+21248838|Humans|C0086418|330037|CT|CT Text Lookup: individuals|AB|MM;RC|667^11^0
+21248838|*Cancers|C0006826|329037|ET|Entry Term Replacement for "Neoplasms";RtM via: Malignant Neoplasms;RtM via: Primary malignant neoplasm;RtM via: Neoplasms;RtM via: Tumor Mass;RtM via: Solid Neoplasm|TI;AB|MM;RC|706^6^0;559^12^0;460^6^0;284^7^0;40^6^0;597^6^0;227^6^0;61^13^0
+21248838|Neoplastic Stem Cells|C1956421|89214|MH|||RC
+21248838|Cell Transformation, Neoplastic|C0007621|47081|MH|||RC
+21248838|Cell Lineage|C0282637|33533|MH|||RC
+21248838|Cell Differentiation|C0007589|16850|MH|||RC
+28741511|*Endoplasmic Reticulum Stress|C3178870|942071|MH|RtM via: Endoplasmic Reticulum Stress;Forced Leaf Node Lookup:endoplasmic reticulum stress|TI;AB|MM;RC|906^9^0;198^21^1;225^6^1;21^28^0
+28741511|*Cancer|C0006826|324513|ET|Entry Term Replacement for "Neoplasms";RtM via: Malignant Neoplasms;RtM via: Primary malignant neoplasm;RtM via: tumor growth;RtM via: Neoplasms;RtM via: Tumor Mass;Cancer/Neoplasm in Title, none specified|TI;AB|MM;RC|929^6^0;71^6^0;476^12^0;87^5^0
+28741511|Unfolded Protein Response|C1155342|443532|MH|RtM via: cellular response to unfolded protein|AB|MM;RC|642^3^0;374^3^0;326^25^0
+28741511|Signal Transduction|C0037083|58520|MH|RtM via: Signal Transduction|AB|MM;RC|916^9^0;378^9^0
+28741511|Endoplasmic Reticulum|C0014239|39805|MH|||RC
+28741511|Neovascularization, Pathologic|C0027686|38397|MH|RtM via: Tumor Angiogenesis|AB|MM;RC|853^12^0
+28741511|Proteostasis|C4505258|33420|MH|RtM via: Proteostasis|AB|MM;RC|300^12^0;162^19^0
+28741511|Apoptosis|C0162638|17071|MH|||RC
+28741511|Inflammation|C0021368|4850|MH|RtM via: Inflammation|AB|MM;RC|756^12^0
+28741511|Tumor Microenvironment|C2936626|1000|MH|Forced MicroEnv Found|TI|MM
+29056514|Humans|C0086418|262663|CT|CT Text Lookup: patient;CT Text Lookup: patients|AB|MM;RC|148^8^0
+29056514|*Exercise|C0015259|261663|MH|RtM via: Exercise;RtM via: Exercise Training;Forced Non-Leaf Node Lookup:exercise trainings|TI;AB|MM;RC|397^8^0;361^8^0;192^17^0;50^8^0;119^17^0
+29056514|Cancer|C0006826|57814|ET|Entry Term Replacement for "Neoplasms";RtM via: Malignant Neoplasms;RtM via: Primary malignant neoplasm;RtM via: tumor growth;RtM via: Cancer Patient;RtM via: Neoplasms;RtM via: Tumor Mass|AB|MM;RC|617^6^0;373^6^0;235^6^0;264^12^0;141^15^0;478^5^0
+29056514|Treatment Efficacy|C0087113|10458|ET|Entry Term Replacement for "Treatment Outcome";RtM via: Treatment Effectiveness|AB|MM;RC|624^18^0
+29056514|Incidence|C0021149|8088|MH|RtM via: Incidence|AB|MM;RC|242^9^0
+29056514|Risk Factors|C0035648|5640|MH|||RC
+31455183|Animals|C0003062|197353|CT|CT Text Lookup: mammalian|AB|MM;RC|144^9^0
+31455183|*Aging|C0001811|196353|MH|RtM via: Aging;Forced Non-Leaf Node Lookup:aging|TI;AB|MM;RC|710^5^0;154^5^0;48^5^0
+31455183|Cellular Reprogramming|C3850096|74373|MH|||RC
+31455183|Cellular Senescence|C0007581|71173|MH|||RC
+31455183|Regenerative Medicine|C1257974|41625|MH|||RC
+31455183|Phenotype|C0031437|9692|MH|RtM via: Phenotype|AB|MM;RC|908^9^0
+31455183|Cancer|C0006826|6106|ET|Entry Term Replacement for "Neoplasms";RtM via: Malignant Neoplasms;RtM via: Primary malignant neoplasm;RtM via: Neoplasms;RtM via: Tumor Mass|AB|MM;RC|921^6^0;323^5^0
+12724736|Male|C0086582|1548401|CT|Prostate;CT Treecode Lookup: A05.360.444 (Prostate);CT Text Lookup: prostate|AB|MM;RC|382^8^0
+12724736|*Photochemotherapy|C0031740|1547401|MH|RtM via: Photochemotherapy;Forced Leaf Node Lookup:photodynamic therapy|TI;AB|MM;RC|410^3^0;233^3^0;179^20^0;21^20^0
+12724736|Photosensitizing Agents|C0162713|214158|MH|||RC
+12724736|Medical Oncology|C0025098|108364|MH|RtM via: oncology field|AB|MM;RC|278^8^0
+12724736|Lung Neoplasms|C0024121|18236|MH|||RC
+12724736|Prostate|C0033572|265|MH|RtM via: Prostate|AB|MM|382^8^0
+12724736|Skin|C1123023|80|MH|RtM via: Skin;RtM via: Skin, Human|AB|MM|395^4^0
+12724736|Ambulatory Care Facilities|C0002424|77|MH|RtM via: Ambulatory Care Facilities|AB|MM|260^6^0
+12724736|Breast|C0006141|49|MH|RtM via: Breast|AB|MM|374^6^0
+17476343|Humans|C0086418|1013314|CT|CT Text Lookup: human;CT Text Lookup: humans|AB|MM;RC|309^6^0
+17476343|Animals|C0003062|1013314|CT|RtM via: Mus;CT Text Lookup: mouse|AB|MM;RC|282^5^0
+17476343|Mice|C0026809|1013314|CT|RtM via: Mus;CT Text Lookup: mouse|AB|MM;RC|282^5^0
+17476343|*Immunologic Surveillance|C0021059|1012314|MH|RtM via: Immunologic Surveillance|TI|MM;RC|21^19^0
+17476343|*Tumors|C0027651|70212|ET|Entry Term Replacement for "Neoplasms";RtM via: Neoplasms;RtM via: Malignant Neoplasms;RtM via: Primary malignant neoplasm|TI;AB|MM;RC|125^6^0;44^6^0;574^6^0;298^6^0;186^6^0
+17476343|Tumor Escape|C0282683|69037|MH|||RC
+17476343|Immunotherapies|C0021083|58218|ET|Entry Term Replacement for "Immunotherapy";RtM via: Immunotherapy|AB|MM;RC|639^15^0
+17476343|Immune System|C0020962|13080|MH|RtM via: Immune system|AB|MM;RC|79^13^0
+17476343|Natural Immunity|C0020969|8782|ET|Entry Term Replacement for "Immunity, Innate";RtM via: Immunity, Innate|AB|MM;RC|554^16^0
+21858793|Humans|C0086418|210571|CT|CT Text Lookup: patient;CT Text Lookup: patients|AB|MM;RC|494^7^0;1169^8^0
+21858793|*Emergencies|C2745965|160680|MH|RtM via: Emergencies [Disease/Finding];Forced Leaf Node Lookup:emergencies|TI;AB|MM;RC|1214^11^0;781^11^0;119^11^0;31^11^0
+21858793|Quality of Life|C0034380|30942|MH|RtM via: Quality of life;RtM via: Perceived quality of life;Forced Lookup:quality of life|AB|MM;RC|826^15^0
+21858793|Neoplasm Recurrence, Local|C0027643|1000|MH|Recurrence-C04 (CBD)||MM
+21858793|*Medical Oncology|C0025098|209571|MH|RtM via: oncology field|TI;AB|MM;RC|109^9^0;21^9^0
+21858793|Tumour Lysis Syndrome|C0041364|46391|ET|Entry Term Replacement for "Tumor Lysis Syndrome";RtM via: Tumor Lysis Syndrome|AB|MM;RC|948^20^0
+21858793|Hypercalcemia|C0020437|40532|MH|RtM via: Hypercalcemia|AB|MM;RC|905^13^0
+21858793|Cardiac Tamponade|C0007177|25466|MH|RtM via: Cardiac Tamponade|AB|MM;RC|970^17^0
+21858793|Superior Vena Cava Syndrome|C0038833|20531|MH|RtM via: Superior Vena Cava Syndrome|AB|MM;RC|989^27^0
+21858793|Compression, Spinal Cord|C0037926|9755|ET|Entry Term Replacement for "Spinal Cord Compression";RtM via: Compression of spinal cord|AB|MM;RC|1037^23^0
+21858793|Hyponatremia|C0020625|6575|MH|RtM via: Hyponatremia|AB|MM;RC|920^12^0
+21858793|Hypoglycemia|C0020615|1347|MH|RtM via: Hypoglycemia|AB|MM;RC|934^12^0
+28741506|Neoplasm Recurrence, Local|C0027643|1000|MH|Recurrence-C04 (CBD)||MM
+28741506|Cellular Senescence|C0007581|224444|MH|RtM via: Cellular Senescence;RtM via: Senescence-Associated Secretory Phenotype|AB|MM;RC|255^15^0;70^19^0;314^41^0
+28741506|Cell Transformation, Neoplastic|C0007621|73289|MH|RtM via: Neoplastic Cell Transformation|AB|MM;RC|852^13^0
+28741506|Cytokines|C0079189|31076|MH|RtM via: cytokine|AB|MM;RC|279^9^0
+28741506|Tumorigenesis|C0596263|30516|ET|Entry Term Replacement for "Carcinogenesis";RtM via: Carcinogenesis|AB|MM;RC|852^13^0
+28741506|*Genes, Tumor Suppressor|C0079427|15603|MH|RtM via: tumor suppressor activity|TI|MM|27^16^0
+28741506|*Promoter Regions, Genetic|C0033413|14733|MH|RtM via: Promoter|TI|MM;RC|47^8^0
+28741506|Phenotype|C0031437|11285|MH|||RC
+31014516|*Matrix Metalloproteinases|C0623362|731516|MH|RtM via: Matrix Metalloproteinases;checkForceMH Boosted;Forced Non-Leaf Node Lookup:matrix metalloproteinases|TI;AB|MM;RC|971^4^0;750^3^0;622^4^0;529^4^0;156^25^0;21^25^0;183^4^0
+31014516|*Cancer|C0006826|248055|ET|Entry Term Replacement for "Neoplasms";RtM via: Malignant Neoplasms;RtM via: Primary malignant neoplasm;RtM via: Primary Neoplasm;RtM via: Neoplasms;RtM via: Tumor Mass;Cancer/Neoplasm in Title, none specified|TI;AB|MM;RC|832^6^0;228^6^0;140^6^0;692^13^0;939^5^0
+31014516|Antineoplastic Agents|C0003392|16743|MH|RtM via: Cytotoxic agent (product)|AB|MM;RC|839^9^0;853^5^1
+31014516|Cytokines|C0079189|4837|MH|RtM via: cytokine|AB|MM;RC|518^9^0
+27890287|Animals|C0003062|42029|CT|CT Text Lookup: animal;CT Text Lookup: animals;CT Text Lookup: rabbit;Forced Animals Added: Rabbits|AB;TI|MM;RC|272^7^0;21^6^0
+27890287|Rabbits|C3887509|42029|CT|RtM via: Rabbits;RtM via: Old World rabbit;Forced Leaf Node Lookup:rabbit;CT Text Lookup: rabbit|TI;AB|MM;RC|738^6^0;662^7^0;409^7^0;141^7^0;21^6^0
+27890287|*Medical Oncology|C0025098|20232|MH|RtM via: oncology field|TI;AB|MM|745^9^0;28^8^0
+27890287|Neoplasms|C0027651|7028|MH|||RC
+27890287|Integumentary Systems|C0037267|5|ET|Entry Term Replacement for "Integumentary System";RtM via: Integumentary system|AB|MM|493^21^0
+27890287|Problem Solving|C0033211|2|MH|RtM via: Insight|AB|MM|547^8^0
+28779867|Humans|C0086418|321043|CT|CT Text Lookup: children;CT Text Lookup: patient;CT Text Lookup: pediatric|AB|MM;RC|213^8^0;595^7^0;101^9^0
+28779867|Child|C0008059|321043|CT|Forced Lookup:childhood cancer;CT Text Lookup: children;CT Text Lookup: pediatric; Forced Age Group: Childhood|TI;AB|MM;RC|51^16^0;213^8^0;101^9^0;51^9^0
+28779867|*Malignancy|C0006826|107145|ET|Entry Term Replacement for "Neoplasms";RtM via: Malignant Childhood Neoplasm;RtM via: Malignant Neoplasms;RtM via: Primary malignant neoplasm;Forced Lookup:childhood cancer;Cancer/Neoplasm in Title, none specified|TI;AB|MM;RC|1287^17^0;659^16^0;408^17^0;101^17^0;51^16^0;957^7^0;692^6^0;267^10^0;169^6^0
+28779867|Seizures|C0036572|9612|MH|RtM via: Seizures|AB|MM;RC|1075^8^0
+28779867|Movements, Abnormal|C0013384|307|ET|Entry Term Replacement for "Dyskinesias";RtM via: Dyskinetic syndrome;RtM via: Abnormal movement|AB|MM|1085^18^0
+28779867|Neurotoxicity Syndromes|C0235032|242|MH|RtM via: Neurotoxicity Syndromes|AB|MM|892^10^0
+28779867|Psychosis|C0033975|227|ET|Entry Term Replacement for "Psychotic Disorders";RtM via: Psychotic Disorders;RtM via: Nonorganic psychosis|AB|MM|1114^9^0
+28779867|Peripheral Nervous System|C0206417|142|MH|RtM via: Peripheral Nervous System|AB|MM|930^25^0;465^25^0
+28779867|Hematopoietic Stem Cell Transplantation|C0472699|111|MH|RtM via: Hemopoietic stem cell transplant|AB|MM|521^25^0
+28779867|Stem Cell Transplantation|C1504389|76|MH|RtM via: Stem cell transplant|AB|MM|521^25^0
+28779867|Disease Progression|C0242656|29|MH|RtM via: Sequela of disorder|AB|MM|781^8^0
+27364482|*Oncogenes|C0029016|1292724|MH|RtM via: Oncogenes|TI;AB|MM;RC|405^9^0;62^9^0
+27364482|*Apoptosis|C0162638|232671|MH|RtM via: Apoptosis;RtM via: cell killing;Forced Non-Leaf Node Lookup:apoptotic cell|TI;AB|MM;RC|512^9^0;385^9^0;250^9^0;89^20^0;46^9^0;549^9^0
+27364482|*Oncogenesis|C0596263|232524|ET|Entry Term Replacement for "Carcinogenesis";RtM via: Carcinogenesis|TI;AB|MM;RC|589^11^0;405^9^0;62^9^0
+27364482|Cancer|C0006826|92496|ET|Entry Term Replacement for "Neoplasms";RtM via: Malignant Neoplasms;RtM via: Primary malignant neoplasm;RtM via: Neoplasms;RtM via: Tumor Mass|AB|MM;RC|314^6^0;180^6^0;542^6^0
+28782469|Humans|C0086418|370426|CT|CT Text Lookup: human;CT Text Lookup: patient;CT Text Lookup: patients|AB|MM;RC|430^5^0;742^8^0
+28782469|Immunotherapy|C0021083|369426|MH|RtM via: Immunotherapy|AB|MM;RC|221^13^0
+28782469|Cancer|C0006826|151421|ET|Entry Term Replacement for "Neoplasms";RtM via: Malignant Neoplasms;RtM via: Primary malignant neoplasm|AB|MM;RC|642^6^0;82^6^0
+28782469|Antineoplastic Agents|C0003392|59990|MH|||RC
+28782469|Cell Cycle Checkpoints|C1155874|59987|MH|||RC
+28782469|*Immunologic Factors|C0021054|12069|MH|RtM via: Immune Checkpoint Inhibitor;RtM via: Biological Response Modifiers|TI;AB|MM|833^28^0;21^28^0;221^13^0
+28782469|Efficacy, Clinical|C0087113|3405|ET|Entry Term Replacement for "Treatment Outcome";RtM via: Treatment Effectiveness|AB|MM;RC|1020^17^0
+27890288|Animals|C0003062|86385|CT|Ferrets;CT Treecode Lookup: B01.050.150.900.649.313.750 (Ferrets)||MM;RC
+27890288|*Ferrets|C0015859|85385|MH|RtM via: Ferrets;Forced Leaf Node Lookup:ferrets;checkForceMH Boosted|TI;AB|MM;RC|628^7^0;389^7^0;174^7^0;119^7^0;21^6^0
+27890288|Insulinoma|C0021670|50693|MH|RtM via: insulinoma|AB|MM;RC|405^10^0
+27890288|*Medical Oncology|C0025098|8667|MH|RtM via: oncology field|TI|MM|28^8^0
+27890288|Adrenalectomy|C0001632|6375|MH|RtM via: Adrenalectomy|AB|MM;RC|371^13^0
+27890288|Pancreatic Neoplasms|C0030297|1000|MH|Neoplasm Coordination Rule: Insulinoma||MM;RC
+31362690|Humans|C0086418|94172|CT|CT Text Lookup: human;CT Text Lookup: patient|AB|MM;RC|889^5^0;796^7^0
+31362690|Cancer|C0006826|93172|ET|Entry Term Replacement for "Neoplasms";RtM via: Cancer Patient;RtM via: Malignant Neoplasms;RtM via: Primary malignant neoplasm;Cancer/Neoplasm in Title, none specified|AB|MM;RC|789^14^0;477^6^0
+31362690|Oncogene|C0029016|27371|ET|Entry Term Replacement for "Oncogenes";RtM via: Oncogenes|AB|MM;RC|612^8^0
+31362690|Biomedical Research|C0005540|10782|MH|||RC
+25993239|*Clonal Evolution|C1516669|1251872|MH|RtM via: Clonal Evolution;RtM via: Somatic Evolution;Forced Leaf Node Lookup:somatic evolution;Forced Leaf Node Lookup:clonal evolution|TI;AB|MM;RC|85^16^0;21^16^0;1524^17^0;251^17^0;77^7^1;92^9^1
+25993239|Neoplastic Stem Cells|C1956421|40978|MH|||RC
+25993239|Biomarkers, Tumor|C0041366|22950|MH|||RC
+25993239|Precancerous Conditions|C0032927|15584|MH|RtM via: Precancerous Conditions|AB|MM;RC|997^12^0;945^12^0;834^12^0
+25993239|Mutation|C0026882|15096|MH|||RC
+25993239|Clones|C0009013|13937|ET|Entry Term Replacement for "Clone Cells";RtM via: Clone Cells|AB|MM;RC|847^6^0
+31099667|*Metabolic Pathways|C1291081|294579|ET|Entry Term Replacement for "Metabolic Networks and Pathways";RtM via: Metabolic Pathway|TI|MM;RC|50^18^0
+31099667|Cancer|C0006826|158716|ET|Entry Term Replacement for "Neoplasms";RtM via: Malignant Neoplasms;RtM via: Primary malignant neoplasm;RtM via: Neoplasms;RtM via: Tumor Mass|AB|MM;RC|78^6^0;956^5^0
+31099667|Tumor Microenvironment|C2936626|147560|MH|RtM via: Tumor Microenvironment|AB|MM;RC|872^22^0
+31099667|Molecular Targeted Therapy|C2699893|136075|MH|||RC
+31099667|Glycolysis|C0017952|102348|MH|RtM via: Glycolysis|AB|MM;RC|994^10^0
+31099667|Energy Metabolism|C0014272|65547|MH|||RC
+31099667|Cell Proliferation|C0596290|17966|MH|RtM via: Cell Growth|AB|MM;RC|226^11^0
+31099667|Signal Transduction|C0037083|14967|MH|||RC
+30241109|Humans|C0086418|109435|CT|CT Text Lookup: individuals;CT Text Lookup: patient;CT Text Lookup: patients|AB|MM;RC|1732^11^0;918^8^0
+30241109|Cancer|C0006826|11911|ET|Entry Term Replacement for "Neoplasms";RtM via: Malignant Neoplasms;RtM via: Primary malignant neoplasm;Cancer/Neoplasm in Title, none specified|AB|MM;RC|1677^6^0;1571^6^0;716^6^0
+30241109|*Academy|C0000876|108435|ET|Entry Term Replacement for "Academies and Institutes";RtM via: Academies|TI;AB|MM;RC|1346^4^0;96^7^0;30^7^0
+30241109|Translational Research|C3494163|88224|ET|Entry Term Replacement for "Translational Medical Research";RtM via: Translational Research|AB|MM;RC|1663^13^1;1684^8^1;954^22^0;702^13^1;723^8^1;592^22^0
+30241109|Europe|C0015176|70234|MH|RtM via: Europe|AB|MM;RC|1446^6^0;630^6^0
+30241109|Biomedical Research|C0005540|17609|MH|||RC
+30241109|Healthcare|C0086388|16759|ET|Entry Term Replacement for "Delivery of Health Care";RtM via: Health Care;RtM via: Health Care Systems;RtM via: Long-term Follow-up|AB|MM;RC|1059^11^0;803^17^0;1301^19^0
+30241109|Quality of Health Care|C0034379|11187|MH|||RC
+30241109|*Medicine|C0025118|3303|MH|RtM via: Cancer Science;RtM via: medical specialist|TI;AB|MM|1346^4^0;107^15^0;41^15^0;181^19^0
+30241109|Researchers|C0035173|381|ET|Entry Term Replacement for "Research Personnel";RtM via: Research Personnel|AB|MM|205^11^0
+30241109|Outcomes Research|C0086750|342|ET|Entry Term Replacement for "Outcome Assessment, Health Care";RtM via: Outcomes Research|AB|MM|1228^17^0
+30241109|Data Accuracy|C4035952|313|MH|RtM via: Data Quality|AB|MM|1106^7^1;1118^4^1
+
+28303019|*Optogenetics|C3494301|613072|MH|RtM via: Optogenetics;Forced Leaf Node Lookup:optogenetics|TI;AB|MM;RC|713^11^0;365^12^0;122^12^0;36^12^0;522^12^0
+28303019|*Neuroscience|C0027910|291813|ET|Entry Term Replacement for "Neurosciences";RtM via: Neuroscience discipline|TI|MM;RC|93^12^0
+28303019|Opsin|C2355587|41465|ET|Entry Term Replacement for "Opsins";RtM via: Opsins|AB|MM;RC|412^5^0
+28303019|Brain|C0006104|5439|MH|RtM via: Brain|AB|MM;RC|898^5^0
+28303019|Rod Opsins|C0069580|990|MH|RtM via: Rod Opsins|AB|MM|412^5^0
+29096079|*Neurons|C0027882|410058|MH|RtM via: Neurons;RtM via: neuronal;Forced Non-Leaf Node Lookup:neurons|TI;AB|MM;RC|755^7^0;701^6^0;438^7^0;104^7^0;52^7^0;349^8^0
+29096079|*Signal Transduction|C0037083|181851|MH|RtM via: Signal Transduction;RtM via: neuronal signal transduction|TI;AB|MM;RC|425^9^0;39^9^0;198^18^0
+29096079|*Neuroscience|C0027910|160473|ET|Entry Term Replacement for "Neurosciences";RtM via: Neuroscience discipline|TI|MM;RC|82^12^0
+29096079|Organelle|C0029219|16286|ET|Entry Term Replacement for "Organelles";RtM via: Organelles;RtM via: Cytoplasmic organelle|AB|MM;RC|583^9^0
+29096079|Protein Transport|C0599895|7594|MH|RtM via: trafficking|AB|MM;RC|566^11^0
+29096079|*Biological Processes|C3714634|1833|ET|Entry Term Replacement for "Biological Phenomena";RtM via: biological signaling;RtM via: Biological Processes;Forced Non-Leaf Node Lookup:biological processes|TI;AB|MM|425^9^0;39^9^0;498^20^0
+29432512|Psychoanalysis|C0033884|245516|MH|RtM via: Psychoanalytic psychiatry|AB|MM;RC|1437^14^0;1008^14^0;379^14^0
+29432512|Psychoanalytic Theory|C0033886|228135|MH|RtM via: Psychoanalytic Theory|AB|MM;RC|139^21^0
+29432512|*Emotions|C0013987|56655|MH|RtM via: Emotions;Forced Non-Leaf Node Lookup:emotions|TI;AB|MM;RC|1291^9^0;1038^9^0;888^9^0;595^9^0;42^8^0
+29432512|Psychoanalytic Therapy|C0033887|54194|MH|||RC
+29432512|Neuroscience|C0027910|53216|ET|Entry Term Replacement for "Neurosciences";RtM via: Neuroscience discipline|AB|MM;RC|773^12^0;362^12^0
+29432512|Neurobiology|C0027817|9054|MH|RtM via: Neurobiology|AB|MM;RC|936^12^0
+29432512|Memory|C0025260|5721|MH|RtM via: Memory;RtM via: Memory observations|AB|MM;RC|546^6^0
+29432512|Empathy|C0013989|5282|MH|RtM via: Empathy|AB|MM;RC|562^7^0
+29432512|Motivations|C0026605|4197|ET|Entry Term Replacement for "Motivation";RtM via: Motivation|AB|MM;RC|1305^12^0;1122^12^0;605^12^0
+29460160|Humans|C0086418|366576|CT|Forced Leaf Node Lookup:humans;CT Text Lookup: human;CT Text Lookup: patient|TI;AB|MM;RC|31^5^0;159^5^0;205^5^0;303^5^0;1066^5^0;1389^7^0
+29460160|Human Experimentation|C0020123|365576|MH|RtM via: Human Experimentation|AB|MM;RC|380^21^0
+29460160|Nazi|C0949876|93461|ET|Entry Term Replacement for "National Socialism";RtM via: Nazis|AB|MM;RC|975^4^0;805^4^0
+29460160|Informed Consent|C0021430|91683|MH|RtM via: Informed Consent|AB|MM;RC|1168^16^0
+29460160|Ethics, Medical|C0015004|48289|MH|||RC
+29460160|*Neuroscience|C0027910|31440|ET|Entry Term Replacement for "Neurosciences";RtM via: Neuroscience discipline|TI;AB|MM;RC|693^12^0;485^12^0;62^12^0
+29460160|Morals|C0026532|7434|MH|RtM via: Morality|AB|MM;RC|1043^7^0;671^7^0;358^7^0
+29924477|Humans|C0086418|577612|CT|CT Text Lookup: human;CT Text Lookup: humans;CT Text Lookup: patient;CT Text Lookup: patients|AB|MM;RC|244^6^0;1330^8^0
+29924477|Animals|C0003062|577612|CT|CT Text Lookup: primate|AB|MM;RC|225^8^0
+29924477|*Neuroscience|C0027910|576612|ET|Entry Term Replacement for "Neurosciences";RtM via: Neuroscience discipline|TI;AB|MM;RC|400^12^0;28^12^0
+29924477|Brain Mapping|C0006117|125476|MH|||RC
+29924477|Brain|C0006104|103817|MH|RtM via: Brain|AB|MM;RC|934^5^0;840^5^0
+29924477|Functions, Cognitive|C0009240|26986|ET|Entry Term Replacement for "Cognition";RtM via: Cognition;RtM via: Cognitive functions|AB|MM;RC|571^19^0
+29924477|Cerebral Cortex|C0007776|14199|MH|RtM via: Cerebral cortex|AB|MM;RC|775^8^0;206^15^0
+29924477|Electrical Stimulation|C0013786|8859|ET|Entry Term Replacement for "Electric Stimulation";RtM via: Electric stimulation technique|AB|MM;RC|1260^22^0
+29766913|Humans|C0086418|173338|CT|CT Text Lookup: patient;CT Text Lookup: patients|AB|MM;RC|1435^8^0
+29766913|*Telemedicine|C0162648|172338|MH|RtM via: Telemedicine;Forced Non-Leaf Node Lookup:telemedicine|TI;AB|MM;RC|1171^12^0;1054^12^0;901^12^0;21^12^0;1271^12^0
+29766913|*Neurosciences|C0027910|61356|MH|RtM via: Neuroscience discipline;Forced Non-Leaf Node Lookup:neurosciences|TI;AB|MM;RC|1219^13^0;1098^13^0;846^13^0;38^13^0
+29766913|Videoconferencing|C1450048|21748|MH|RtM via: videoconferencing communications|AB|MM;RC|512^18^0
+29766913|Delivery, Healthcare|C0011211|10824|ET|Entry Term Replacement for "Delivery of Health Care";RtM via: Delivery of Health Care;RtM via: Health Care Systems|AB|MM;RC|973^19^0;993^6^1
+29766913|India|C0021201|5|MH|RtM via: India|AB|MM|1187^5^0;152^5^0
+29110344|*Brain|C0006104|290130|MH|RtM via: Brain;Forced Non-Leaf Node Lookup:brain|TI;AB|MM;RC|1235^5^0;533^5^0;137^5^0;53^5^0;737^5^0
+29110344|*Energy Metabolism|C0014272|171273|MH|RtM via: Energy Metabolism;RtM via: Bioenergetics;Forced Non-Leaf Node Lookup:energy metabolisms|TI;AB|MM;RC|1241^17^0;621^17^0;143^17^0;59^17^0;1048^13^0
+29110344|Neuroscience|C0027910|151420|ET|Entry Term Replacement for "Neurosciences";RtM via: Neuroscience discipline|AB|MM;RC|86^12^0
+29110344|*Neurochemistry|C0027820|47289|MH|RtM via: brain metabolism|TI;AB|MM|1235^5^1;1248^10^1;137^5^1;150^10^1;53^5^1;66^10^1
+29110344|Neurons|C0027882|23440|MH|RtM via: Neurons|AB|MM;RC|439^7^0
+29110344|Cells, Glial|C0027836|20202|ET|Entry Term Replacement for "Neuroglia";RtM via: Neuroglia|AB|MM;RC|448^11^0
+29110344|Neurology|C0027855|12318|MH|RtM via: Neurology speciality|AB|MM;RC|1123^9^0
+29110344|Molecular Biology|C0026376|6862|MH|RtM via: Molecular Biology|AB|MM;RC|1081^17^0
+29096071|*Neuroscience|C0027910|902976|ET|Entry Term Replacement for "Neurosciences";RtM via: Neuroscience discipline|TI;AB|MM;RC|664^12^0;62^12^0;31^12^0
+29096071|Brain|C0006104|75928|MH|RtM via: Brain|AB|MM;RC|488^5^0;331^5^0;178^5^0;135^5^0
+29096071|Neuronal Plasticity|C0027880|71547|MH|||RC
+29121942|Humans|C0086418|131256|CT|CT Text Lookup: human;CT Text Lookup: individuals|AB|MM;RC|657^5^0;247^11^0
+29121942|*Brain-Computer Interfaces|C3494288|130256|MH|Forced Leaf Node Lookup:brain computer interfaces;Forced Leaf Node Lookup:brain-computer interfaces;Forced Leaf Node Lookup:bci|TI;AB|MM;RC|40^25^0;93^24^0;119^3^0;197^3^0;494^3^0;645^3^0
+29121942|Communication Aids for Disabled|C0009453|79876|MH|||RC
+29121942|Electroencephalography|C0013819|32631|MH|||RC
+29121942|User-Computer Interface|C0042117|21306|MH|||RC
+29121942|Brain|C0006104|7288|MH|RtM via: Brain|AB|MM;RC|663^6^0
+29121942|Amyotrophic Lateral Sclerosis|C0002736|3336|MH|RtM via: Amyotrophic Lateral Sclerosis|AB|MM;RC|318^29^0
+27634721|Reproducibility of Results|C0035149|25072|MH|Forced Lookup:reliability|AB|MM;RC|245^11^0
+27634721|Neurosciences|C0027910|158787|MH|RtM via: Neuroscience discipline|AB|MM;RC|1197^13^0;103^13^0
+27634721|Neuroimaging|C0679575|103256|MH|RtM via: Brain scan;RtM via: Imaging of brain|AB|MM;RC|796^11^0;436^11^0;305^13^0
+27634721|Morals|C0026532|49652|MH|RtM via: Morality;RtM via: Morals|AB|MM;RC|1246^5^0
+27634721|Brain|C0006104|36507|MH|RtM via: Brain|AB|MM;RC|700^5^0;305^5^0
+27634721|Criminal Law|C0010328|31585|MH|||RC
+27634721|Crime|C0010325|16556|MH|||RC
+27634721|Intentions|C0162425|13527|ET|Entry Term Replacement for "Intention";RtM via: Intention - mental process|AB|MM;RC|1018^10^0
+27634721|*Social Behavior|C0037397|11133|MH|RtM via: Responsibility|TI;AB|MM|1381^14^0;1099^14^0;34^14^0
+27634721|Social Responsibility|C0037433|10973|MH|||RC
+30980031|Animals|C0003062|352967|CT|CT Text Lookup: mouse|AB|MM;RC|990^5^0
+30980031|Mice|C0026809|352967|CT|CT Text Lookup: mouse|AB|MM;RC|990^5^0
+30980031|Humans|C0086418|352967|CT|CT Text Lookup: student|AB|MM;RC|1169^7^0
+30980031|*Silicon|C0037107|351967|MH|RtM via: Silicon;Forced Leaf Node Lookup:silicon;checkForceMH Boosted|TI;AB|MM;RC|644^2^0;377^7^0;61^7^0
+30980031|Action Potentials|C0001272|49465|MH|||RC
+30980031|Neurosciences|C0027910|29950|MH|||RC
+30980031|Neurons|C0027882|29207|MH|||RC
+30980031|Nanotechnology|C0872323|24906|MH|||RC
+30980031|Brain|C0006104|9935|MH|||RC
+30731065|*Neuroscience|C0027910|412815|ET|Entry Term Replacement for "Neurosciences";RtM via: Neuroscience discipline;Forced Non-Leaf Node Lookup:neuroethics|TI|MM;RC|75^12^0;59^11^0;292^11^0
+30731065|*Brain|C0006104|56082|MH|RtM via: Brain;Forced Non-Leaf Node Lookup:brain|TI;AB|MM;RC|379^5^0;168^5^0;105^5^0;281^5^0;29^5^0
+30731065|*Drive|C0013126|1200|MH|RtM via: Initiative|TI;AB|MM|175^10^0;35^10^0
+30731065|Electric Power Supplies|C0032865|0|MH|RtM via: Transformers|AB|MM|246^9^0
+31260438|Humans|C0086418|549193|CT|Forced Leaf Node Lookup:humans;CT Text Lookup: human|TI;AB|MM;RC|25^5^0;144^5^0;249^5^0
+31260438|*Neuroscience|C0027910|548193|ET|Entry Term Replacement for "Neurosciences";RtM via: Neuroscience discipline|TI;AB|MM;RC|278^12^0;61^12^0
+31260438|*Brain|C0006104|207318|MH|RtM via: Brain;Forced Non-Leaf Node Lookup:brain|TI;AB|MM;RC|658^3^0;753^5^0;357^3^0;403^5^0;150^5^0;255^5^0;31^5^0;103^5^0;464^5^0;608^5^0
+31260438|Brain Mapping|C0006117|98201|MH|||RC
+31260438|Image Processing, Computer-Assisted|C0020911|42470|MH|||RC
+31260438|Medical Informatics|C0025088|12651|MH|||RC
+31260438|*Technology|C0039421|2646|MH|RtM via: Technology|TI;AB|MM|517^10^0;319^10^0;118^12^0
+27637950|Humans|C0086418|900745|CT|Forced Lookup:general population;CT Text Lookup: human|AB|MM;RC|341^18^0;123^5^0
+27637950|*Neuroscience|C0027910|899745|ET|Entry Term Replacement for "Neurosciences";RtM via: Neuroscience discipline|TI;AB|MM;RC|568^12^0;65^12^0;32^12^0
+27637950|Brain|C0006104|66054|MH|RtM via: Brain|AB|MM;RC|496^5^0;129^5^0
+28250055|HCRT protein, human|C1527908|1862604|NM|RtM via: HCRT protein, human|TI|MM|33^10^0;44^6^0
+28250055|*Orexins|C1113688|1862603|MH|RtM via: orexins;RtM via: HCRT protein, human;Forced Leaf Node Lookup:hypocretins;Forced Leaf Node Lookup:orexins|TI;AB|MM;RC|259^11^0;274^7^0;33^10^0;44^6^0
+28250055|Neuropeptides|C0027895|382518|MH|RtM via: Neuropeptides|AB|MM;RC|220^13^0
+28250055|*Neurons|C0027882|153840|MH|RtM via: neuronal|TI|MM;RC|51^8^0
+28250055|Wakefulness|C0043012|75747|MH|||RC
+28250055|Intracellular Signaling Peptides and Proteins|C1449791|65190|MH|||RC
+28250055|Hypothalamus|C0020663|26980|MH|RtM via: Hypothalamic structure|AB|MM;RC|207^12^0
+29547172|Humans|C0086418|1307923|CT|CT Text Lookup: patient|AB|MM;RC|280^7^0
+29547172|United States|C0041703|1307923|CT|USA Lookup:National Institute of Mental Health;National Institute of Mental Health;CT Treecode Lookup: I01.409.418.750 (National Institute of Mental Health);National Institute of Mental Health;CT Treecode Lookup: N03.540.348.500.500 (National Institute of Mental Health)||MM;RC
+29547172|India|C0021201|0|MH|RtM via: India;Geo Lookup:karnatakas|TI;AB|MM|869^5^0
+29547172|*Neurology|C0027855|1306923|MH|RtM via: Neurology speciality;Forced Non-Leaf Node Lookup:neurology|TI;AB|MM;RC|1041^9^0;570^9^0;110^9^0;36^9^0
+29547172|Neurosciences|C0027910|233014|MH|RtM via: Neuroscience discipline|AB|MM;RC|161^13^0
+29547172|Nervous System Diseases|C0027765|142834|MH|RtM via: nervous system disorder|AB|MM;RC|1073^19^0
+29547172|Academies and Institutes|C0000877|42300|MH|RtM via: Institutes|AB|MM;RC|720^9^0
+29547172|Societies, Medical|C0037459|12324|MH|||RC
+29547172|National Institute of Mental Health|C0027466|1048|ET|Entry Term Replacement for "National Institute of Mental Health (U.S.)";RtM via: National Institute of Mental Health (U.S.)|AB|MM|121^35^0
+29547172|Faculty|C0015535|171|MH|RtM via: Faculty|AB|MM|676^7^0;346^7^0
+29547172|Government|C0018104|113|MH|RtM via: Government|AB|MM|855^10^0
+30720413|Humans|C0086418|1000|CT|Forced Humans: Sister||MM
+30720413|Neuroscience|C0027910|71380|ET|Entry Term Replacement for "Neurosciences";RtM via: Neuroscience discipline;Forced Non-Leaf Node Lookup:neuroethics|AB|MM;RC|708^12^0;236^12^0;34^11^0;187^11^0;433^11^0;1071^11^0
+30720413|Bioethical Issues|C0005488|33347|MH|||RC
+30720413|Technology|C0039421|1866|MH|RtM via: Technology|AB|MM;RC|805^12^0;372^13^0
+30720413|Brain|C0006104|784|MH|RtM via: Brain|AB|MM;RC|787^5^0;411^5^0
+30720413|Confusion|C0009676|163|MH|RtM via: Confusion;RtM via: Clouded consciousness|AB|MM|1130^9^0
+30720413|Recognition, Psychology|C0524637|51|MH|RtM via: Recognition, Psychology|AB|MM|555^11^0
+30720413|Sister|C0337514|32|ET|Entry Term Replacement for "Siblings";RtM via: Sister|AB|MM|171^6^0
+30720413|Organizations|C0029246|8|MH|RtM via: Utilities (organization)|AB|MM|544^7^0
+30720413|Charges|C0007961|2|ET|Entry Term Replacement for "Fees and Charges";RtM via: charge amounts|AB|MM|1094^7^0
+30720413|Reconstructive Surgical Procedures|C0524865|0|MH|RtM via: Surgical reduction|AB|MM|1105^12^0
+30720413|Rubiaceae|C0524885|0|MH|RtM via: Adina|AB|MM|202^5^0
+28552516|Animals|C0003062|109384|CT|Behavior, Animal;CT Treecode Lookup: F01.145.113 (Behavior, Animal)||RC
+28552516|*Neuroscience|C0027910|108384|ET|Entry Term Replacement for "Neurosciences";RtM via: Neuroscience discipline|TI;AB|MM;RC|153^12^0;64^12^0
+28552516|Behavioral Research|C0004939|67051|MH|||RC
+28552516|Behavior, Animal|C0004935|24380|MH|||RC
+28552516|*Bioassays|C0005507|13533|ET|Entry Term Replacement for "Biological Assay";RtM via: Biological Assay;Forced Non-Leaf Node Lookup:bioassays|TI;AB|MM;RC|102^8^0;51^9^0
+29316506|Humans|C0086418|310013|CT|CT Text Lookup: human|AB|MM;RC|1152^5^0
+29316506|Animals|C0003062|310013|CT|RtM via: Mus;CT Text Lookup: mouse;CT Text Lookup: primate|AB|MM;RC|1141^5^0;1158^7^0
+29316506|Mice|C0026809|310013|CT|RtM via: Mus;CT Text Lookup: mouse|AB|MM;RC|1141^5^0
+29316506|*Neuroscience|C0027910|121977|ET|Entry Term Replacement for "Neurosciences";RtM via: Neuroscience discipline|TI;AB|MM;RC|99^12^0;59^12^0
+29316506|Microscopy, Fluorescence|C0026022|29422|MH|||RC
+29316506|Microscopy, Confocal|C0242842|20191|MH|||RC
+29316506|Synapses|C0039062|16043|MH|RtM via: Synapses|AB|MM;RC|1058^8^0
+29316506|Neurons|C0027882|10614|MH|RtM via: Neurons|AB|MM;RC|317^7^0
+29316506|Specimen Handling|C0037793|4380|MH|RtM via: Specimen preservation|AB|MM;RC|558^9^1;574^9^1
+29316506|Brain|C0006104|4025|MH|RtM via: Brain|AB|MM;RC|568^5^0
+29316506|Polymer|C0032521|3611|ET|Entry Term Replacement for "Polymers";RtM via: Polymers|AB|MM;RC|781^7^0;618^7^0
+29733893|Humans|C0086418|164665|CT|CT Text Lookup: human;CT Text Lookup: patient;CT Text Lookup: patients;CT Text Lookup: volunteer;CT Text Lookup: volunteers|AB|MM;RC|342^5^0;547^8^0;532^10^0
+29733893|Animals|C0003062|164665|CT|Animal Experimentation;CT Treecode Lookup: E05.017 (Animal Experimentation);Animal Welfare;CT Treecode Lookup: I01.880.604.100 (Animal Welfare);Animal Testing Alternatives;CT Treecode Lookup: E05.017 (Animal Testing Alternatives);Primates;CT Treecode Lookup: B01.050.150.900.649.313.988 (Primates);CT Text Lookup: primate|TI|MM;RC|82^8^0
+29733893|*Neuroscience|C0027910|163665|ET|Entry Term Replacement for "Neurosciences";RtM via: Neuroscience discipline|TI;AB|MM;RC|127^12^0;41^12^0
+29733893|Animal Experimentation|C0003048|108514|MH|||RC
+29733893|Animal Welfare|C0003061|45799|MH|||RC
+29733893|Animal Testing Alternatives|C0003059|33076|MH|||RC
+29733893|Research Methodology|C0086912|30394|ET|Entry Term Replacement for "Research Design";RtM via: Research Methodology|AB|MM;RC|893^20^0
+29733893|Primates|C0033147|28916|MH|Forced Non-Leaf Node Lookup:primates||MM;RC|82^8^0;164^8^0
+29733893|Biomedical Research|C0005540|22932|MH|||RC
+29733893|Researchers|C0035173|836|ET|Entry Term Replacement for "Research Personnel";RtM via: Research Personnel|AB|MM|852^11^0;710^11^0
+

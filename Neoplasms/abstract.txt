@@ -1,0 +1,100 @@
+UI  -  26289314
+TI  -  Glycosylation in cancer: mechanisms and clinical implications.
+AB  -  b'Despite recent progress in understanding the cancer genome, there is still a relative delay in understanding the full aspects of the glycome and glycoproteome of cancer. Glycobiology has been instrumental in relevant discoveries in various biological and medical fields, and has contributed to the deciphering of several human diseases. Glycans are involved in fundamental molecular and cell biology processes occurring in cancer, such as cell signalling and communication, tumour cell dissociation and invasion, cell-matrix interactions, tumour angiogenesis, immune modulation and metastasis formation. The roles of glycans in cancer have been highlighted by the fact that alterations in glycosylation regulate the development and progression of cancer, serving as important biomarkers and providing a set of specific targets for therapeutic intervention. This Review discusses the role of glycans in fundamental mechanisms controlling cancer development and progression, and their applications in oncology. '
+
+
+UI  -  28244479
+TI  -  Cancer and cure: A critical analysis.
+AB  -  b'Cancer is one of the most dreaded diseases of the 20th century and spreading further with continuance and increasing incidence in the 21st century. The situation is so alarming that every fourth person is having a lifetime risk of cancer. India registers more than 11 lakh new cases of cancer every year, whereas, this figure is above 14 million worldwide. Is cancer curable? The short answer to this question is "Yes." In fact, all cancers are curable if they are caught early enough. Cancer cells continue to grow unless one of four things occur: (1) The cancerous mass is removed surgically; (2) using chemotherapy or another type of cancer-specific medication, such as hormonal therapy; (3) using radiation therapy; or (4) the cancer cells shrink and disappear on their own.'
+
+
+UI  -  21248838
+TI  -  Cells of origin in cancer.
+AB  -  b"Both solid tumours and leukaemias show considerable histological and functional heterogeneity. It is widely accepted that genetic lesions have a major role in determining tumour phenotype, but evidence is also accumulating that cancers of distinct subtypes within an organ may derive from different 'cells of origin'. These cells acquire the first genetic hit or hits that culminate in the initiation of cancer. The identification of these crucial target cell populations may allow earlier detection of malignancies and better prediction of tumour behaviour, and ultimately may lead to preventive therapies for individuals at high risk of developing cancer."
+
+
+UI  -  28741511
+TI  -  Endoplasmic Reticulum Stress and the Hallmarks of Cancer.
+AB  -  b'Tumor cells are often exposed to intrinsic and external factors that alter protein homeostasis, thus producing endoplasmic reticulum (ER) stress. To cope with this, cells evoke an adaptive mechanism to restore ER proteostasis known as the unfolded protein response (UPR). The three main UPR signaling branches initiated by IRE1\\N{GREEK SMALL LETTER ALPHA}, PERK, and ATF6 are crucial for tumor growth and aggressiveness as well as for microenvironment remodeling or resistance to treatment. We provide a comprehensive overview of the contribution of the UPR to cancer biology and the acquisition of malignant characteristics, thus highlighting novel aspects including inflammation, invasion and metastasis, genome instability, resistance to chemo/radiotherapy, and angiogenesis. The therapeutic potential of targeting ER stress signaling in cancer is also discussed.'
+
+
+UI  -  29056514
+TI  -  Molecular Mechanisms Linking Exercise to Cancer Prevention and Treatment.
+AB  -  b'The benefits of exercise training for cancer patients are becoming increasingly evident. Physical exercise has been shown to reduce cancer incidence and inhibit tumor growth. Here we provide the status of the current molecular understanding of the effect of exercise on cancer. We propose that exercise has a role in controlling cancer progression through a direct effect on tumor-intrinsic factors, interplay with whole-body exercise effects, alleviation of cancer-related adverse events, and improvement of anti-cancer treatment efficacy. These findings have wide-ranging societal implications, as this understanding may lead to changes in cancer treatment strategies.'
+
+
+UI  -  31455183
+TI  -  Toward a unified theory of aging and regeneration.
+AB  -  b'Growing evidence supports the antagonistic pleiotropy theory of mammalian aging. Accordingly, changes in gene expression following the pluripotency transition, and subsequent transitions such as the embryonic-fetal transition, while providing tumor suppressive and antiviral survival benefits also result in a loss of regenerative potential leading to age-related fibrosis and degenerative diseases. However, reprogramming somatic cells to pluripotency demonstrates the possibility of restoring telomerase and embryonic regeneration pathways and thus reversing the age-related decline in regenerative capacity. A unified model of aging and loss of regenerative potential is emerging that may ultimately be translated into new therapeutic approaches for establishing induced tissue regeneration and modulation of the embryo-onco phenotype of cancer.'
+
+
+UI  -  12724736
+TI  -  Photodynamic therapy for cancer.
+AB  -  b'The therapeutic properties of light have been known for thousands of years, but it was only in the last century that photodynamic therapy (PDT) was developed. At present, PDT is being tested in the clinic for use in oncology--to treat cancers of the head and neck, brain, lung, pancreas, intraperitoneal cavity, breast, prostate and skin. How does PDT work, and how can it be used to treat cancer and other diseases?'
+
+
+UI  -  17476343
+TI  -  Immune surveillance of tumors.
+AB  -  b'The ability of the immune system to identify and destroy nascent tumors, and to thereby function as a primary defense against cancer, has been debated for many decades. Recent findings by a number of investigators in both mouse models of cancer and humans with cancer now offer compelling evidence that particular immune cell types, effector molecules, and pathways can sometimes collectively function as extrinsic tumor suppressor mechanisms. This work provides the basis for further study of natural immunity to cancer and for rational use of this information in the design of immunotherapies in combination with other conventional cancer treatments.'
+
+
+UI  -  21858793
+TI  -  Oncologic emergencies: Pathophysiology, presentation, diagnosis, and treatment.
+AB  -  b"Oncologic emergencies can occur at any time during the course of a malignancy, from the presenting symptom to end-stage disease. Although some of these conditions are related to cancer therapy, they are by no means confined to the period of initial diagnosis and active treatment. In the setting of recurrent malignancy, these events can occur years after the surveillance of a cancer patient has been appropriately transferred from a medical oncologist to a primary care provider. As such, awareness of a patient's cancer history and its possible complications forms an important part of any clinician's knowledge base. Prompt identification of and intervention in these emergencies can prolong survival and improve quality of life, even in the setting of terminal illness. This article reviews hypercalcemia, hyponatremia, hypoglycemia, tumor lysis syndrome, cardiac tamponade, superior vena cava syndrome, neutropenic fever, spinal cord compression, increased intracranial pressure, seizures, hyperviscosity syndrome, leukostasis, and airway obstruction in patients with malignancies. Chemotherapeutic emergencies are also addressed."
+
+
+UI  -  28741506
+TI  -  SASP: Tumor Suppressor or Promoter? Yes!
+AB  -  b'Cellular senescence is a permanent growth arrest in cells with damage or stress that could lead to transformation. Some tumor cells also undergo senescence in response to chemotherapy. Senescent cells secrete cytokines and other factors of the senescence-associated secretory phenotype (SASP) that contribute to tumor suppression by enforcing arrest and recruiting immune cells that remove these damaged or oncogene-expressing cells from organisms. However, some cells can develop a SASP comprising factors that are immunosuppressive and protumorigenic by paracrine mechanisms. Likewise, the SASP in treated cancers can either contribute to durable responses or drive relapse. Here, we discuss the studies that have demonstrated a complex and often conflicting role for the SASP in tumorigenesis and treatment response.'
+
+
+UI  -  31014516
+TI  -  Matrix metalloproteinases participation in the metastatic process and their diagnostic and therapeutic applications in cancer.
+AB  -  b'Matrix metalloproteinases (MMPs) participate from the initial phases of cancer onset to the settlement of a metastatic niche in a second organ. Their role in cancer progression is related to their involvement in the extracellular matrix (ECM) degradation and in the regulation and processing of adhesion and cytoskeletal proteins, growth factors, chemokines and cytokines. MMPs participation in cancer progression makes them an attractive target for cancer therapy. MMPs have also been used for theranostic purposes in the detection of primary tumor and metastatic tissue in which a particular MMP is overexpressed, to follow up on therapy responses, and in the activation of cancer cytotoxic pro-drugs as part of nano-delivery-systems that increase drug concentration in a specific tumor target. Herein, we review MMPs molecular characteristics, their synthesis regulation and enzymatic activity, their participation in the metastatic process, and how their functions have been used to improve cancer treatment.'
+
+
+UI  -  27890287
+TI  -  Rabbit Oncology: Diseases, Diagnostics, and Therapeutics.
+AB  -  b'Neoplasia has long been reported as a rare finding in rabbits, but over the past decades the number of reports on neoplastic disease in rabbits has risen considerably. Similar to other animals, neoplastic changes may occur in any organ system, but the rate in which the organ systems are affected differs considerably. In rabbits, tumors have predominantly been found in the urogenital, hemolymphatic, and integumentary systems. This article discusses current insights on the etiopathogenesis, clinical signs, diagnosis, and treatment of the commonest neoplastic diseases in rabbits and offer guidelines for the correct diagnosis and treatment of the rabbit oncologic patient.'
+
+
+UI  -  28779867
+TI  -  Neurological Complications of Childhood Cancer.
+AB  -  b'Though the treatment of pediatric cancers has come a long way, acute and chronic effects of cancer are still affecting the life of many children. These effects may be caused not only by the malignancy itself but also by the interventions used for the purpose of treatment. This article focuses primarily on the indirect effects of pediatric cancers and their treatment on the central and peripheral nervous system. Chemotherapy, radiation, and stem cell transplantation cause an immune-compromised state and place the patient at risk of infection, the leading cause of mortality in pediatric cancer. The underlying cancer and the treatments also cause neurovascular changes that may lead to neurological sequelae immediately or many years in the future. Chemotherapy and radiation have both immediate and long-term neurotoxic effects on the central and peripheral nervous system. Cancers may also trigger an immune response that damages nervous system components, leading to altered mental status, seizures, abnormal movements, and even psychosis. Knowledge of these effects can help the practitioner be more vigilant for the signs and symptoms of potential neurological complications during the management of pediatric cancers.'
+
+
+UI  -  27364482
+TI  -  A fate worse than death: apoptosis as an oncogenic process.
+AB  -  b'Apoptotic cell death is widely considered a positive process that both prevents and treats cancer. Although undoubtedly having a beneficial role, paradoxically, apoptosis can also cause unwanted effects that may even promote cancer. In this Opinion article we highlight some of the ways by which apoptosis can exert oncogenic functions. We argue that fully understanding this dark side will be required to optimally engage apoptosis, thereby maximizing tumour cell kill while minimizing unwanted pro-tumorigenic effects.'
+
+
+UI  -  28782469
+TI  -  Immune Checkpoint Inhibitors: Basics and Challenges.
+AB  -  b'Cancer is one of the most deadly diseases in the modern world. The last decade has witnessed dramatic advances in cancer treatment through immunotherapy. One extremely promising means to achieve anti-cancer immunity is to block the immune checkpoint pathways - mechanisms adopted by cancer cells to disguise themselves as regular components of the human body. Many review articles have described a variety of agents that are currently under extensive clinical evaluation. However, while checkpoint blockade is universally effective against a broad spectrum of cancer types and is mostly unrestricted by the mutation status of certain genes, only a minority of patients achieve a complete response. In this review, we summarize the basic principles of immune checkpoint inhibitors in both antibody and smallmolecule forms and also discuss potential mechanisms of resistance, which may shed light on further investigation to achieve higher clinical efficacy for these inhibitors.'
+
+
+UI  -  27890288
+TI  -  Ferret Oncology: Diseases, Diagnostics, and Therapeutics.
+AB  -  b'Neoplastic disease is common in ferrets. Approximately half of all tumors diagnosed in ferrets are located in the endocrine or hemolymphatic system. Many factors may influence the choice of treatment. Medical management of adrenal tumors has a greater disease-free period compared to adrenalectomy. In ferrets with an insulinoma, no difference is seen in the mean survival time of medically and surgically treated patients. Aside from medical and surgical treatment modalities, chemotherapy and radiation therapy have also been described in ferrets in other types of tumors. The outcome of these treatment modalities is not always favorable.'
+
+
+UI  -  31362690
+TI  -  Achievements in Cancer Research and its Therapeutics in Hundred Years.
+AB  -  b'Cancer research has progressed leaps and bounds over the years. This review is a brief overview of the cancer research, milestone achievements and therapeutic studies on it over the one hundred ten years which would give us an insight into how far we have come to understand and combat this fatal disease leading to millions of deaths worldwide. Modern biology has proved that cancer is a very complex disease as still we do not know precisely how it triggers. It involves several factors such as protooncogene, oncogene, kinase, tumor suppressor gene, growth factor, signalling cascade, micro RNA, immunity, environmental factors and carcinogens. However, modern technology now helps the cancer patient on the basis of acquired and established knowledge in the last hundred years to save human lives.'
+
+
+UI  -  25993239
+TI  -  Clonal evolution models of tumor heterogeneity.
+AB  -  b'Somatic/clonal evolution is the process of sequential acquisition of vertically transmittable genetic/epigenetic elements in multicellular organisms. Cancer is the result of somatic evolution. Understanding the processes that shape the evolution of individual tumors might help us to treat cancer more efficiently. The initiating genetic/epigenetic events occur in functional cells and provide the cell of origin a selective advantage under a changing environment. The initiating genetic events tend to be enriched in specific tissues (and are sometimes specific for those tissues), as different tissues undergo different changes in the environment that will activate selective forces on different cells of origin. For the initial clonal expansion to occur premalignant clones need to have a relative fitness advantage over their competitors. It is estimated that the premalignant phase can take several years. Once the premalignant clonal expansion is established, the premalignant cells will contribute to the changing environment and will start competing among themselves. In late stages of cancer evolution the environmental changes might be similar across different tissues, including a lack of physical space, a shortage of energy, and activation of the immune system, and more and more of the hallmarks of cancer will evolve. In this review we will explore the possible clinical relevance of the heterogeneity that evolves during this long somatic evolution. Above all, it should be stressed that the earlier the clonal expansion is recognized, the less diverse and less fit for survival the cells in the population are. '
+
+
+UI  -  31099667
+TI  -  Novel Therapeutics Affecting Metabolic Pathways.
+AB  -  b'Cancer cells are known to have distinct metabolic characteristics compared with normal cells, given the catabolic and anabolic demands of increased cell growth and proliferation. This altered metabolism in cancer cells imbues differential dependencies, and substantial effort has been invested in developing therapeutic strategies to exploit these potential vulnerabilities. Parallel to these efforts has been a growing appreciation for the presence of notable intratumoral metabolic heterogeneity. Although many novel agents are showing some promising results in targeting specific metabolic processes, the challenge moving forward will be to develop combination strategies to address the aforementioned metabolic heterogeneity and its interplay with both epigenetic and immune factors in the tumor microenvironment. In this review, we discuss recent developments in targeting tumor catabolism, lipid biosynthesis, glycolysis, and the citric acid cycle as well as efforts to combine these approaches with immunotherapy.'
+
+
+UI  -  30241109
+TI  -  European Academy of Cancer Sciences - position paper.
+AB  -  b'The European Academy of Cancer Sciences (EACS) is an independent advisory body of well-recognised medical specialists and researchers striving to create a compelling interactive continuum of cancer research, from innovative basic research to implementation of state-of-the-art evidence-based cancer care and prevention. Achieving the above will entail bridging high-quality basic and preclinical cancer research to research on prevention, early detection and therapeutics as well as improving coordination of translational research efforts across Europe. The latter is expected to be expedited through quality assuring translational cancer research in Comprehensive Cancer Centres - entities that link research with the healthcare system - and networks of cancer research centres. Achieving a critical mass of expertise, resources and patients is crucial. Improving late translational research, which involves clinical studies to assess effectiveness, and added value for the health care is also a high priority. Both high-quality Big Data collections and the intelligent use of these data will promote innovation in cancer research and support outcomes research to assess clinical utility, quality of cancer care and long-term follow-up of treated patients. The EACS supports the mission-oriented approach recently proposed by the European Commission in Horizon Europe to deal with major challenges and would like to persuade the EU and its member states to formally launch a mission in cancer to boost and streamline the cancer research continuum in Europe. Building a coherent translational cancer research continuum with a focus on patients and individuals at risk will require, however, foresight as well as the extensive and continuous provision of evidence-based advice to inform policy.'
+
+
