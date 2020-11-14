@@ -34,7 +34,7 @@ def getAbstract(content):
                 print('AB  - ', html.unescape(abstract_text), file=o)
                 print("\n", file=o)
 
-def handleMTIRequest(filename, mailId, username, password):
+def handleMTIRequest(filename, mailId, username, password, additional_args = []):
     """
     Parameters
     ----------
@@ -46,6 +46,9 @@ def handleMTIRequest(filename, mailId, username, password):
         username of UMLS Terminology Services
     password: str
         password of UMLS Terminology Services
+    additional_args: [str]
+        List of arguments to be passed to MTI Generic Batch Processor.
+        Send ["-h"] to see all supported flags
     [If you dont have username and password, kindly create one at 'https://uts.nlm.nih.gov//license.html']
 
     Returns
@@ -56,7 +59,9 @@ def handleMTIRequest(filename, mailId, username, password):
     GenericBatchNew = autoclass("GenericBatchNew")
     batch = GenericBatchNew()
     filepath = os.path.abspath(filename)
-    result = batch.processor(["--email", mailId ,filepath],username, password)
+    command = ["--email", mailId ,filepath]
+    command = additional_args + command
+    result = batch.processor(command, username, password)
     resultDict = {}
     for line in result.splitlines():
         resultArr = line.split("|")
@@ -68,7 +73,7 @@ def handleMTIRequest(filename, mailId, username, password):
     return resultDict
 
 if __name__ == "__main__":
-    with open("pmid-AgingMeSHT-set.txt", "r") as f:
+    with open("sample-pmid-list.txt", "r") as f:
         content= f.read().splitlines()
     
     print("STEP 1 :\t Fetching abstracts")
