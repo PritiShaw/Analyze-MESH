@@ -1,8 +1,8 @@
 # SKR WebAPI Source files
 
-Source : https://ii.nlm.nih.gov/Web_API/SKR_Web_API_V2_3.jar
+Source : [https://ii.nlm.nih.gov/Web_API/SKR_Web_API_V2_3.jar](https://ii.nlm.nih.gov/Web_API/SKR_Web_API_V2_3.jar)
 
-[Documentation](https://pritishaw.github.io/Analyze-MESH)
+[Documentation](https://pritishaw.github.io/Analyze-MESH/docs.html)
 
 To Build Source and Examples  
 `bash build.sh <path to source>`  
