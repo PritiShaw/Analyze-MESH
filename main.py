@@ -2,15 +2,13 @@ import jnius_config
 jnius_config.add_classpath("./lib/*")
 
 import os
-import sys
 import html
 from xml.etree.ElementTree import parse
 from urllib.request import urlopen
 from jnius import autoclass
-import requests
 
 
-def getAbstract(content):
+def get_abstract(content):
     """
     Parameters
     ----------
@@ -38,18 +36,20 @@ def getAbstract(content):
                 print("\n", file=o)
 
 
-def handleMTIRequest(filename, mailId, additional_args=[], username=None, password=None, apikey=None):
+def handle_mti_request(filename, mail_id, additional_args=[], username=None, password=None, apikey=None):
     """
     Parameters
     ----------
     filename: str
         Path to input file containing abstracts
-    mailId: str
+    mail_id: str
         Registered Email Id
     username: str
         username of UMLS Terminology Services
     password: str
         password of UMLS Terminology Services
+    apikey: str
+        apikey of UMLS Terminology Services
     additional_args: [str]
         List of arguments to be passed to MTI Generic Batch Processor.
         Send ["-h"] to see all supported flags
@@ -57,13 +57,13 @@ def handleMTIRequest(filename, mailId, additional_args=[], username=None, passwo
 
     Returns
     ------
-    resultDict: Dictionary 
+    result_dict: Dictionary 
         Dictionary containing MESH terms
     """
     GenericBatchNew = autoclass("GenericBatchNew")
     batch = GenericBatchNew()
     filepath = os.path.abspath(filename)
-    command = ["--email", mailId, filepath]
+    command = ["--email", mail_id, filepath]
     command = additional_args + command
 
     if apikey:
@@ -71,15 +71,15 @@ def handleMTIRequest(filename, mailId, additional_args=[], username=None, passwo
     else:
         result = batch.processor(command, username, password)
 
-    resultDict = {}
+    result_dict = {}
     for line in result.splitlines():
-        resultArr = line.split("|")
-        pmid = resultArr[0]
-        if pmid in resultDict:
-            resultDict[pmid].append(resultArr[1:])
+        result_arr = line.split("|")
+        pmid = result_arr[0]
+        if pmid in result_dict:
+            result_dict[pmid].append(result_arr[1:])
         else:
-            resultDict[pmid] = [resultArr[1:]]
-    return resultDict
+            result_dict[pmid] = [result_arr[1:]]
+    return result_dict
 
 
 if __name__ == "__main__":
@@ -87,14 +87,14 @@ if __name__ == "__main__":
         content = f.read().splitlines()
 
     print("STEP 1 :\t Fetching abstracts")
-    getAbstract(content)
+    get_abstract(content)
     print("STEP 1 :\t Complete")
-    email = "Enter_EmailID"
-    userName = "Enter_Username"
+    email = "Enter_Email_id"
+    username = "Enter_username"
     password = "Enter_Password"
 
     print("STEP 2 :\t Send abstracts to MTI")
-    result = handleMTIRequest('.abstract.txt', email, userName, password)
+    result = handle_mti_request('.abstract.txt', email, username, password)
     print("STEP 2 :\t Response received, printing results")
     print(result)
     print("STEP 2 :\t Complete")

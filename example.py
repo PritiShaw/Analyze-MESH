@@ -1,10 +1,10 @@
 from argparse import ArgumentParser
 import getpass
-from main import handleMTIRequest
+from main import handle_mti_request
 
 
 def remove_non_ascii(filepath, temp_file):
-    # MTI cannot handle non-ascii charachters hence those charachters needs to be removed/replaced
+    # MTI cannot handle non-ascii characters hence those characters needs to be removed/replaced
     uc = open(filepath)
     op = open(temp_file, "w+")
 
@@ -19,14 +19,16 @@ def remove_non_ascii(filepath, temp_file):
     uc.close()
     op.close()
 
-def getInput(msg, err = "Please enter valid input"):
+
+def get_input(msg, err="Please enter valid input"):
     res = ""
     while True:
         res = getpass.getpass(msg)
-        if len(res)>0:
+        if len(res) > 0:
             return res
         else:
             print(err)
+
 
 if __name__ == '__main__':
     parser = ArgumentParser()
@@ -45,12 +47,12 @@ if __name__ == '__main__':
     remove_non_ascii(args.file, temp_file)
 
     if args.user:
-        password = getInput("Enter MTI password > ", "Please Enter valid Password")
-        processed_result = handleMTIRequest(
+        password = get_input("Enter MTI password > ", "Please Enter valid Password")
+        processed_result = handle_mti_request(
             temp_file, args.email, ["--singleLinePMID"], username=args.user, password=password)
     else:
-        apikey = getInput("Enter MTI APIKey > ", "Please Enter valid API-Key")
-        processed_result = handleMTIRequest(
+        apikey = get_input("Enter MTI APIKey > ", "Please Enter valid API-Key")
+        processed_result = handle_mti_request(
             temp_file, args.email, ["--singleLinePMID"], apikey=apikey)
 
     # processed_result is a Dictionary
