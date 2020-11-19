@@ -1,1 +1,4 @@
 .abstract.txt
+__pycache__/
+.tmp_mti_process_non_ascii.txt
+result.tsv
