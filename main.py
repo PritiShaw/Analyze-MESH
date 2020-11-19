@@ -90,11 +90,10 @@ if __name__ == "__main__":
     get_abstract(content)
     print("STEP 1 :\t Complete")
     email = "Enter_Email_id"
-    username = "Enter_username"
-    password = "Enter_Password"
+    apikey = "Enter_apikey"
 
     print("STEP 2 :\t Send abstracts to MTI")
-    result = handle_mti_request('.abstract.txt', email, username, password)
+    result = handle_mti_request('.abstract.txt', email, apikey)
     print("STEP 2 :\t Response received, printing results")
     print(result)
     print("STEP 2 :\t Complete")
